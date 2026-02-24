@@ -13,7 +13,6 @@ inelig_flg: X
 debar_from_date: '2025-06-12'
 debar_to_date: '2027-04-21'
 debar_reason: 'Cross Debarment: EBRD'
-add_supp_info: 北京天嘉建筑工程有限公司
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

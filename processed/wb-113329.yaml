@@ -11,7 +11,6 @@ inelig_flg: D
 debar_from_date: '2000-02-24'
 debar_to_date: '2999-12-31'
 debar_reason: Procurement Guidelines 1.15(a)(i) & (ii)
-add_supp_info: "*167"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
