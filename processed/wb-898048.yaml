@@ -13,7 +13,7 @@ inelig_flg: D
 debar_from_date: '2024-09-22'
 debar_to_date: '2027-06-21'
 debar_reason: Corrupt Practices
-add_supp_info: "*670"
+add_supp_info: "*671"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

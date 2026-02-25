@@ -13,6 +13,7 @@ inelig_flg: X
 debar_from_date: '2023-05-01'
 debar_to_date: '2026-03-30'
 debar_reason: 'Cross Debarment: IDB'
+add_supp_info: "(f.k.a [Shaanxi Neoplan Trading Co., Ltd.])"
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
