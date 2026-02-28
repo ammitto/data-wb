@@ -14,6 +14,7 @@ inelig_flg: X
 debar_from_date: '2024-08-22'
 debar_to_date: '2027-07-22'
 debar_reason: 'Cross Debarment: ADB'
+add_supp_info: 河北兴玺企业管理有限公司
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
