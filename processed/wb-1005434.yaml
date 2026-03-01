@@ -13,6 +13,7 @@ inelig_flg: X
 debar_from_date: '2025-08-19'
 debar_to_date: '2029-02-24'
 debar_reason: 'Cross Debarment: ADB'
+add_supp_info: 黄永翔, 北京市朝阳区周家庄村 104 号
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

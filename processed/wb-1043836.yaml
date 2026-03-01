@@ -13,6 +13,7 @@ inelig_flg: X
 debar_from_date: '2025-12-08'
 debar_to_date: '2031-04-25'
 debar_reason: 'Cross Debarment: ADB'
+add_supp_info: Джамшед Шарифов
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

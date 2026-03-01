@@ -14,7 +14,6 @@ debar_type: O
 debar_from_date: '2016-10-21'
 debar_to_date: '2999-12-31'
 debar_reason: 'Cross-Debarment:  ADB'
-add_supp_info: "(AKA M/S SUNAULA KHIMTI)"
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
