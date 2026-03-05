@@ -12,7 +12,7 @@ debar_type: O
 debar_from_date: '2010-04-01'
 debar_to_date: '2999-12-31'
 debar_reason: Sanctions Procedures 9.04(a)
-add_supp_info: "*101"
+add_supp_info: "*68"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
