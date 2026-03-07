@@ -14,7 +14,7 @@ debar_type: O
 debar_from_date: '2025-12-05'
 debar_to_date: '2027-09-04'
 debar_reason: Fraudulent Practice
-add_supp_info: "*702"
+add_supp_info: "*705"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
