@@ -14,8 +14,7 @@ inelig_flg: D
 debar_from_date: '2020-06-23'
 debar_to_date: '2027-06-22'
 debar_reason: Controlled Affiliate of a Sanctioned Entity.
-add_supp_info: "(also doing business as LAXMI NARAYAN CONSTRUCTION and LAXMINARAYAN
-  MALLICK) *187"
+add_supp_info: "*629"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

@@ -13,6 +13,7 @@ inelig_flg: X
 debar_from_date: '2022-11-08'
 debar_to_date: '2028-07-13'
 debar_reason: 'Cross Debarment: ADB'
+add_supp_info: "(Reg No. 16-00009045/4516/(F/1))"
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

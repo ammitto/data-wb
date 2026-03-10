@@ -13,7 +13,7 @@ inelig_flg: D
 debar_from_date: '2024-10-30'
 debar_to_date: '2028-02-28'
 debar_reason: Fraudulent Practices
-add_supp_info: "*667"
+add_supp_info: "*672"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
