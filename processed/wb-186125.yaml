@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 186125
 supp_name: SAMAJIK SANGHA (SS)
 supp_type_code: F
+entity_type: organization
 land1: BD
 country_name: Bangladesh
 supp_city: DHAKA-1209

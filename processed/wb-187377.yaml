@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 187377
 supp_name: MR. SEALTIEL OROZCO
 supp_type_code: I
+entity_type: person
 land1: NI
 country_name: Nicaragua
 supp_addr: CENTRO COMERCIAL SAN FRANCISCO MODULO H-4, MANAGUA, NICARAGUA

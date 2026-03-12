@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 3000
 supp_name: ALPHA CONSULTING & TRAINING
 supp_type_code: F
+entity_type: organization
 land1: BF
 country_name: Burkina Faso
 legacy_flg: N

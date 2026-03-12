@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 318949
 supp_name: M/S. JANATA TRADERS
 supp_type_code: F
+entity_type: organization
 land1: BD
 country_name: Bangladesh
 supp_city: DHAKA-1215

@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 329740
 supp_name: AKIN PROJECT LLC
 supp_type_code: F
+entity_type: organization
 land1: AZ
 country_name: Azerbaijan
 supp_city: BAKU

@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 1032824
 supp_name: MD. HARUN UR RASHID
 supp_type_code: I
+entity_type: person
 land1: BD
 country_name: Bangladesh
 supp_city: RAJSHAHI-6000

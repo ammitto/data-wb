@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 874790
 supp_name: PT EWACO BUMI MAMIRI
 supp_type_code: F
+entity_type: organization
 land1: ID
 country_name: Indonesia
 supp_city: PROVINSI JAWA TENGAH
@@ -13,7 +14,8 @@ inelig_flg: D
 debar_from_date: '2024-07-09'
 debar_to_date: '2029-12-08'
 debar_reason: Controlled Affiliate of a Sanctioned Entity
-add_supp_info: "*674"
+add_supp_info: "*668 Physical Address: Jln. Raya Kedungmundu C28, Semarang, Provinsi
+  Jawa Tengah, Indonesia"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

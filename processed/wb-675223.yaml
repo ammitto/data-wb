@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 675223
 supp_name: CHEZ AVIV NIGERIA LIMITED
 supp_type_code: F
+entity_type: organization
 land1: NG
 country_name: Nigeria
 supp_city: ENUGU, ENUGU STATE
@@ -13,7 +14,7 @@ inelig_flg: D
 debar_from_date: '2022-10-04'
 debar_to_date: '2031-10-03'
 debar_reason: Fraudulent and Corrupt Practices
-add_supp_info: "*661"
+add_supp_info: "*620"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

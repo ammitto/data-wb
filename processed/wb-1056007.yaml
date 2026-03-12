@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 1056007
 supp_name: YESSAN SARLU
 supp_type_code: F
+entity_type: organization
 land1: TG
 country_name: Togo
 supp_city: ATAKPAMÉ

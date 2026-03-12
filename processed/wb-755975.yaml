@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 755975
 supp_name: TODINI COSTRUZIONI GENERALI S.P.A.
 supp_type_code: F
+entity_type: organization
 land1: IT
 country_name: Italy
 supp_city: ROME

@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 336546
 supp_name: PROYECTOS DIVERSOS INTEGRADOS SA DE CV (PRODIEL)
 supp_type_code: F
+entity_type: organization
 land1: SV
 country_name: El Salvador
 supp_city: SAN SALVADOR

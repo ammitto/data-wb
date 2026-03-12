@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 83317
 supp_name: SEYDOU IDANI
 supp_type_code: I
+entity_type: person
 land1: BF
 country_name: Burkina Faso
 legacy_flg: N

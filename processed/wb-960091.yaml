@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 960091
 supp_name: GANDINES SOCIEDAD ANONIMA
 supp_type_code: F
+entity_type: organization
 land1: UY
 country_name: Uruguay
 supp_city: MONTEVIDEO

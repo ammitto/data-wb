@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 704198
 supp_name: SARUUL OCH LLC
 supp_type_code: F
+entity_type: organization
 land1: MN
 country_name: Mongolia
 supp_city: ULAANBAATAR
@@ -13,7 +14,6 @@ inelig_flg: X
 debar_from_date: '2022-10-25'
 debar_to_date: '2026-07-24'
 debar_reason: 'Cross Debarment: EBRD'
-add_supp_info: "(Reg No. 16-00009045/4516/(F/1))"
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

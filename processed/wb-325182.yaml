@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 325182
 supp_name: INPRECO INGENIERIA PREFABRICADOS Y CONSTRUCCION
 supp_type_code: F
+entity_type: organization
 land1: GT
 country_name: Guatemala
 supp_city: QUETZALTENANGO

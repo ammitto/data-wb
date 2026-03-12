@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 888206
 supp_name: HEBEI CONSTRUCTION GROUP CORPORATION LIMITED LIAOCHENG BRANCH
 supp_type_code: F
+entity_type: organization
 land1: CN
 country_name: China
 supp_city: LIAOCHENG CITY, SHANDONG PROVINCE

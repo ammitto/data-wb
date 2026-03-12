@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 508856
 supp_name: CESA TECNOLOGÍA DE EL SALVADOR S.A.
 supp_type_code: F
+entity_type: organization
 land1: SV
 country_name: El Salvador
 supp_city: SAN SALVADOR

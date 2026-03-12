@@ -1,0 +1,20 @@
+{
+  "id": "https://www.ammitto.org/entity/wb/703446",
+  "entity_type": "organization",
+  "names": [
+    {
+      "full_name": "DAGI LLC",
+      "is_primary": true
+    }
+  ],
+  "remarks": "(also d/b/a Ltd Dagi) *516",
+  "addresses": [
+    {
+      "street": "NO. 29 MITSKEVICHI STREET",
+      "city": "TBILISI 0194",
+      "country": "Georgia",
+      "country_iso_code": "GE"
+    }
+  ],
+  "@context": "https://www.ammitto.org/ontology/context.jsonld"
+}

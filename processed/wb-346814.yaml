@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 346814
 supp_name: NATIONAL ALIMENTATION SERVICES
 supp_type_code: F
+entity_type: organization
 land1: HT
 country_name: Haiti
 supp_city: PORT-AU-PRINCE

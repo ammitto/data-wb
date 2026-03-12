@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 113331
 supp_name: PENMACS CORPORATION
 supp_type_code: F
+entity_type: organization
 land1: JP
 country_name: Japan
 supp_city: YOKOHAMA

@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 960094
 supp_name: OAS NACALA LIMITADA
 supp_type_code: F
+entity_type: organization
 land1: MZ
 country_name: Mozambique
 supp_city: NACALA-PORTO

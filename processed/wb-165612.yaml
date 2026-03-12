@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 165612
 supp_name: VRATSA INVEST GROUP OOD
 supp_type_code: F
+entity_type: organization
 land1: BG
 country_name: Bulgaria
 supp_addr: 13B, LOUKASHOV STREET, 3000 VRATSA

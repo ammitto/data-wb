@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 319320
 supp_name: XINJINZHU MUNICIPAL LANDSCAPING ENGINEERING CO., LTD.
 supp_type_code: F
+entity_type: organization
 land1: CN
 country_name: China
 supp_city: ZHENGZHOU, HENAN PROVINCE, 450002

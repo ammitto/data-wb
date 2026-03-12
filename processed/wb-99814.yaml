@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 99814
 supp_name: CLOSED JOINT STOCK CO "SHARORA"
 supp_type_code: F
+entity_type: organization
 land1: TJ
 country_name: Tajikistan
 supp_city: SHARORA DISTRICT

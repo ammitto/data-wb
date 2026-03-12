@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 326155
 supp_name: MR. NGO DUNG TOAN
 supp_type_code: I
+entity_type: person
 land1: VN
 country_name: Viet Nam
 supp_city: HÀ NAM

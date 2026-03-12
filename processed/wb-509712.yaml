@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 509712
 supp_name: SPEEDTECH ENERGY CO., LTD.
 supp_type_code: F
+entity_type: organization
 land1: TW
 country_name: Taiwan, China
 supp_city: TAOYUANY HSIEN 33393

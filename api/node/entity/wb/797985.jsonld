@@ -1,0 +1,20 @@
+{
+  "id": "https://www.ammitto.org/entity/wb/797985",
+  "entity_type": "organization",
+  "names": [
+    {
+      "full_name": "TAI PO SGCC ROAD ANTONG PROJECT MANAGEMENT CO., LTD.",
+      "is_primary": true
+    }
+  ],
+  "remarks": "(大埔新交建路安通项目管理有限公司)(91441422MA547MD19W)*647",
+  "addresses": [
+    {
+      "street": "BAIHOU MOUNTAIN VILLA, BAIHOU TOWN, DAPU COUNTY, MEIZHOU",
+      "city": "GUANGDONG",
+      "country": "China",
+      "country_iso_code": "CN"
+    }
+  ],
+  "@context": "https://www.ammitto.org/ontology/context.jsonld"
+}

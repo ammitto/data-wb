@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 515385
 supp_name: VN1 INDUSTRIAL GROUP JSC
 supp_type_code: F
+entity_type: organization
 land1: VN
 country_name: Viet Nam
 supp_city: HONG LINH, HA TINH PROVINCE

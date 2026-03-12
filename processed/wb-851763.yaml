@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 851763
 supp_name: FERGANA RASHONA GOLD
 supp_type_code: F
+entity_type: organization
 land1: UZ
 country_name: Uzbekistan
 supp_city: FERGANA REGION
@@ -14,8 +15,7 @@ debar_type: O
 debar_from_date: '2019-07-08'
 debar_to_date: '2999-12-31'
 debar_reason: Controlled Affiliate of a Sanctioned Individual
-add_supp_info: "(formerly known as LOTTE DATA COMMUNICATIONS COMPANY LIMITED) *623
-  (Reg. No. 110111-6557114)"
+add_supp_info: "(TIN No. 302163491) *489"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 960079
 supp_name: CONSTRUTORA OAS LLC (QATAR)
 supp_type_code: F
+entity_type: organization
 land1: QA
 country_name: Qatar
 supp_city: DOHA

@@ -1,0 +1,10 @@
+{
+  "id": "https://www.ammitto.org/entity/wb/unknown",
+  "entity_type": "organization",
+  "names": [
+    {
+      "is_primary": true
+    }
+  ],
+  "@context": "https://www.ammitto.org/ontology/context.jsonld"
+}

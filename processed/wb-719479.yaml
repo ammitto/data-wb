@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 719479
 supp_name: MS. TRAN THI HOAN
 supp_type_code: I
+entity_type: person
 land1: VN
 country_name: Viet Nam
 supp_city: HANOI
@@ -14,7 +15,7 @@ debar_type: O
 debar_from_date: '2023-04-12'
 debar_to_date: '2999-12-31'
 debar_reason: Corrupt/Collusive Practices
-add_supp_info: "*643"
+add_supp_info: "*630"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

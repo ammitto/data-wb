@@ -1,0 +1,26 @@
+{
+  "id": "https://www.ammitto.org/entry/wb/debarment-list/unknown",
+  "entity_id": "https://www.ammitto.org/entity/wb/unknown",
+  "authority": {
+    "@id": "https://www.ammitto.org/authority/wb"
+  },
+  "regime": {
+    "@id": "https://www.ammitto.org/regime/debarment"
+  },
+  "effects": [
+    {
+      "effect_type": "debarment",
+      "scope": "full",
+      "description": "Excluded from World Bank-financed contracts"
+    }
+  ],
+  "period": {
+    "is_indefinite": true
+  },
+  "status": "active",
+  "raw_source_data": {
+    "source_format": "json",
+    "source_specific_fields": {}
+  },
+  "@context": "https://www.ammitto.org/ontology/context.jsonld"
+}

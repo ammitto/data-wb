@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 321260
 supp_name: MS. TUMENDEMBEREL BAYARMAA
 supp_type_code: I
+entity_type: person
 land1: MN
 country_name: Mongolia
 supp_city: ULANBATAAR

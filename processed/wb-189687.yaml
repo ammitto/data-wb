@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 189687
 supp_name: MR. DMITRY GENNADYEVICH KOSTOUSOV
 supp_type_code: I
+entity_type: person
 land1: RU
 country_name: Russian Federation
 supp_city: SVERDLOVSK OBLAST

@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 898563
 supp_name: VENUS IT SOLUTIONS PRIVATE LIMITED
 supp_type_code: F
+entity_type: organization
 land1: IN
 country_name: India
 supp_city: KOLKATA, 700091
@@ -14,7 +15,7 @@ debar_type: O
 debar_from_date: '2024-09-24'
 debar_to_date: '2999-12-31'
 debar_reason: Collusive Practice
-add_supp_info: "*664"
+add_supp_info: "*672"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

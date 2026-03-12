@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 467487
 supp_name: PICK UP CAR AUTO PEÇAS
 supp_type_code: F
+entity_type: organization
 land1: BR
 country_name: Brazil
 supp_city: SÃO LUIS – MARANHÃO

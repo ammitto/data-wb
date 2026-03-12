@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 665565
 supp_name: LUTOYILEX CONSTRUCT LIMITED
 supp_type_code: F
+entity_type: organization
 land1: NG
 country_name: Nigeria
 supp_city: FCT-ABUJA

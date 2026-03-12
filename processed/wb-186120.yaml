@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 186120
 supp_name: MR. VALERI ANGELOV
 supp_type_code: I
+entity_type: person
 land1: BG
 country_name: Bulgaria
 supp_addr: 13B, LOUKASHOV STREET, 3000 VRATSA

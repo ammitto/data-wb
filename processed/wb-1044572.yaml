@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 1044572
 supp_name: FC LLC«KONTROLMATIK TECHNOLOGIES ORTA ASYA»
 supp_type_code: F
+entity_type: organization
 land1: UZ
 country_name: Uzbekistan
 supp_city: TASHKENT
@@ -14,7 +15,7 @@ inelig_flg: D
 debar_from_date: '2025-12-10'
 debar_to_date: '2026-12-09'
 debar_reason: Controlled Affiliate of a Sanctioned Entity.
-add_supp_info: "(Reg. No: 0733112789700001) *706"
+add_supp_info: "(Reg. No: 308233130) *706"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

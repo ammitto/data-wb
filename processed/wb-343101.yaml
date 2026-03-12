@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 343101
 supp_name: P-SQUARE ASSOCIATES, CO.
 supp_type_code: F
+entity_type: organization
 land1: PH
 country_name: Philippines
 supp_city: CAINTA RIZAL

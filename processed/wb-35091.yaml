@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 35091
 supp_name: UNITED BASEL LTD.
 supp_type_code: F
+entity_type: organization
 land1: GB
 country_name: United Kingdom
 supp_city: ISLE OF MAN

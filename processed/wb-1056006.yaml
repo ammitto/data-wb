@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 1056006
 supp_name: M. BOUBACAR BAH
 supp_type_code: I
+entity_type: person
 land1: ML
 country_name: Mali
 supp_city: BAMAKO

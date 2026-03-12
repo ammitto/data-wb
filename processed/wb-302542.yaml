@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 302542
 supp_name: MR. HAO ZHIYONG
 supp_type_code: I
+entity_type: person
 land1: UZ
 country_name: Uzbekistan
 supp_city: TASHKENT 100015 MIRABAD DISTRICT

@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 193340
 supp_name: LAO-ASIE CONSULTANTS GROUP
 supp_type_code: F
+entity_type: organization
 land1: LA
 country_name: Lao People's Democratic Republic
 supp_city: VIENTIANE CAPITAL

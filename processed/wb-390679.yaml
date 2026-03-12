@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 390679
 supp_name: MS. DULCE MARÍA QUINTANILLA GRANADOS
 supp_type_code: I
+entity_type: person
 land1: NI
 country_name: Nicaragua
 supp_city: "(Z1Q-10), MANAGUA"

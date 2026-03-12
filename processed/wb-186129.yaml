@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 186129
 supp_name: HUMAN RESOURCES DEVELOPMENT ORGANIZATION (HURDO)
 supp_type_code: F
+entity_type: organization
 land1: BD
 country_name: Bangladesh
 supp_addr: 'LAST KNOWN ADDRESS: #68/A, ROAD #9/A, DHANMONDI R/A, DHAKA-1209'

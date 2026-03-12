@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 988770
 supp_name: SRS DESIGN & FASHION LTD.
 supp_type_code: F
+entity_type: organization
 supp_pre_acrn: M/S
 land1: BD
 country_name: Bangladesh
@@ -15,7 +16,7 @@ debar_type: O
 debar_from_date: '2025-12-05'
 debar_to_date: '2031-08-04'
 debar_reason: Fraudulent and Obstructive Practices
-add_supp_info: "(Reg. No. 202332681G)"
+add_supp_info: "*704"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

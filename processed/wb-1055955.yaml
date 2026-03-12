@@ -4,6 +4,7 @@ supp_id: 1055955
 supp_name: SOCIÉTÉ MALIENNE DE CONSTRUCTION, DE TRANSPORT ET D'HYDROCARBURE (SOMACOTH
   SA)
 supp_type_code: F
+entity_type: organization
 land1: ML
 country_name: Mali
 supp_city: BAMAKO

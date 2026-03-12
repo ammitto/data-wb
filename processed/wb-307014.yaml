@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 307014
 supp_name: MR. YUSRI YUSUF
 supp_type_code: I
+entity_type: person
 land1: ID
 country_name: Indonesia
 supp_city: KECAMATAN SYIAH KUALA BANDA ACEH 23115

@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 198425
 supp_name: MR. MOUSA MAHDI MAKAWI
 supp_type_code: I
+entity_type: person
 land1: IQ
 country_name: Iraq
 supp_city: BAGHDAD

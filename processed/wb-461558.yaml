@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 461558
 supp_name: MR. MAYOR EJIRO HASTING
 supp_type_code: I
+entity_type: person
 land1: NG
 country_name: Nigeria
 supp_city: ASABA, DELTA STATE

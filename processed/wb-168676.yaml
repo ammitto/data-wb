@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 168676
 supp_name: E.C. DE LUNA CONSTRUCTION CORP.
 supp_type_code: F
+entity_type: organization
 land1: PH
 country_name: Philippines
 legacy_flg: N

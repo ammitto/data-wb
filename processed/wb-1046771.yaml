@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 1046771
 supp_name: ERLING RASK
 supp_type_code: I
+entity_type: person
 land1: DK
 country_name: Denmark
 supp_city: KASTRUP

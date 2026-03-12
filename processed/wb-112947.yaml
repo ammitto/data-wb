@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 112947
 supp_name: LABH SINGH GILL
 supp_type_code: I
+entity_type: person
 land1: GB
 country_name: United Kingdom
 supp_city: WARWICKSHIRE

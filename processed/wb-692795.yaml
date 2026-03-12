@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 692795
 supp_name: OOO RBC CENTER
 supp_type_code: F
+entity_type: organization
 supp_pre_acrn: MR
 land1: RU
 country_name: Russian Federation

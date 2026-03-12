@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 988516
 supp_name: RELIABLE MOTOR LTD.
 supp_type_code: F
+entity_type: organization
 land1: LC
 country_name: St. Lucia
 supp_city: GRIS ISLET
@@ -13,7 +14,7 @@ inelig_flg: D
 debar_from_date: '2025-06-17'
 debar_to_date: '2026-12-16'
 debar_reason: Controlled Affiliate of a Sanctioned Entity.
-add_supp_info: "(Reg. No: 45907) *696"
+add_supp_info: "*694"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 326448
 supp_name: TIGER IT BANGLADESH LTD.
 supp_type_code: F
+entity_type: organization
 supp_pre_acrn: M/S
 land1: BD
 country_name: Bangladesh

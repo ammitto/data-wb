@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 1032823
 supp_name: M/S DON ENTERPRISE
 supp_type_code: F
+entity_type: organization
 land1: BD
 country_name: Bangladesh
 supp_city: RAJSHAHI-6000

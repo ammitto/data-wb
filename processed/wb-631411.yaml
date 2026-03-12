@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 631411
 supp_name: HARRY VILLALOBOS TEJADA
 supp_type_code: I
+entity_type: person
 land1: CO
 country_name: Colombia
 supp_city: BARRANQUILLA

@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 310476
 supp_name: MR. ALEXANDER FEDCHENKO
 supp_type_code: I
+entity_type: person
 land1: UA
 country_name: Ukraine
 supp_city: KYIV, 03005

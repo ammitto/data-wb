@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 767429
 supp_name: FANGJUN ZHANG
 supp_type_code: I
+entity_type: person
 land1: CN
 country_name: China
 supp_city: BEIJING
@@ -15,7 +16,7 @@ debar_type: O
 debar_from_date: '2019-10-04'
 debar_to_date: '2999-12-31'
 debar_reason: 'Cross Debarment: ADB'
-add_supp_info: 河北建设集团股份有限公司邯郸分公司
+add_supp_info: "(张方俊)"
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 658737
 supp_name: LOGITRANS LOGÍSTICA ENGENHARIA E TRANSPORTES LTDA.
 supp_type_code: F
+entity_type: organization
 land1: BR
 country_name: Brazil
 legacy_flg: N

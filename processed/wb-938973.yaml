@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 938973
 supp_name: URUMQI ZHENYU GLOBAL TRADING CO., LTD.
 supp_type_code: F
+entity_type: organization
 supp_post_acrn: LLC
 land1: CN
 country_name: China
@@ -15,7 +16,7 @@ debar_type: O
 debar_from_date: '2025-05-07'
 debar_to_date: '2026-11-06'
 debar_reason: Fraudulent Practices
-add_supp_info: "(Reg. No. 13-4147986)*658"
+add_supp_info: "*691"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

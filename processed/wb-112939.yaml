@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 112939
 supp_name: JAN SUNDQVIST
 supp_type_code: I
+entity_type: person
 land1: SE
 country_name: Sweden
 supp_city: STOCKHOLM

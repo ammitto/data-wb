@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 411185
 supp_name: VIETNAM WATER AND ENVIRONMENT INVESTMENT CORPORATION – JSC
 supp_type_code: F
+entity_type: organization
 land1: VN
 country_name: Viet Nam
 supp_city: HANOI

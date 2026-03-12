@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 716879
 supp_name: ISABEL PATRICIA CARRIZO
 supp_type_code: I
+entity_type: person
 land1: AR
 country_name: Argentina
 legacy_flg: N

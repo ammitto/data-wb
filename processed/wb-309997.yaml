@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 309997
 supp_name: CONSTRUCCIONES Y SERVICIOS MERUBIA
 supp_type_code: F
+entity_type: organization
 land1: BO
 country_name: Bolivia
 supp_city: SANTA CRUZ

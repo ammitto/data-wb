@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 315239
 supp_name: BMS CONSULTING LLC
 supp_type_code: F
+entity_type: organization
 land1: UA
 country_name: Ukraine
 supp_city: KYIV, 04107

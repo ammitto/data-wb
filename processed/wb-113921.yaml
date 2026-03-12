@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 113921
 supp_name: ASIA COMMUNICATIONS CO., LTD
 supp_type_code: F
+entity_type: organization
 land1: KH
 country_name: Cambodia
 supp_addr: "#51EO, ST. 366, SANGKAT TOUL SVAY, PREY I, KHAN CHAMKARMORN, CITY PHNOM

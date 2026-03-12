@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 190457
 supp_name: PT RIFA BESTARI
 supp_type_code: F
+entity_type: organization
 supp_pre_acrn: PT
 land1: ID
 country_name: Indonesia

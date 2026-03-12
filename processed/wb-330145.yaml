@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 330145
 supp_name: FLORENCIA M. SILVESTRE
 supp_type_code: I
+entity_type: person
 land1: PH
 country_name: Philippines
 supp_city: MAKATI CITY, METRO MANILA

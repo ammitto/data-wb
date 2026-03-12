@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 189239
 supp_name: MR. ROMAN NICU
 supp_type_code: I
+entity_type: person
 land1: MD
 country_name: Moldova
 supp_addr: STR. MUNCESTI, 801, CHISINAU MD-2029

@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 703446
 supp_name: DAGI LLC
 supp_type_code: F
+entity_type: organization
 land1: GE
 country_name: Georgia
 supp_city: TBILISI 0194
@@ -14,7 +15,7 @@ debar_type: O
 debar_from_date: '2020-02-06'
 debar_to_date: '2999-12-31'
 debar_reason: January 2011, revised July 2014 Proc. Guidelines Paragraph 1.16(a)(ii)
-add_supp_info: "(珠海市勤天建设工程有限公司)*632"
+add_supp_info: "(also d/b/a Ltd Dagi) *516"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

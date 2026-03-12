@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 186123
 supp_name: BITTOHIN CHASI SOMAJ KALLYAN SANGSTHA (BCSKS)
 supp_type_code: F
+entity_type: organization
 land1: BD
 country_name: Bangladesh
 supp_city: DISTRICT PABNA

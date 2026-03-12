@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 716854
 supp_name: INVERSIONES ATLANTIC S.A. DE C.V.
 supp_type_code: F
+entity_type: organization
 land1: SV
 country_name: El Salvador
 legacy_flg: N

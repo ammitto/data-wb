@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 506422
 supp_name: CASS CONSTRUCTORES S.A.S.
 supp_type_code: F
+entity_type: organization
 land1: CO
 country_name: Colombia
 supp_city: CHÍA CUNDINAMARCA

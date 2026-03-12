@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 197466
 supp_name: CONSTRUTORA RAMOS E FRANÇA LTDA
 supp_type_code: F
+entity_type: organization
 land1: BR
 country_name: Brazil
 supp_city: SANTA RITA, MARANHÃO

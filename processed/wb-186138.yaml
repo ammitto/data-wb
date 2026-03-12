@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 186138
 supp_name: AL-SAMI CO. GROUP FOR GENERAL CONTRACTS LTD.
 supp_type_code: F
+entity_type: organization
 land1: IQ
 country_name: Iraq
 supp_addr: AL-MANSOUR, 14 RAMADAN ST., BUILDING 82, BAGHDAD

@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 186116
 supp_name: ASSOCIATION MUHANDISON
 supp_type_code: F
+entity_type: organization
 land1: TJ
 country_name: Tajikistan
 supp_addr: C/O MR. NASRIDDIN NASIMOV, NEMAT KORABOEV STREET, BLD-15, APT-1, DUSHANBE

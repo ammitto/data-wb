@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 112840
 supp_name: AGRIC-CANADA
 supp_type_code: F
+entity_type: organization
 land1: GB
 country_name: United Kingdom
 legacy_flg: N

@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 357380
 supp_name: ALAM & SONS GOVERNMENT CONTRACTOR & GENERAL ORDER SUPPLIER
 supp_type_code: F
+entity_type: organization
 land1: PK
 country_name: Pakistan
 supp_city: BALOCHISTAN

@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 324856
 supp_name: HUNAN CONSTRUCTION GROUP CO., LTD.
 supp_type_code: F
+entity_type: organization
 land1: CN
 country_name: China
 supp_city: HUNAN

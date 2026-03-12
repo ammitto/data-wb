@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 1046193
 supp_name: SUU JSC
 supp_type_code: F
+entity_type: organization
 land1: MN
 country_name: Mongolia
 supp_city: ULAANBAATAR 18072

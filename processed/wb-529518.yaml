@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 529518
 supp_name: PT. KARYA KITA PUTRA PERTIWI
 supp_type_code: F
+entity_type: organization
 land1: ID
 country_name: Indonesia
 supp_city: CIREBON 45161

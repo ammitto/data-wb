@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 716877
 supp_name: GESAWORLD CHILE LIMITADA
 supp_type_code: F
+entity_type: organization
 land1: CL
 country_name: Chile
 legacy_flg: N

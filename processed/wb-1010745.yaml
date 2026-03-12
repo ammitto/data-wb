@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 1010745
 supp_name: EFACEC ARABIA CO., LTD.
 supp_type_code: F
+entity_type: organization
 land1: SA
 country_name: Saudi Arabia
 supp_city: RIYADH
@@ -14,8 +15,7 @@ debar_type: O
 debar_from_date: '2025-09-04'
 debar_to_date: '2999-12-31'
 debar_reason: Controlled Affiliate of a Sanctioned Entity
-add_supp_info: "(now known as Taihan Ocean Works Co., Ltd.) (Registration Number 617-81-73197)
-  *658"
+add_supp_info: "(Unified Number 7037412538)  *525"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

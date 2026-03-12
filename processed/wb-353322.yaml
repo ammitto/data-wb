@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 353322
 supp_name: CONSTRUCTORA J. C. SEGURA CONSTRUCCIONES S.A. – GAVINOR S.R.L. – UTE
 supp_type_code: F
+entity_type: organization
 land1: AR
 country_name: Argentina
 supp_city: 4400 SALTA

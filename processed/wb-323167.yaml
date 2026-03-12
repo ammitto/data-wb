@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 323167
 supp_name: SOCIÉTÉ GRANDS TRAVAUX MGHAIETH (GTM)
 supp_type_code: F
+entity_type: organization
 land1: TN
 country_name: Tunisia
 supp_city: TUNIS 1001

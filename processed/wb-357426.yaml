@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 357426
 supp_name: MR. KHUDA DAD
 supp_type_code: I
+entity_type: person
 land1: PK
 country_name: Pakistan
 supp_city: BALOCHISTAN

@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 608542
 supp_name: S.D.C CONSULTING CO., LTD. (CAMBODIA)
 supp_type_code: F
+entity_type: organization
 land1: KH
 country_name: Cambodia
 supp_city: KHAN RUSSEY KEO, PHNOM PENH

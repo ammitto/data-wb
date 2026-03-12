@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 196430
 supp_name: MR. MUNAWER KHALFAN
 supp_type_code: I
+entity_type: person
 land1: TZ
 country_name: Tanzania
 supp_city: DAR ES SALAAM

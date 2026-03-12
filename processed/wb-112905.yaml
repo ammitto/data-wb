@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 112905
 supp_name: DAVID RIPER
 supp_type_code: U
+entity_type: organization
 land1: US
 country_name: United States
 supp_state_code: VA

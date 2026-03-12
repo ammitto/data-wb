@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 461557
 supp_name: PURIHOLI NIGERIA
 supp_type_code: F
+entity_type: organization
 land1: NG
 country_name: Nigeria
 supp_city: ASABA, DELTA STATE

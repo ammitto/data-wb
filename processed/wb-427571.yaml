@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 427571
 supp_name: CHANGHONG CONSTRUCTION GROUP CO., LTD.
 supp_type_code: F
+entity_type: organization
 land1: CN
 country_name: China
 supp_city: HONGGUTAN, NANCHANG CITY, 330000

@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 186121
 supp_name: METAL ENGINEERING EOOD
 supp_type_code: F
+entity_type: organization
 land1: BG
 country_name: Bulgaria
 supp_addr: 16, ILINDEN STREET, PO BOX 293, 3000 VRATSA

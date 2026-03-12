@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 189265
 supp_name: GRASCO COMPANY
 supp_type_code: F
+entity_type: organization
 land1: CG
 country_name: Congo, Republic of
 supp_city: BRAZZAVILLE

@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 865784
 supp_name: COMSIS INFORMATION TECHNOLOGY SOLUTIONS SERVICES
 supp_type_code: F
+entity_type: organization
 supp_pre_acrn: M/S
 supp_post_acrn: CO
 land1: AF
@@ -15,7 +16,7 @@ inelig_flg: D
 debar_from_date: '2024-09-19'
 debar_to_date: '2026-09-18'
 debar_reason: Fraudulent Practices
-add_supp_info: "(MUE Group) *662"
+add_supp_info: "*669"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

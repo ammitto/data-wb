@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 739034
 supp_name: ENGR. INNOCENT O. DIYOKE
 supp_type_code: I
+entity_type: person
 land1: NG
 country_name: Nigeria
 supp_city: ENUGU STATE
@@ -15,7 +16,7 @@ debar_type: O
 debar_from_date: '2024-03-11'
 debar_to_date: '2999-12-31'
 debar_reason: Fraudulent Practices
-add_supp_info: "*630"
+add_supp_info: "*652"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

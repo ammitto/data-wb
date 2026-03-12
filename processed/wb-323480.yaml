@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 323480
 supp_name: BMR CONSULTORIA Y CONSTRUCCIÓN S.A.C.
 supp_type_code: F
+entity_type: organization
 land1: PE
 country_name: Peru
 supp_city: ANCASH

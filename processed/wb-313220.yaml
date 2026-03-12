@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 313220
 supp_name: SFC VIETNAM INVESTMENT DEVELOPMENT FOR ENVIRONMENT CORPORATION
 supp_type_code: F
+entity_type: organization
 land1: VN
 country_name: Viet Nam
 supp_city: HANOI

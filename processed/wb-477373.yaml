@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 477373
 supp_name: FLOWBIRD SOCIÉTÉ PAR ACTIONS SIMPLIFIÉE
 supp_type_code: F
+entity_type: organization
 land1: FR
 country_name: France
 supp_city: 75015 PARIS

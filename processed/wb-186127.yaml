@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 186127
 supp_name: DEVELOPMENT ACTION CENTRE (DAC)
 supp_type_code: F
+entity_type: organization
 land1: BD
 country_name: Bangladesh
 supp_city: DISTRICT CHUADANG-7200

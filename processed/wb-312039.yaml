@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 312039
 supp_name: HUBEI HENGDA STEEL STRUCTURE CO., LTD.
 supp_type_code: F
+entity_type: organization
 land1: CN
 country_name: China
 legacy_flg: N

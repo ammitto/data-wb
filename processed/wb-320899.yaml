@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 320899
 supp_name: CONSTRUCTORA ARTEAGA S.R.L. (CONARTE S.R.L.)
 supp_type_code: F
+entity_type: organization
 land1: BO
 country_name: Bolivia
 supp_city: LA PAZ

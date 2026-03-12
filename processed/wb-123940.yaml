@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 123940
 supp_name: ASDECON CORPORATION COMPANY LIMITED
 supp_type_code: F
+entity_type: organization
 land1: TH
 country_name: Thailand
 supp_city: BANGKOK

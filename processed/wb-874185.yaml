@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 874185
 supp_name: MR. ROMAIN PISON
 supp_type_code: I
+entity_type: person
 land1: BE
 country_name: Belgium
 supp_city: BRUSSELS 1000

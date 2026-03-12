@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 689277
 supp_name: MS. EILYEN NALLELY DELGADO ALFARO
 supp_type_code: I
+entity_type: person
 land1: CR
 country_name: Costa Rica
 supp_city: SAN JOSÉ

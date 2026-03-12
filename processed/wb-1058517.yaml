@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 1058517
 supp_name: TAIHAN OCEAN WORKS CO., LTD.
 supp_type_code: F
+entity_type: organization
 land1: KR
 country_name: Korea, Republic of
 supp_city: BUSAN
@@ -13,7 +14,8 @@ inelig_flg: D
 debar_from_date: '2025-09-05'
 debar_to_date: '2026-10-01'
 debar_reason: Controlled Affiliate of a Sanctioned Entity
-add_supp_info: "(Reg. No: 0904036883600018) *706"
+add_supp_info: "(formerly known as Ocean C&I Co., Ltd.) (Registration Number 617-81-73197)
+  *658"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

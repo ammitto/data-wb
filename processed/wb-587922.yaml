@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 587922
 supp_name: CROSSWORDS LTD.
 supp_type_code: F
+entity_type: organization
 land1: LR
 country_name: Liberia
 supp_city: MONROVIA 1000

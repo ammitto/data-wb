@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 193109
 supp_name: EDWIN DITTER ACARAPI COLQUE
 supp_type_code: I
+entity_type: person
 land1: BO
 country_name: Bolivia
 supp_city: SANTA CRUZ DE LA SIERRA

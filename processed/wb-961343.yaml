@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 961343
 supp_name: OLIVER OTTO
 supp_type_code: I
+entity_type: person
 land1: DE
 country_name: Germany
 supp_city: BUXTEHUDE

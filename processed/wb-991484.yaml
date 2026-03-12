@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 991484
 supp_name: MIEN TRUNG JOINT STOCK CORPORATION
 supp_type_code: F
+entity_type: organization
 land1: VN
 country_name: Viet Nam
 supp_city: THANH HOA CITY,THANH HOA PROVINCE
@@ -14,7 +15,7 @@ debar_type: O
 debar_from_date: '2025-10-01'
 debar_to_date: '2026-09-30'
 debar_reason: Obstructive Practice
-add_supp_info: "(Reg. No. BC1543491) *658"
+add_supp_info: "*700"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

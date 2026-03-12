@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 793576
 supp_name: PROYECTOS DE INGENIERÍA Y SERVICIOS PARA EL MEDIO AMBIENTE S.A.S.
 supp_type_code: F
+entity_type: organization
 land1: CO
 country_name: Colombia
 supp_city: BOGOTÁ

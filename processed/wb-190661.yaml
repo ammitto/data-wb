@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 190661
 supp_name: BOFRA S.A.R.L.
 supp_type_code: F
+entity_type: organization
 land1: CG
 country_name: Congo, Republic of
 supp_city: BRAZZAVILLE

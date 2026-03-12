@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 353287
 supp_name: GAVINOR S.R.L.
 supp_type_code: F
+entity_type: organization
 land1: AR
 country_name: Argentina
 supp_city: 4400 SALTA

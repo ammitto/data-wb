@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 466535
 supp_name: M/S SUNAULA KHIMTI
 supp_type_code: F
+entity_type: organization
 land1: NP
 country_name: Nepal
 supp_city: KATHMANDU

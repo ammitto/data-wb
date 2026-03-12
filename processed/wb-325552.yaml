@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 325552
 supp_name: MINIMIX AGENCIES (MINIMIX)
 supp_type_code: F
+entity_type: organization
 land1: KE
 country_name: Kenya
 supp_city: NAIROBI

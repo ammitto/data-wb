@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 326600
 supp_name: MR. ALEXANDRE ANTONIO PAREJA QUINTANILLA
 supp_type_code: I
+entity_type: person
 land1: PE
 country_name: Peru
 supp_city: PISCO

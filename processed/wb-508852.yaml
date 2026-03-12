@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 508852
 supp_name: GRUPO CESA CORPORATION HOLDINGS S.A.
 supp_type_code: C
+entity_type: organization
 land1: CR
 country_name: Costa Rica
 supp_city: BARRIO TOURNÓN

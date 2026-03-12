@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 184282
 supp_name: MR. ANSHAR M. NOOR
 supp_type_code: I
+entity_type: person
 land1: ID
 country_name: Indonesia
 supp_city: JAKARTA SELATAN

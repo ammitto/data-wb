@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 469642
 supp_name: RIFT VALLEY RAILWAYS KENYA LIMITED
 supp_type_code: F
+entity_type: organization
 land1: VG
 country_name: Virgin Islands, British
 supp_city: TORTOLA

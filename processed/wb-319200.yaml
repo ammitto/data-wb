@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 319200
 supp_name: MR. NIKOLAI GEORGIEVITCH OBRADOVITCH
 supp_type_code: I
+entity_type: person
 land1: SE
 country_name: Sweden
 supp_city: 181 38 LIDINGÖ

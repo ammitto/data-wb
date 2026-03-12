@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 306144
 supp_name: MR. SANJAY GUPTA
 supp_type_code: I
+entity_type: person
 land1: NP
 country_name: Nepal
 supp_city: KATHMANDU

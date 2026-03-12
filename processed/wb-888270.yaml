@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 888270
 supp_name: HEBEI CONSTRUCTION GROUP CORPORATION LIMITED CAMBODIA BRANCH
 supp_type_code: F
+entity_type: organization
 land1: KH
 country_name: Cambodia
 supp_city: JINBIAN CITY

@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 200258
 supp_name: ENTREPRISE GÉNÉRALE DE CONSTRUCTION ANDO
 supp_type_code: F
+entity_type: organization
 land1: MG
 country_name: Madagascar
 supp_city: LOT II A 128 SG NANISANA

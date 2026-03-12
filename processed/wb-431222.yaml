@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 431222
 supp_name: EXODE TRAVEL
 supp_type_code: F
+entity_type: organization
 land1: ZR
 country_name: Congo, Democratic Republic of
 supp_city: KINSHASA

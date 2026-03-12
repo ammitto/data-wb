@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 192662
 supp_name: CONSTRUCTORA KATINGCAR
 supp_type_code: F
+entity_type: organization
 land1: GT
 country_name: Guatemala
 supp_addr: SECTOR 4, LOTE 24, CONDOMINIO LA CUPULA, ZONA 0, JOCOTENANGO, SACATEPEQUEZ

@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 538224
 supp_name: SHAANXI JIAMING INDUSTRY CO. LTD.
 supp_type_code: F
+entity_type: organization
 land1: CN
 country_name: China
 supp_city: XI'AN CITY

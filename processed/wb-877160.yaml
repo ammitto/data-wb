@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 877160
 supp_name: MR. MUHAMMAD ALI
 supp_type_code: I
+entity_type: person
 land1: GB
 country_name: United Kingdom
 supp_city: MOTHERWELL, SCOTLAND ML1 5FS
@@ -13,7 +14,7 @@ inelig_flg: D
 debar_from_date: '2024-10-30'
 debar_to_date: '2028-02-28'
 debar_reason: Fraudulent Practices
-add_supp_info: "*667"
+add_supp_info: "*675"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

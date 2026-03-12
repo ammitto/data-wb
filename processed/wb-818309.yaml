@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 818309
 supp_name: FREDERICO DE OLIVEIRA ROSA
 supp_type_code: I
+entity_type: person
 land1: BR
 country_name: Brazil
 supp_city: ARACAJU - SE, 49095-750

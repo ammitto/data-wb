@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 888194
 supp_name: HEBEI CONSTRUCTION GROUP CORPORATION LIMITED BEIJING NO 6 BRANCH
 supp_type_code: F
+entity_type: organization
 land1: CN
 country_name: China
 supp_city: BEIJING

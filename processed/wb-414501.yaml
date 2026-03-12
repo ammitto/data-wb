@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 414501
 supp_name: MR. RAVSHAN RIZAMETOV
 supp_type_code: I
+entity_type: person
 land1: UZ
 country_name: Uzbekistan
 supp_city: TASHKENT

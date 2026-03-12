@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 483779
 supp_name: MR. JAMES TINNION-MORGAN
 supp_type_code: I
+entity_type: person
 land1: NZ
 country_name: New Zealand
 supp_city: AUCKLAND 1001

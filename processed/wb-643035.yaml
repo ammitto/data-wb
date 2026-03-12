@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 643035
 supp_name: NIEMTIN COMPANY LIMITED
 supp_type_code: F
+entity_type: organization
 land1: VN
 country_name: Viet Nam
 supp_city: BA DINH DISTRICT, HANOI CITY

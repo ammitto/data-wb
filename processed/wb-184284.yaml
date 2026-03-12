@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 184284
 supp_name: MR. RUDI SUBIYAKTO
 supp_type_code: I
+entity_type: person
 land1: ID
 country_name: Indonesia
 supp_city: JAKARTA SELATAN

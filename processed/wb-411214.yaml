@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 411214
 supp_name: SUOI DAU WATER SUPPLY, DRAINAGE INVESTMENT AND CONSTRUCTION JSC
 supp_type_code: F
+entity_type: organization
 land1: VN
 country_name: Viet Nam
 supp_city: KHANH HOA

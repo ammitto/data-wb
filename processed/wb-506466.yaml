@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 506466
 supp_name: GEO SCIENCES INTERNATIONAL SARL
 supp_type_code: F
+entity_type: organization
 land1: CM
 country_name: Cameroon
 supp_city: YAOUNDÉ

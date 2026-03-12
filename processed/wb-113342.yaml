@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 113342
 supp_name: PRODUCTIONSEKONOMI I STOCKHOLM AB
 supp_type_code: F
+entity_type: organization
 land1: SE
 country_name: Sweden
 supp_city: STOCKHOLM

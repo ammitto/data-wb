@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 388419
 supp_name: SOCIÉTÉ TUNISIE TRAVAUX
 supp_type_code: F
+entity_type: organization
 land1: TN
 country_name: Tunisia
 supp_city: CITÉ RIADH, 4023 SOUSSE

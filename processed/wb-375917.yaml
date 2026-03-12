@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 375917
 supp_name: MARCO VINICIO ARREAGA ESTRADA
 supp_type_code: I
+entity_type: person
 land1: GT
 country_name: Guatemala
 supp_city: CIUDAD DE GUATEMALA

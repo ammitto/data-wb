@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 112996
 supp_name: MR. CLAES FJELLNER
 supp_type_code: I
+entity_type: person
 land1: SE
 country_name: Sweden
 supp_city: STOCKHOLM

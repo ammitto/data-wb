@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 186118
 supp_name: MR. JOSEPH NUIJTEN
 supp_type_code: I
+entity_type: person
 land1: BE
 country_name: Belgium
 supp_addr: HAVEN 138, BOTERHAMVAARTWEG 2, B-2030 ANTWERPEN

@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 691256
 supp_name: JIANGXI TENGWANGGE CONSTRUCTION ENGINEERING GROUP. CO. LTD.
 supp_type_code: F
+entity_type: organization
 land1: CN
 country_name: China
 supp_city: JIANGXI PROVINCE, 330038
@@ -15,7 +16,7 @@ debar_type: O
 debar_from_date: '2019-10-01'
 debar_to_date: '2999-12-31'
 debar_reason: Procurement Guidelines, 1.14(a)(ii)
-add_supp_info: "(now known as Lotte Innovate Company, Limited) *623 (Reg. No. 110111-6557114)"
+add_supp_info: "(also d/b/a TENGWANGGE CONSTRUCTION ENGINEERING GROUP CO., LTD.) *507"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 316627
 supp_name: GABICE S.A.C.
 supp_type_code: F
+entity_type: organization
 land1: PE
 country_name: Peru
 supp_city: LA MOLINA, LIMA 12

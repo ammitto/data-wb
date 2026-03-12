@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 329716
 supp_name: GEORGE C. BENSON
 supp_type_code: I
+entity_type: person
 land1: US
 country_name: United States
 supp_state_code: FL

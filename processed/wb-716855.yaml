@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 716855
 supp_name: HÉCTOR ALFONSO VELASCO RIVAS
 supp_type_code: I
+entity_type: person
 land1: SV
 country_name: El Salvador
 legacy_flg: N

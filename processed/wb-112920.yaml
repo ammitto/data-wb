@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 112920
 supp_name: GAP INTERNATIONAL
 supp_type_code: F
+entity_type: organization
 land1: IN
 country_name: India
 legacy_flg: N

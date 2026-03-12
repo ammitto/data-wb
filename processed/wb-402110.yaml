@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 402110
 supp_name: CNE ENVIRONMENTAL & WASTE SERVICES LTD.
 supp_type_code: F
+entity_type: organization
 land1: NG
 country_name: Nigeria
 supp_city: DELTA STATE

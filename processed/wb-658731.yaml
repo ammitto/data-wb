@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 658731
 supp_name: MR. PAU LLOPART VIDAL
 supp_type_code: I
+entity_type: person
 land1: ES
 country_name: Spain
 legacy_flg: N

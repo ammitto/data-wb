@@ -1,0 +1,20 @@
+{
+  "id": "https://www.ammitto.org/entity/wb/798035",
+  "entity_type": "organization",
+  "names": [
+    {
+      "full_name": "XINJIANG ROAD AND BRIDGE ENGINEERING CO., LTD.",
+      "is_primary": true
+    }
+  ],
+  "remarks": "(新疆路桥桥梁工程建设有限责任公司)(916501007817971110)*647",
+  "addresses": [
+    {
+      "street": "NO. 25 WUQI HIGHWAY, MIDONG DISTRICT, URUMQI",
+      "city": "XINJIANG",
+      "country": "China",
+      "country_iso_code": "CN"
+    }
+  ],
+  "@context": "https://www.ammitto.org/ontology/context.jsonld"
+}

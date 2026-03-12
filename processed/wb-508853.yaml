@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 508853
 supp_name: CONTROL ELECTRÓNICO S.A.
 supp_type_code: F
+entity_type: organization
 land1: CR
 country_name: Costa Rica
 supp_city: BARRIO TOURNÓN

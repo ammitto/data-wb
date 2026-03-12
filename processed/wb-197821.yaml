@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 197821
 supp_name: MR. VAKHIDJAN ERGASHEV
 supp_type_code: I
+entity_type: person
 land1: KG
 country_name: Kyrgyz Republic
 supp_addr: 20 OKTYABARSKY STR., SUZAK VILLAGE, SUZAK DISTRICT, JALAL-ABAD REGION

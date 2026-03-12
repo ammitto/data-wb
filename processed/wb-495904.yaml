@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 495904
 supp_name: ROBERTO SIQUEIRA NUÑES
 supp_type_code: I
+entity_type: person
 land1: BR
 country_name: Brazil
 supp_city: MANAUS, AM

@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 349297
 supp_name: SERVICIOS DE INGENIERÍA Y CONSTRUCCIONES, S.A. (SICSA)
 supp_type_code: F
+entity_type: organization
 land1: NI
 country_name: Nicaragua
 supp_city: MANAGUA

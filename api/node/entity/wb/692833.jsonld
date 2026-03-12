@@ -1,0 +1,20 @@
+{
+  "id": "https://www.ammitto.org/entity/wb/692833",
+  "entity_type": "organization",
+  "names": [
+    {
+      "full_name": "QUVASOY MUKAMMAL TAMIR LLC",
+      "is_primary": true
+    }
+  ],
+  "remarks": "(now known as FAR KURLISH MONTAJ INVEST) (Reg. No. 300494794) *371",
+  "addresses": [
+    {
+      "street": "3A SH. RASHIDOV STREET, FERGANA DISTRICT",
+      "city": "FERGANA REGION",
+      "country": "Uzbekistan",
+      "country_iso_code": "UZ"
+    }
+  ],
+  "@context": "https://www.ammitto.org/ontology/context.jsonld"
+}

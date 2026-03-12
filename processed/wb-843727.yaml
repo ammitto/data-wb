@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 843727
 supp_name: MR. MALIK NASIR HUSSAIN TANOLI
 supp_type_code: I
+entity_type: person
 land1: PK
 country_name: Pakistan
 supp_city: KARACHI, NEAR BAB E KHYBER
@@ -13,7 +14,7 @@ inelig_flg: D
 debar_from_date: '2024-03-26'
 debar_to_date: '2027-10-20'
 debar_reason: Fraudulent Practices
-add_supp_info: "*695"
+add_supp_info: "*655"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

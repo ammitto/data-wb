@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 201885
 supp_name: L’ENTREPRISE GÉNÉRALE DE CONSTRUCTION SAFIDY
 supp_type_code: F
+entity_type: organization
 land1: MG
 country_name: Madagascar
 supp_addr: LOT VT 77 LD BIS ANDOHANIMANDROSEZA, ANTANANARIVO 101
