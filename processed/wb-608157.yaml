@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 608157
 supp_name: JV “KOGONREMSTROYKOMPLEKT” LLC
 supp_type_code: F
+entity_type: organization
 land1: UZ
 country_name: Uzbekistan
 supp_city: BUKHARSKAYA OBLAST

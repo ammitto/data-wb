@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 506707
 supp_name: BDCTEC INTERNATIONAL SL.
 supp_type_code: F
+entity_type: organization
 land1: ES
 country_name: Spain
 supp_city: MADRID

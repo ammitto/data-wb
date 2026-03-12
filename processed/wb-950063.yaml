@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 950063
 supp_name: MR. RICARDO CHECA HERNANDEZ
 supp_type_code: I
+entity_type: person
 land1: BR
 country_name: Brazil
 supp_city: 'JARDIM JAPÃO – SP/SP, CEP: 02143-060'

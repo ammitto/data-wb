@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 314057
 supp_name: MR. TANG CHI ANH
 supp_type_code: I
+entity_type: person
 land1: VN
 country_name: Viet Nam
 supp_city: HANOI

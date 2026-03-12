@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 112922
 supp_name: GURPREET SINGH MALIK
 supp_type_code: I
+entity_type: person
 land1: NG
 country_name: Nigeria
 supp_city: LAGOS

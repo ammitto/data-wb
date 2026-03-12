@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 888271
 supp_name: HEBEI CONSTRUCTION GROUP CORPORATION LIMITED ETHIOPIA BRANCH
 supp_type_code: F
+entity_type: organization
 land1: ET
 country_name: Ethiopia
 supp_addr: BOLE, 12 ADDIS ABABA

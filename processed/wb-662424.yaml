@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 662424
 supp_name: MR. EDMUND MABIRO
 supp_type_code: I
+entity_type: person
 land1: UG
 country_name: Uganda
 supp_city: KAMPALA

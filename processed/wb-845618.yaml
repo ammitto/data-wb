@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 845618
 supp_name: TAIHAN CNS
 supp_type_code: F
+entity_type: organization
 land1: KR
 country_name: Korea, Republic of
 supp_city: GYEONGGI-DO

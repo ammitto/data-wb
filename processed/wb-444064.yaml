@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 444064
 supp_name: INDUSTRIAL INVESTMENT GROUP ALC
 supp_type_code: F
+entity_type: organization
 land1: BY
 country_name: Belarus
 supp_city: MINSK

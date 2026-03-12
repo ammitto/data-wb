@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 507813
 supp_name: NOVOLINE RESOURCES L.P.
 supp_type_code: F
+entity_type: organization
 supp_pre_acrn: M/S
 land1: GB
 country_name: United Kingdom

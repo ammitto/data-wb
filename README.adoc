@@ -77,6 +77,180 @@ Or via the adapters repository:
 ruby adapter.rb
 ----
 
+== Source Data Format
+
+The processed YAML files in `processed/` follow this structure:
+
+=== Person Entity
+[source,yaml]
+----
+supp_id: 100451
+supp_name: ZAKIR HOSSAIN
+supp_type_code: I
+entity_type: person
+land1: BD
+country_name: Bangladesh
+supp_city: COMILLA
+supp_addr: 371-KA JOBAIDA MANSION JHAWTALA - 3500
+debar_type: O
+debar_from_date: '2013-11-11'
+debar_to_date: '2999-12-31'
+debar_reason: 'Cross Debarment: ADB'
+supp_elig_stat: X-DEBARRED
+----
+
+=== Organization Entity
+[source,yaml]
+----
+supp_id: 200123
+supp_name: EXAMPLE COMPANY LTD
+supp_type_code: O
+entity_type: organization
+land1: CN
+country_name: China
+supp_city: Beijing
+debar_type: T
+debar_from_date: '2020-01-15'
+debar_to_date: '2025-01-15'
+debar_reason: 'Fraudulent Practice'
+----
+
+=== Field Definitions
+
+[cols="1,4"]
+|===
+| Field | Description
+
+| `supp_id`
+| Unique supplier/entity ID
+
+| `supp_name`
+| Name of the sanctioned party
+
+| `supp_type_code`
+| Type: I (Individual) or O (Organization)
+
+| `entity_type`
+| Harmonized type: person or organization
+
+| `land1`
+| Country code (ISO 2-letter)
+
+| `country_name`
+| Full country name
+
+| `supp_city`
+| City of residence/registration
+
+| `supp_addr`
+| Full address
+
+| `debar_type`
+| Debarment type: O (Ongoing), T (Temporary)
+
+| `debar_from_date`
+| Debarment start date
+
+| `debar_to_date`
+| Debarment end date
+
+| `debar_reason`
+| Reason for debarment
+
+| `supp_elig_stat`
+| Eligibility status (X-DEBARRED, etc.)
+
+|===
+
+== Harmonized Data Format
+
+After harmonization, entities are transformed into JSON-LD format:
+
+=== Entity (JSON-LD)
+[source,json]
+----
+{
+  "@context": "https://www.ammitto.org/schema/v1/context.jsonld",
+  "@id": "https://www.ammitto.org/entity/wb/100451",
+  "@type": "PersonEntity",
+  "names": [
+    {
+      "@type": "NameVariant",
+      "fullName": "ZAKIR HOSSAIN",
+      "script": "Latn",
+      "isPrimary": true
+    }
+  ],
+  "addresses": [
+    {
+      "@type": "Address",
+      "city": "COMILLA",
+      "country": "Bangladesh"
+    }
+  ],
+  "sanctionEntries": [
+    {
+      "@id": "https://www.ammitto.org/entry/wb/100451",
+      "@type": "SanctionEntry",
+      "authority": {
+        "@id": "https://www.ammitto.org/authority/wb",
+        "name": "World Bank"
+      },
+      "regime": {
+        "@type": "SanctionRegime",
+        "code": "DEBARMENT",
+        "name": "World Bank Debarment"
+      },
+      "effects": [
+        {
+          "@type": "SanctionEffect",
+          "effectType": "debarment",
+          "scope": "full"
+        }
+      ],
+      "status": "active",
+      "period": {
+        "@type": "TemporalPeriod",
+        "effectiveDate": "2013-11-11",
+        "expiryDate": "2999-12-31"
+      },
+      "reasons": [
+        {
+          "@type": "SanctionReason",
+          "description": "Cross Debarment: ADB"
+        }
+      ]
+    }
+  ]
+}
+----
+
+=== Debarment Types
+
+[cols="1,3"]
+|===
+| Code | Description
+
+| `O`
+| Ongoing debarment (indefinite)
+
+| `T`
+| Temporary debarment (fixed term)
+
+| `S`
+| Conditional debarment
+
+|===
+
+=== Debarment Reasons
+
+* Fraudulent Practice
+* Corrupt Practice
+* Collusive Practice
+* Coercive Practice
+* Obstructive Practice
+* Cross Debarment: ADB, AfDB, EBRD, IADB
+
 == YAML Schema
 
 Each processed YAML file follows the schema defined in

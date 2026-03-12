@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 991674
 supp_name: TAIHAN CANADA LTD.
 supp_type_code: F
+entity_type: organization
 land1: CA
 country_name: Canada
 supp_city: VANCOUVER BC V7X 1S8

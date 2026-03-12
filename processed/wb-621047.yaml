@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 621047
 supp_name: ORANGE CAPITAL LIMITED
 supp_type_code: F
+entity_type: organization
 land1: HK
 country_name: Hong Kong SAR, China
 supp_city: CENTRAL HONG KONG

@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 542410
 supp_name: MR. SUJIT DAS
 supp_type_code: I
+entity_type: person
 land1: LR
 country_name: Liberia
 supp_city: MONROVIA

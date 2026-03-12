@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 508854
 supp_name: CESA DE NICARAGUA S.A.
 supp_type_code: F
+entity_type: organization
 land1: NI
 country_name: Nicaragua
 supp_city: MANAGUA

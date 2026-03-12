@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 888159
 supp_name: HENGSHUI JIZHOU DISTRICT JIUCHEN CONSTRUCTION DEVELOPMENT CO., LTD.
 supp_type_code: F
+entity_type: organization
 land1: CN
 country_name: China
 supp_city: HENGSHUI CITY

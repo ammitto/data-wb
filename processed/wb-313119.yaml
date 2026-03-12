@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 313119
 supp_name: PIONEER CONSTRUCTION LTD
 supp_type_code: F
+entity_type: organization
 land1: UG
 country_name: Uganda
 supp_city: KAMPALA

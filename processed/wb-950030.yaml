@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 950030
 supp_name: HIDRALRICA DISTRIBUÇÃO DE TUBOS E CONEXÕES EIRELI
 supp_type_code: F
+entity_type: organization
 land1: BR
 country_name: Brazil
 supp_city: 'JARDIM JAPÃO – SP/SP, CEP: 02143-060'

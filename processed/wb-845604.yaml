@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 845604
 supp_name: TAIHAN NETHERLANDS B.V.
 supp_type_code: F
+entity_type: organization
 land1: NL
 country_name: Netherlands
 supp_addr: STROOMBAAN 4 1181 VX AMSTELVEEN

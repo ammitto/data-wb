@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 112944
 supp_name: KARITEX LIMITED
 supp_type_code: F
+entity_type: organization
 land1: NG
 country_name: Nigeria
 legacy_flg: N

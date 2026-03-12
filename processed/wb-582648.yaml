@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 582648
 supp_name: MD. BILLAL HOSSAIN
 supp_type_code: I
+entity_type: person
 supp_pre_acrn: MR
 land1: BD
 country_name: Bangladesh

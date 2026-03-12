@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 798032
 supp_name: XINJIANG JIAOTONG AIRPORT LOGISTICS TECHNOLOGY CO., LTD.
 supp_type_code: F
+entity_type: organization
 land1: CN
 country_name: China
 supp_city: XINJIANG

@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 848875
 supp_name: LOTTE INNOVATE COMPANY, LIMITED
 supp_type_code: F
+entity_type: organization
 land1: KR
 country_name: Korea, Republic of
 supp_city: SEOUL

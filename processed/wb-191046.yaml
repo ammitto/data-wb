@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 191046
 supp_name: MULTISTAR HOLDINGS LIMITED (FORMERLY MULTI-CON SYSTEMS PTE LTD.)
 supp_type_code: F
+entity_type: organization
 land1: SG
 country_name: Singapore
 supp_city: SINGAPORE 338729

@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 313885
 supp_name: BAYON WATER PUMP CO., LTD.
 supp_type_code: F
+entity_type: organization
 land1: KH
 country_name: Cambodia
 supp_city: PHNOM PENH

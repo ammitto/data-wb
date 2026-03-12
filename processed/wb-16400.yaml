@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 16400
 supp_name: CANADAX TECHNOLOGIES
 supp_type_code: F
+entity_type: organization
 land1: CA
 country_name: Canada
 supp_city: VERDUN, QUEBEC

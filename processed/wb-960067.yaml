@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 960067
 supp_name: CONSTRUTORA COESA S.A. - SUCURSAL ARGENTINA
 supp_type_code: F
+entity_type: organization
 land1: AR
 country_name: Argentina
 supp_city: BUENOS AIRES

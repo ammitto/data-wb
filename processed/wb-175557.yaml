@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 175557
 supp_name: INTREPRINDEREA MIXTA MOLDO-IRLANDEZA "ROMANY GAZ GROUP" S.R.L.
 supp_type_code: F
+entity_type: organization
 land1: MD
 country_name: Moldova
 supp_addr: STR. MUNCESTI, 801, CHISINAU MD-2029

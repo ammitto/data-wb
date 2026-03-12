@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 936659
 supp_name: MR.NORMAN BWURUK DIDAM
 supp_type_code: I
+entity_type: person
 land1: NG
 country_name: Nigeria
 supp_city: ABUJA
@@ -13,7 +14,7 @@ inelig_flg: D
 debar_from_date: '2025-01-15'
 debar_to_date: '2027-07-14'
 debar_reason: Fraudulent, Collusive and Corrupt Practices
-add_supp_info: "*690"
+add_supp_info: "*682"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 952520
 supp_name: JUAN PABLO HADDAD
 supp_type_code: I
+entity_type: person
 land1: AR
 country_name: Argentina
 supp_city: CATAMARCA

@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 888272
 supp_name: HEBEI CONSTRUCTION GROUP CORPORATION LIMITED MOZAMBIQUE BRANCH
 supp_type_code: F
+entity_type: organization
 land1: MZ
 country_name: Mozambique
 supp_city: SAISAI

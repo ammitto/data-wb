@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 309998
 supp_name: MR. WALTER FERNÁNDEZ FERNÁNDEZ
 supp_type_code: I
+entity_type: person
 land1: BO
 country_name: Bolivia
 supp_city: SANTA CRUZ

@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 888147
 supp_name: HEBEI ZHUOCHENG ENGINEERING INSPECTION CO., LTD.
 supp_type_code: F
+entity_type: organization
 land1: CN
 country_name: China
 supp_city: BAODING CITY

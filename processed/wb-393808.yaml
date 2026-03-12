@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 393808
 supp_name: ZHONGCHEN ROAD & BRIDGE CONSTRUCTION (BEIJING) CO., LTD.
 supp_type_code: F
+entity_type: organization
 land1: CN
 country_name: China
 supp_city: BEIJING

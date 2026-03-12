@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 315236
 supp_name: MODERN SERVIS MMC/MODERN SERVIZ MMC
 supp_type_code: F
+entity_type: organization
 land1: AZ
 country_name: Azerbaijan
 supp_city: BAKU

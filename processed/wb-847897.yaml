@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 847897
 supp_name: MR. BOUNLERT CHANTHASOUNTHONE
 supp_type_code: I
+entity_type: person
 land1: LA
 country_name: Lao People's Democratic Republic
 supp_city: VIENTIANE CAPITAL

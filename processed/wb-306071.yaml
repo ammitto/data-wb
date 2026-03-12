@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 306071
 supp_name: A.R. DOS SANTOS
 supp_type_code: F
+entity_type: organization
 land1: BR
 country_name: Brazil
 supp_city: SÃO LUIS, MARANHÃO

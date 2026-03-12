@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 1044565
 supp_name: NENNKRAFT ENERGIE GMBH
 supp_type_code: F
+entity_type: organization
 land1: DE
 country_name: Germany
 supp_city: DORTMUND, NORDRHEIN-WESTFALEN

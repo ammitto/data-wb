@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 172914
 supp_name: PT DDC CONSULTANTS
 supp_type_code: F
+entity_type: organization
 land1: ID
 country_name: Indonesia
 supp_addr: JL. MASJID AN'NUR NO. 51A, KEBAYORAN LAMA, JAKARTA SELATAN

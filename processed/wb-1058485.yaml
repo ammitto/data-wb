@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 1058485
 supp_name: IYA S.A.R.L
 supp_type_code: F
+entity_type: organization
 land1: ML
 country_name: Mali
 supp_city: BAMAKO

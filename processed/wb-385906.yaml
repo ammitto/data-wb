@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 385906
 supp_name: PT. AREABANGUN PUTRA SEJATI
 supp_type_code: F
+entity_type: organization
 land1: ID
 country_name: Indonesia
 supp_city: WEST JAVA

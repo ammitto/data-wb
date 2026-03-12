@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 1046772
 supp_name: RASK HOLDING AF 2017 AP
 supp_type_code: F
+entity_type: organization
 land1: DK
 country_name: Denmark
 supp_city: DRAGOR

@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 843727
 supp_name: MR. MALIK NASIR HUSSAIN TANOLI
 supp_type_code: I
+entity_type: person
 land1: PK
 country_name: Pakistan
 supp_city: KARACHI, NEAR BAB E KHYBER

@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 818310
 supp_name: JLM DISTRIBUIDORA COMÉRCIO E SERVIÇOS EIRELI
 supp_type_code: F
+entity_type: organization
 land1: BR
 country_name: Brazil
 supp_city: ARACAJU - SE, 49052-125

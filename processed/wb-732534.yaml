@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 732534
 supp_name: AEROSPACE AVIATION
 supp_type_code: F
+entity_type: organization
 land1: KE
 country_name: Kenya
 supp_city: THIKA

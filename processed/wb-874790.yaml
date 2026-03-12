@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 874790
 supp_name: PT EWACO BUMI MAMIRI
 supp_type_code: F
+entity_type: organization
 land1: ID
 country_name: Indonesia
 supp_city: PROVINSI JAWA TENGAH

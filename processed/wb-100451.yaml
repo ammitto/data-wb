@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 100451
 supp_name: ZAKIR HOSSAIN
 supp_type_code: I
+entity_type: person
 land1: BD
 country_name: Bangladesh
 supp_city: COMILLA

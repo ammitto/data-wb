@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 960093
 supp_name: CONSTRUTORA OAS GUINEE S.A.
 supp_type_code: F
+entity_type: organization
 land1: GN
 country_name: Guinea
 supp_city: CONAKRY
