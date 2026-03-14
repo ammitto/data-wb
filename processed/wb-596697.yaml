@@ -14,9 +14,9 @@ debar_type: O
 debar_from_date: '2022-04-01'
 debar_to_date: '2999-12-31'
 debar_reason: Fraudulent Practice
-add_supp_info: "*606"
+add_supp_info: "(Reg. No.: 684)*584"
 supp_elig_stat: DEBARRED
-crpd_match: Y
+crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 ineligibly_status: Ongoing

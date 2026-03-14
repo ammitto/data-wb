@@ -13,6 +13,7 @@ inelig_flg: X
 debar_from_date: '2023-10-11'
 debar_to_date: '2031-08-31'
 debar_reason: 'Cross Debarment: IDB'
+add_supp_info: 衡水市冀州区九辰建设开发有限公司
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

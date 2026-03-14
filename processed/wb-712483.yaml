@@ -13,7 +13,7 @@ debar_type: O
 debar_from_date: '2022-12-02'
 debar_to_date: '2999-12-31'
 debar_reason: Controlled Affiliate of a Sanctioned Entity.
-add_supp_info: "*623"
+add_supp_info: "(新蔡地矿建设工程有限公司)*632"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

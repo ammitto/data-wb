@@ -13,7 +13,7 @@ inelig_flg: D
 debar_from_date: '2025-05-27'
 debar_to_date: '2029-11-26'
 debar_reason: Collusive, Fraudulent, and Corrupt Practices
-add_supp_info: "*712"
+add_supp_info: "*693"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
