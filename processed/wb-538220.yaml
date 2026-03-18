@@ -13,6 +13,7 @@ inelig_flg: D
 debar_from_date: '2020-12-16'
 debar_to_date: '2026-08-07'
 debar_reason: 'Cross Debarment: ADB'
+add_supp_info: "*566, 576"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
