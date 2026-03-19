@@ -11,11 +11,13 @@ supp_addr: 87 PURANA PALTAN LINE
 legacy_flg: N
 un_supp_flg: N
 inelig_flg: X
+debar_type: O
 debar_from_date: '2022-06-13'
 debar_to_date: '2999-12-31'
 debar_reason: 'Cross Debarment: ADB'
+add_supp_info: "(Registration Number; C-147257)"
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: X-DEBARRED
-ineligibly_status: Permanent
+ineligibly_status: Ongoing
