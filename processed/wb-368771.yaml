@@ -14,6 +14,7 @@ debar_type: O
 debar_from_date: '2018-06-04'
 debar_to_date: '2030-04-26'
 debar_reason: 'Cross-Debarment: IDB'
+add_supp_info: "*438"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
