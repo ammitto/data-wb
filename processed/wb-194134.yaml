@@ -13,6 +13,7 @@ inelig_flg: X
 debar_from_date: '2014-05-14'
 debar_to_date: '2027-05-15'
 debar_reason: 'Cross Debarment: IDB'
+add_supp_info: "(TIN: 4481005504)"
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
