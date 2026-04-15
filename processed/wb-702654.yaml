@@ -14,7 +14,7 @@ inelig_flg: D
 debar_from_date: '2023-05-02'
 debar_to_date: '2026-05-01'
 debar_reason: Controlled Affiliate of a Sanctioned Entity
-add_supp_info: "(河南地矿集团路桥工程有限公司)*632"
+add_supp_info: "*623"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

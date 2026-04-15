@@ -13,7 +13,6 @@ inelig_flg: X
 debar_from_date: '2014-07-17'
 debar_to_date: '2027-06-23'
 debar_reason: 'Cross Debarment:  IDB'
-add_supp_info: "(NATIONAL ID: 8192223142650)"
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
