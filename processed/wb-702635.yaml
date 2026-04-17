@@ -13,7 +13,7 @@ inelig_flg: D
 debar_from_date: '2023-05-02'
 debar_to_date: '2026-05-01'
 debar_reason: Fraudulent Practices
-add_supp_info: "(阿克苏地矿建设工程有限公司)*632"
+add_supp_info: "(河南省地矿建设工程(集团)有限公司)*632"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
