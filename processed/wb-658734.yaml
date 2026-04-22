@@ -11,6 +11,8 @@ inelig_flg: X
 debar_from_date: '2022-04-19'
 debar_to_date: '2032-03-24'
 debar_reason: 'Cross Debarment: IDB'
+add_supp_info: Ademhan Makine Tarim Insaat Gida Nakliyat Ithalat Ihracaat Sanayi Ve
+  Ticaret Limited Sirketi
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

@@ -13,6 +13,8 @@ inelig_flg: X
 debar_from_date: '2021-12-23'
 debar_to_date: '2030-11-07'
 debar_reason: 'Cross Debarment: IDB'
+add_supp_info: Ingenieros Consultores y Asesores Técnicos Sociedad de Responsabilidad
+  Limitada de Capital Variable
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
