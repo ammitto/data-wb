@@ -15,6 +15,7 @@ inelig_flg: D
 debar_from_date: '2016-11-14'
 debar_to_date: '2027-09-19'
 debar_reason: 'Cross-Debarment: IDB'
+add_supp_info: "*333"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
