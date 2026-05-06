@@ -11,9 +11,10 @@ legacy_flg: N
 un_supp_flg: N
 inelig_flg: X
 debar_from_date: '2021-07-30'
-debar_to_date: '2026-03-30'
+debar_to_date: '2999-12-31'
 debar_reason: 'Cross Debarment: ADB'
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: X-DEBARRED
+ineligibly_status: Permanent

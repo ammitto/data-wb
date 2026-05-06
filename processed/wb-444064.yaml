@@ -12,10 +12,11 @@ un_supp_flg: N
 inelig_flg: D
 debar_type: O
 debar_from_date: '2020-05-06'
-debar_to_date: '2026-05-05'
+debar_to_date: '2999-12-31'
 debar_reason: January 2011 Procurement Guidelines, Paragraph 1.16(a)(ii)
 add_supp_info: "*526   Currently doing business as Industrial Investment Group LLC"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
+ineligibly_status: Ongoing

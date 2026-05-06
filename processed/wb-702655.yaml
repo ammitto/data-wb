@@ -11,11 +11,13 @@ supp_addr: 12-01-01181, ZONE A, JINYU INTERNATIONAL COMMUNITY, SOUTH OF ZHAOSUHE
 legacy_flg: N
 un_supp_flg: N
 inelig_flg: D
+debar_type: O
 debar_from_date: '2023-05-02'
-debar_to_date: '2026-05-01'
+debar_to_date: '2999-12-31'
 debar_reason: Controlled Affiliate of a Sanctioned Entity
 add_supp_info: "(内蒙古禹和建设工程有限公司)*632"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
+ineligibly_status: Ongoing
