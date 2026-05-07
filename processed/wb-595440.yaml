@@ -10,6 +10,7 @@ supp_addr: NHA BA DOAN THI TAM, XOM TAN XUAN
 legacy_flg: N
 un_supp_flg: N
 inelig_flg: X
+debar_type: O
 debar_from_date: '2021-07-30'
 debar_to_date: '2999-12-31'
 debar_reason: 'Cross Debarment: ADB'
@@ -17,4 +18,4 @@ supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: X-DEBARRED
-ineligibly_status: Permanent
+ineligibly_status: Ongoing
