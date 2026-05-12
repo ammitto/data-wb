@@ -14,6 +14,7 @@ inelig_flg: X
 debar_from_date: '2025-03-04'
 debar_to_date: '2029-11-19'
 debar_reason: 'Cross Debarment: IDB'
+add_supp_info: OOO иC-4 «ДушанбесоxтMOH»
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
