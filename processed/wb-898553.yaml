@@ -12,8 +12,7 @@ inelig_flg: X
 debar_from_date: '2024-09-24'
 debar_to_date: '2027-01-02'
 debar_reason: 'Cross Debarment: IDB'
-add_supp_info: "(BUT ONLY FOR ITS BUSINESS OPERATIONS IN THE WATER AND SANITATION
-  SECTOR)"
+add_supp_info: 河北建设集团哈尔滨机场建设有限公司
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
