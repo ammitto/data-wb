@@ -14,7 +14,7 @@ inelig_flg: D
 debar_from_date: '2022-09-27'
 debar_to_date: '2027-10-26'
 debar_reason: Collusive Practices
-add_supp_info: "*619"
+add_supp_info: "*618"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
