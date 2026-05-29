@@ -11,8 +11,9 @@ supp_addr: NO. 688, RONGHE SOUTH ROAD, URUMQI ECONOMIC & TECHNOLOGICAL DEVELOPME
 legacy_flg: N
 un_supp_flg: N
 inelig_flg: D
+debar_type: O
 debar_from_date: '2024-01-30'
-debar_to_date: '2026-05-29'
+debar_to_date: '2999-12-31'
 debar_reason: Controlled Affiliate of a Sanctioned Entity
 add_supp_info: "(f.k.a. XCCG Municipal Works Construction Co., Ltd.) (新疆交建市政工程有限责任公司)
   (91650104576202641Q) *647"
@@ -20,3 +21,4 @@ supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
+ineligibly_status: Ongoing
