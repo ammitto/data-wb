@@ -14,7 +14,7 @@ debar_type: O
 debar_from_date: '2021-01-05'
 debar_to_date: '2999-12-31'
 debar_reason: Corrupt Practices
-add_supp_info: "*571"
+add_supp_info: "*564"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
