@@ -13,7 +13,9 @@ inelig_flg: D
 debar_from_date: '2026-02-17'
 debar_to_date: '2027-05-16'
 debar_reason: Fraudulent Practices
-add_supp_info: "*707"
+add_supp_info: "(formerly known as CompuAids (doing business as (dba) Groupe Systèmes
+  et Solutions D’enterprise also dba ESS Group, also dba Enterprise Systems and Solutions)
+  (Reg. No. 1859937) *189"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
