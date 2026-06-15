@@ -13,6 +13,7 @@ inelig_flg: X
 debar_from_date: '2025-11-18'
 debar_to_date: '2026-11-27'
 debar_reason: 'Cross Debarment: EBRD'
+add_supp_info: ТОВ "ОНДЕМ ЕНЕРДЖІ СІСТЕМ"
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
