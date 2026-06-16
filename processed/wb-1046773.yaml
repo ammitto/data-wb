@@ -13,7 +13,6 @@ inelig_flg: X
 debar_from_date: '2025-12-18'
 debar_to_date: '2032-11-23'
 debar_reason: 'Cross Debarment: IDB'
-add_supp_info: ТОВ "СОНЯЧНА ЕНЕРГІЯ ГОРОДОЧЧИНИ"
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
