@@ -13,6 +13,8 @@ inelig_flg: X
 debar_from_date: '2021-10-18'
 debar_to_date: '2999-12-31'
 debar_reason: 'Cross Debarment: AfDB'
+add_supp_info: "(BUT ONLY FOR ITS BUSINESS OPERATIONS IN THE WATER AND SANITATION
+  SECTOR)"
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
