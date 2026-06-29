@@ -14,9 +14,9 @@ debar_type: O
 debar_from_date: '2023-02-14'
 debar_to_date: '2999-12-31'
 debar_reason: Collusive Practice
-add_supp_info: "(河南省地矿建设工程(集团)安徽有限公司)*632"
+add_supp_info: "*626"
 supp_elig_stat: DEBARRED
-crpd_match: N
+crpd_match: Y
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 ineligibly_status: Ongoing

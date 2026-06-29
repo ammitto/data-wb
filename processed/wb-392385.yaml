@@ -12,7 +12,7 @@ debar_type: O
 debar_from_date: '2019-03-01'
 debar_to_date: '2999-12-31'
 debar_reason: Controlled Affiliate of a Sanctioned Entity.
-add_supp_info: "*518 and 572"
+add_supp_info: "*469"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
