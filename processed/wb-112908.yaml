@@ -12,6 +12,7 @@ inelig_flg: D
 debar_from_date: '2002-12-19'
 debar_to_date: '2999-12-31'
 debar_reason: Consultant Guidelines 1.25(a)(i)
+add_supp_info: "*76"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

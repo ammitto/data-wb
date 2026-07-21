@@ -13,6 +13,7 @@ debar_type: O
 debar_from_date: '2018-04-09'
 debar_to_date: '2999-12-31'
 debar_reason: 'Cross-Debarment: AFDB'
+add_supp_info: "(CNPJ: 20.182.043/0001-42)"
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
