@@ -3,7 +3,6 @@ mandt: '300'
 supp_id: 356133
 supp_name: INVEPAR CONSTRUTORA LTDA - ME
 supp_type_code: F
-entity_type: organization
 land1: GY
 country_name: Guyana
 supp_city: EAST BANK DEMERARA
@@ -14,6 +13,7 @@ inelig_flg: X
 debar_from_date: '2018-02-20'
 debar_to_date: '2030-12-28'
 debar_reason: 'Cross-Debarment:  IDB'
+add_supp_info: "(CNPJ: 20.182.043/0001-42)"
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

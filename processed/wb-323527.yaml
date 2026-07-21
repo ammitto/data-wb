@@ -3,7 +3,6 @@ mandt: '300'
 supp_id: 323527
 supp_name: MR. NIKOLAI GEORGIEVITCH OBRADOVITCH
 supp_type_code: I
-entity_type: person
 land1: RU
 country_name: Russian Federation
 supp_city: 190000 SAINT PETERSBURG
@@ -15,7 +14,7 @@ debar_type: O
 debar_from_date: '2015-10-30'
 debar_to_date: '2999-12-31'
 debar_reason: Consultant Guidelines, 1.22(a)(i)
-add_supp_info: "*338"
+add_supp_info: "*296"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

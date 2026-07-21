@@ -3,7 +3,6 @@ mandt: '300'
 supp_id: 818306
 supp_name: FUTURA DISTRIBUIDORA E COMÉRCIO EM GERAL EIRELI
 supp_type_code: F
-entity_type: organization
 land1: BR
 country_name: Brazil
 supp_city: ARACAJU - SE, 49050-170
@@ -14,7 +13,6 @@ inelig_flg: X
 debar_from_date: '2023-12-28'
 debar_to_date: '2028-10-30'
 debar_reason: 'Cross Debarment: IDB'
-add_supp_info: "(a.k.a Mr. Joram OPALA)"
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

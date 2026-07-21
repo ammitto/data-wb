@@ -3,7 +3,6 @@ mandt: '300'
 supp_id: 507813
 supp_name: NOVOLINE RESOURCES L.P.
 supp_type_code: F
-entity_type: organization
 supp_pre_acrn: M/S
 land1: GB
 country_name: United Kingdom
@@ -16,7 +15,7 @@ debar_type: O
 debar_from_date: '2020-11-30'
 debar_to_date: '2999-12-31'
 debar_reason: 2016 Procurement Regulations, sub-paragraph 2.2 a(ii) of Annex IV
-add_supp_info: "(Reg. No: 0101889000)*617"
+add_supp_info: "*555"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

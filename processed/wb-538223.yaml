@@ -3,7 +3,6 @@ mandt: '300'
 supp_id: 538223
 supp_name: ZENG XIANGLIN
 supp_type_code: I
-entity_type: person
 land1: CN
 country_name: China
 supp_city: XI'AN CITY
@@ -15,7 +14,6 @@ debar_type: O
 debar_from_date: '2020-12-16'
 debar_to_date: '2999-12-31'
 debar_reason: 'Cross Debarment: ADB'
-add_supp_info: "*579"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

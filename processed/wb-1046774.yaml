@@ -3,7 +3,6 @@ mandt: '300'
 supp_id: 1046774
 supp_name: TERACON IT APS
 supp_type_code: F
-entity_type: organization
 land1: DK
 country_name: Denmark
 supp_city: 2800 KGS. LYNGBY
@@ -14,7 +13,6 @@ inelig_flg: X
 debar_from_date: '2025-12-18'
 debar_to_date: '2032-11-23'
 debar_reason: 'Cross Debarment: IDB'
-add_supp_info: OOO иC-4 «ДушанбесоxтMOH»
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

@@ -3,7 +3,6 @@ mandt: '300'
 supp_id: 324857
 supp_name: HUNAN CONSTRUCTION GROUP CO., LTD.
 supp_type_code: F
-entity_type: organization
 land1: CN
 country_name: China
 supp_city: HUNAN
@@ -16,7 +15,7 @@ debar_type: O
 debar_from_date: '2016-01-14'
 debar_to_date: '2999-12-31'
 debar_reason: Procurement Guidelines, 1.14(a)(ii)
-add_supp_info: "*303"
+add_supp_info: "(湖南建设集团有限公司) *301"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

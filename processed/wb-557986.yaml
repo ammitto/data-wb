@@ -3,7 +3,6 @@ mandt: '300'
 supp_id: 557986
 supp_name: ODELGA MED GES.M.B.H.
 supp_type_code: F
-entity_type: organization
 land1: AT
 country_name: Austria
 supp_city: 1230 VIENNA
@@ -15,7 +14,7 @@ debar_type: O
 debar_from_date: '2021-06-08'
 debar_to_date: '2027-06-07'
 debar_reason: Fraudulent & Corrupt Practices
-add_supp_info: "*510"
+add_supp_info: "*579"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

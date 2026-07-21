@@ -3,7 +3,6 @@ mandt: '300'
 supp_id: 165624
 supp_name: GLOBAL ALLIANCE TRADING COMPANY, INC.
 supp_type_code: F
-entity_type: organization
 land1: LR
 country_name: Liberia
 supp_city: MONROVIA
@@ -15,6 +14,7 @@ debar_type: O
 debar_from_date: '2015-06-19'
 debar_to_date: '2999-12-31'
 debar_reason: Procurement Guidelines, 1.14(a)(i)-(ii)
+add_supp_info: "*269"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

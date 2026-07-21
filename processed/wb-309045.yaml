@@ -3,7 +3,6 @@ mandt: '300'
 supp_id: 309045
 supp_name: COMSATEL
 supp_type_code: F
-entity_type: organization
 land1: BO
 country_name: Bolivia
 supp_city: LA PAZ
@@ -15,7 +14,7 @@ debar_type: O
 debar_from_date: '2014-04-29'
 debar_to_date: '2999-12-31'
 debar_reason: Procurement Guidelines, 1.14(a)(iii)
-add_supp_info: "*195"
+add_supp_info: "*193"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

@@ -3,7 +3,6 @@ mandt: '300'
 supp_id: 618874
 supp_name: MR. RAMIL BAHADIR OĜLU ALIYEV
 supp_type_code: I
-entity_type: person
 land1: AZ
 country_name: Azerbaijan
 supp_city: KHATAINSKIY RAYON, BAKU
@@ -15,7 +14,7 @@ debar_type: O
 debar_from_date: '2022-02-11'
 debar_to_date: '2027-02-10'
 debar_reason: Fraudulent Practice
-add_supp_info: "*396"
+add_supp_info: "*600"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

@@ -3,7 +3,6 @@ mandt: '300'
 supp_id: 326920
 supp_name: ASTRA BIOPHARMACEUTICALS LIMITED
 supp_type_code: F
-entity_type: organization
 supp_pre_acrn: M/S
 land1: BD
 country_name: Bangladesh
@@ -16,7 +15,7 @@ debar_type: O
 debar_from_date: '2016-09-13'
 debar_to_date: '2999-12-31'
 debar_reason: Procurement Guidelines, 1.14(a)(i)
-add_supp_info: "*405"
+add_supp_info: "*343"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

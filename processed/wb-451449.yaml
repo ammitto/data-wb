@@ -3,7 +3,6 @@ mandt: '300'
 supp_id: 451449
 supp_name: TIGER IT AMERICAS LLC
 supp_type_code: F
-entity_type: organization
 land1: US
 country_name: United States
 supp_state_code: WA
@@ -17,7 +16,7 @@ debar_type: O
 debar_from_date: '2019-11-22'
 debar_to_date: '2028-10-23'
 debar_reason: Controlled Affiliate of a Sanctioned Entity.
-add_supp_info: AL THUHAT COMPANY, GENERAL CONTRACTING AND TRADE *144
+add_supp_info: "(Reg. No.: 603 348 463)*475"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

@@ -3,7 +3,6 @@ mandt: '300'
 supp_id: 392261
 supp_name: MR. NICOLÁS MAURICIO IRÍAS OSORIO
 supp_type_code: I
-entity_type: person
 land1: HN
 country_name: Honduras
 supp_city: JUTICALPA, OLANCHO
@@ -15,7 +14,7 @@ debar_type: O
 debar_from_date: '2019-03-01'
 debar_to_date: '2999-12-31'
 debar_reason: Consultant Guidelines, 1.22(a)(ii)
-add_supp_info: "*462"
+add_supp_info: "*469"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

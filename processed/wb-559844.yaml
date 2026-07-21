@@ -3,7 +3,6 @@ mandt: '300'
 supp_id: 559844
 supp_name: TR CONSTRUYA PANAMÁ, S.A.
 supp_type_code: F
-entity_type: organization
 land1: PA
 country_name: Panama
 supp_city: PANAMA CITY
@@ -15,7 +14,6 @@ inelig_flg: X
 debar_from_date: '2021-03-12'
 debar_to_date: '2028-02-08'
 debar_reason: 'Cross Debarment: IDB'
-add_supp_info: MR. G.I.P. GUNATHILAKE
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

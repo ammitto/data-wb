@@ -3,7 +3,6 @@ mandt: '300'
 supp_id: 188885
 supp_name: SUGDIYON-1 CO. LTD.
 supp_type_code: F
-entity_type: organization
 supp_post_acrn: LLC
 land1: TJ
 country_name: Tajikistan
@@ -16,7 +15,8 @@ debar_type: O
 debar_from_date: '2015-09-24'
 debar_to_date: '2999-12-31'
 debar_reason: Sanctions Procedures sec. 9.04(c)
-add_supp_info: "*212"
+add_supp_info: "*87   as a successor or assign to Sugdiyon Limited Liability Company.
+  Lic. Series XT-8 #0003127 Tax ID No. 300001499"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

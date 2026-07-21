@@ -3,7 +3,6 @@ mandt: '300'
 supp_id: 340931
 supp_name: NREM INTERNATIONAL INC.
 supp_type_code: F
-entity_type: organization
 land1: CN
 country_name: China
 supp_city: BEIJING, 100027
@@ -15,7 +14,7 @@ debar_type: O
 debar_from_date: '2018-11-29'
 debar_to_date: '2999-12-31'
 debar_reason: Para. 1.22(a)(ii), May 2010 Consultant Guidelines
-add_supp_info: "*10"
+add_supp_info: "*456"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

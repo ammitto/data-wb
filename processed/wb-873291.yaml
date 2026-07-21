@@ -3,7 +3,6 @@ mandt: '300'
 supp_id: 873291
 supp_name: OGON ASU LIMITED
 supp_type_code: F
-entity_type: organization
 land1: NG
 country_name: Nigeria
 supp_city: ASOKORO, ABUJA, FCT
@@ -14,7 +13,6 @@ inelig_flg: X
 debar_from_date: '2023-03-28'
 debar_to_date: '2999-12-31'
 debar_reason: 'Cross Debarment: AfDB'
-add_supp_info: 北京天嘉建筑工程有限公司
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

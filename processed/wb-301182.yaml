@@ -3,7 +3,6 @@ mandt: '300'
 supp_id: 301182
 supp_name: MR. ARTURO JAVIER HARO GUTIÉRREZ
 supp_type_code: I
-entity_type: person
 land1: PE
 country_name: Peru
 supp_city: CERCADO DE LIMA
@@ -15,7 +14,7 @@ debar_type: O
 debar_from_date: '2014-03-19'
 debar_to_date: '2999-12-31'
 debar_reason: Consultant Guidelines, 1.22(a)(ii)
-add_supp_info: "*182"
+add_supp_info: "*185"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

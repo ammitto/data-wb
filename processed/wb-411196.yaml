@@ -3,7 +3,6 @@ mandt: '300'
 supp_id: 411196
 supp_name: WATER SUPPLY SEWERAGE CONSTRUCTION AND INVESTMENT JOINT STOCK COMPANY (WASECO)
 supp_type_code: F
-entity_type: organization
 land1: VN
 country_name: Viet Nam
 supp_city: HO CHI MINH CITY
@@ -15,7 +14,7 @@ debar_type: O
 debar_from_date: '2022-09-26'
 debar_to_date: '2999-12-31'
 debar_reason: Controlled Affiliate of a Sanctioned Entity
-add_supp_info: "*463"
+add_supp_info: "(Reg. No: 0300393538)*617"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

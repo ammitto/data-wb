@@ -3,7 +3,6 @@ mandt: '300'
 supp_id: 328289
 supp_name: MR. PEWEE FLOMO
 supp_type_code: I
-entity_type: person
 land1: LR
 country_name: Liberia
 supp_city: MONROVIA
@@ -15,7 +14,7 @@ debar_type: O
 debar_from_date: '2016-12-27'
 debar_to_date: '2999-12-31'
 debar_reason: Consultant Guidelines, 1.22(a)(ii)
-add_supp_info: "*349"
+add_supp_info: "*354"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

@@ -3,7 +3,6 @@ mandt: '300'
 supp_id: 477372
 supp_name: FLOWBIRD TRANSPORT LIMITED
 supp_type_code: F
-entity_type: organization
 land1: GB
 country_name: United Kingdom
 supp_city: DORSET BH15 355
@@ -15,7 +14,7 @@ debar_type: O
 debar_from_date: '2020-07-17'
 debar_to_date: '2999-12-31'
 debar_reason: Procurement Guidelines, 1.16(a)(iii)
-add_supp_info: "*465"
+add_supp_info: "(formerly operating as: Parkeon Transit Limited)*535"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

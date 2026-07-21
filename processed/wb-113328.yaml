@@ -3,7 +3,6 @@ mandt: '300'
 supp_id: 113328
 supp_name: O-GROUP MANAGEMENT & CONSULTING URBAN PLANNER BV
 supp_type_code: F
-entity_type: organization
 land1: NL
 country_name: Netherlands
 supp_city: AMSTERDAM
@@ -13,7 +12,6 @@ inelig_flg: D
 debar_from_date: '2001-03-30'
 debar_to_date: '2999-12-31'
 debar_reason: Consultant Guidelines 1.25(a)(i)
-add_supp_info: "*143"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

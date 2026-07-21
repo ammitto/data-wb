@@ -3,7 +3,6 @@ mandt: '300'
 supp_id: 154092
 supp_name: THE GLOCOMS GROUP, INC.
 supp_type_code: F
-entity_type: organization
 land1: US
 country_name: United States
 supp_state_code: IL
@@ -16,7 +15,7 @@ debar_type: O
 debar_from_date: '2010-04-01'
 debar_to_date: '2999-12-31'
 debar_reason: Sanctions Procedures 9.04(a)
-add_supp_info: "*146"
+add_supp_info: "*11"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

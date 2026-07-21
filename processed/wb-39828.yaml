@@ -3,7 +3,6 @@ mandt: '300'
 supp_id: 39828
 supp_name: IG-TOGO SARL
 supp_type_code: F
-entity_type: organization
 land1: TG
 country_name: Togo
 supp_city: LOMÉ
@@ -15,6 +14,7 @@ debar_type: O
 debar_from_date: '2011-11-22'
 debar_to_date: '2999-12-31'
 debar_reason: Procurement Guidelines, 1.14(a)(ii)
+add_supp_info: "*75"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

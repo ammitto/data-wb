@@ -3,7 +3,6 @@ mandt: '300'
 supp_id: 385776
 supp_name: MR. HENRY CHINEDU OJOKO
 supp_type_code: I
-entity_type: person
 land1: NG
 country_name: Nigeria
 supp_city: DELTA STATE
@@ -16,7 +15,7 @@ debar_type: O
 debar_from_date: '2019-01-29'
 debar_to_date: '2999-12-31'
 debar_reason: Consultant Guidelines 1.23(a)(i)
-add_supp_info: "*441"
+add_supp_info: "*463"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

@@ -3,7 +3,6 @@ mandt: '300'
 supp_id: 577015
 supp_name: MAXICARE COMPANY NIGERIA LIMITED
 supp_type_code: F
-entity_type: organization
 land1: NG
 country_name: Nigeria
 supp_city: ABUJA
@@ -16,7 +15,6 @@ debar_type: O
 debar_from_date: '2021-05-19'
 debar_to_date: '2999-12-31'
 debar_reason: 'Cross Debarment: AfDB'
-add_supp_info: "(河南乾坤路桥工程有限公司)"
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

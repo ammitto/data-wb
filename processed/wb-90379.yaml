@@ -3,7 +3,6 @@ mandt: '300'
 supp_id: 90379
 supp_name: EASTERN BUILDERS AND ENGINEERS LIMITED
 supp_type_code: F
-entity_type: organization
 land1: UG
 country_name: Uganda
 supp_city: KAMPALA
@@ -15,7 +14,7 @@ debar_type: O
 debar_from_date: '2012-01-31'
 debar_to_date: '2999-12-31'
 debar_reason: Procurement Guidelines, 1.14(a)(i); 1.14(a)(ii)
-add_supp_info: "*73"
+add_supp_info: "*89"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

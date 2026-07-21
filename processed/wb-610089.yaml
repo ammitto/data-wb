@@ -3,7 +3,6 @@ mandt: '300'
 supp_id: 610089
 supp_name: PT. KARUNIAGUNA INTISEMESTA
 supp_type_code: F
-entity_type: organization
 land1: ID
 country_name: Indonesia
 supp_city: JAKARTA SELATAN 12970
@@ -15,7 +14,7 @@ debar_type: O
 debar_from_date: '2022-01-19'
 debar_to_date: '2999-12-31'
 debar_reason: Fraudulent Practice
-add_supp_info: "*605"
+add_supp_info: "*598"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

@@ -3,7 +3,6 @@ mandt: '300'
 supp_id: 326600
 supp_name: MR. ALEXANDRE ANTONIO PAREJA QUINTANILLA
 supp_type_code: I
-entity_type: person
 land1: PE
 country_name: Peru
 supp_city: PISCO
@@ -15,7 +14,7 @@ debar_type: O
 debar_from_date: '2016-08-23'
 debar_to_date: '2999-12-31'
 debar_reason: Procurement Guidelines, 1.14(a)(ii)
-add_supp_info: "*302"
+add_supp_info: "*339"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

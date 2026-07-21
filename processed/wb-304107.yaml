@@ -3,7 +3,6 @@ mandt: '300'
 supp_id: 304107
 supp_name: GEOMETRICA CONSTRUÇÕES LTDA
 supp_type_code: F
-entity_type: organization
 land1: BR
 country_name: Brazil
 supp_city: SÃO LUÍS, MARANHÃO
@@ -15,7 +14,7 @@ debar_type: O
 debar_from_date: '2013-10-03'
 debar_to_date: '2999-12-31'
 debar_reason: Procurement Guidelines, 1.15(a)(ii)
-add_supp_info: "*184"
+add_supp_info: "*166"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

@@ -3,7 +3,6 @@ mandt: '300'
 supp_id: 152306
 supp_name: STEEVE LABERGE
 supp_type_code: I
-entity_type: person
 land1: CA
 country_name: Canada
 supp_city: QUEBEC, J8N 1J1
@@ -15,8 +14,7 @@ debar_type: O
 debar_from_date: '2014-07-02'
 debar_to_date: '2999-12-31'
 debar_reason: Consultant Guidelines, 1.25(a)(ii)
-add_supp_info: "*87   as a successor or assign to Sugdiyon Limited Liability Company.
-  Lic. Series XT-8 #0003127 Tax ID No. 300001499"
+add_supp_info: "*216"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

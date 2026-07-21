@@ -3,7 +3,6 @@ mandt: '300'
 supp_id: 331611
 supp_name: INGENIEROS CIVILES ASOCIADOS S.A.
 supp_type_code: F
-entity_type: organization
 land1: BO
 country_name: Bolivia
 supp_city: LA PAZ
@@ -15,7 +14,7 @@ debar_type: O
 debar_from_date: '2017-02-01'
 debar_to_date: '2999-12-31'
 debar_reason: 2010 Procurement Guidelines, 1.14(a)(iii)
-add_supp_info: "(中太建设集团股份有限公司)*414"
+add_supp_info: "*359"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

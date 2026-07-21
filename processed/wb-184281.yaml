@@ -3,7 +3,6 @@ mandt: '300'
 supp_id: 184281
 supp_name: MR. ASRUL MASIR HARAHAP
 supp_type_code: I
-entity_type: person
 land1: ID
 country_name: Indonesia
 supp_city: JAKARTA SELATAN
@@ -15,7 +14,6 @@ debar_type: O
 debar_from_date: '2010-12-03'
 debar_to_date: '2999-12-31'
 debar_reason: 'Cross Debarment: ADB'
-add_supp_info: AKA (Ms.) Ir. Norma Kumalawati
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

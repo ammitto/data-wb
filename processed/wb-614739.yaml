@@ -3,7 +3,6 @@ mandt: '300'
 supp_id: 614739
 supp_name: NOAH ROSENKRANTZ
 supp_type_code: I
-entity_type: person
 land1: US
 country_name: United States
 supp_state_code: DC
@@ -15,7 +14,6 @@ inelig_flg: X
 debar_from_date: '2021-10-18'
 debar_to_date: '2029-09-19'
 debar_reason: 'Cross Debarment: IDB'
-add_supp_info: "(Reg. No.: So. 0343 KH/2010)"
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

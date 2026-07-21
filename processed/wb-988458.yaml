@@ -3,7 +3,6 @@ mandt: '300'
 supp_id: 988458
 supp_name: ZIRASAS COMPANY
 supp_type_code: F
-entity_type: organization
 land1: IR
 country_name: Iran, Islamic Republic of
 supp_city: TEHRAN 1576635511
@@ -14,7 +13,7 @@ inelig_flg: D
 debar_from_date: '2025-06-17'
 debar_to_date: '2030-09-16'
 debar_reason: Controlled Affiliate of a Sanctioned Entity.
-add_supp_info: "(Reg. No. 1998/017039/07)*658"
+add_supp_info: "(Reg. No: 61521) *696"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

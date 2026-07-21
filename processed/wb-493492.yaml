@@ -3,7 +3,6 @@ mandt: '300'
 supp_id: 493492
 supp_name: SAO BAC DAU TELECOM JOINT STOCK COMPANY (SBD TELECOM)
 supp_type_code: F
-entity_type: organization
 land1: VN
 country_name: Viet Nam
 supp_city: HO CHI MINH
@@ -16,7 +15,7 @@ debar_type: O
 debar_from_date: '2020-06-23'
 debar_to_date: '2027-06-22'
 debar_reason: Controlled Affiliate of a Sanctioned Entity.
-add_supp_info: "*564"
+add_supp_info: "(Reg. No.: 0107426513)*531"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

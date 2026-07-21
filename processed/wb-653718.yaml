@@ -3,7 +3,6 @@ mandt: '300'
 supp_id: 653718
 supp_name: MR. ISAH SALIHU KANTIGI
 supp_type_code: I
-entity_type: person
 land1: NG
 country_name: Nigeria
 supp_city: WUSE 11 – ABUJA, FCT
@@ -16,7 +15,7 @@ debar_type: O
 debar_from_date: '2022-03-29'
 debar_to_date: '2027-03-28'
 debar_reason: Corrupt Practice
-add_supp_info: "*566, 576"
+add_supp_info: "*605"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
