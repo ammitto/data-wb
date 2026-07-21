@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 319342
 supp_name: SOLUCIONES ENERGÉTICAS, S. A.
 supp_type_code: F
+entity_type: organization
 land1: ES
 country_name: Spain
 supp_city: MADRID 28021

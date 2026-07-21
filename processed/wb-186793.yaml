@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 186793
 supp_name: MR. ALEX OPUA
 supp_type_code: I
+entity_type: person
 land1: UG
 country_name: Uganda
 supp_city: KAMPALA

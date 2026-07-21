@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 200681
 supp_name: CONSTRUCTORA CONSTRUSAND S.R.L.
 supp_type_code: F
+entity_type: organization
 land1: BO
 country_name: Bolivia
 supp_city: MONTERO – SANTA CRUZ

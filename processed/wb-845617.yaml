@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 845617
 supp_name: T.E. NEW ZEALAND
 supp_type_code: F
+entity_type: organization
 land1: NZ
 country_name: New Zealand
 supp_city: AUCKLAND, 2013

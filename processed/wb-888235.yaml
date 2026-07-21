@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 888235
 supp_name: HEBEI CONSTRUCTION GROUP CORPORATION LIMITED SUZHOU BRANCH
 supp_type_code: F
+entity_type: organization
 land1: CN
 country_name: China
 supp_addr: ROOM 415, BUILDING 1, NO 18, QIHONG ROAD, SUZHOU INDUSTRIAL PARK

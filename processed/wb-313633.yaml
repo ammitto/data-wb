@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 313633
 supp_name: MR. FAUSTO ALEJANDRO LOPEZ CIFUENTES
 supp_type_code: I
+entity_type: person
 land1: GT
 country_name: Guatemala
 supp_city: GUATEMALA CITY (CUIDAD DE GUATEMALA)

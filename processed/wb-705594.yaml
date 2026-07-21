@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 705594
 supp_name: SOMSAVANH CHALEUN CONSTRUCTION CO., LTD.
 supp_type_code: F
+entity_type: organization
 land1: LA
 country_name: Lao People's Democratic Republic
 supp_city: CHAMPASAK PROVINCE
@@ -13,6 +14,7 @@ inelig_flg: X
 debar_from_date: '2022-11-01'
 debar_to_date: '2027-07-13'
 debar_reason: 'Cross Debarment: ADB'
+add_supp_info: "(Reg No. 16-00009045/4516/(F/1))"
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

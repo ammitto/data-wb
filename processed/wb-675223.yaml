@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 675223
 supp_name: CHEZ AVIV NIGERIA LIMITED
 supp_type_code: F
+entity_type: organization
 land1: NG
 country_name: Nigeria
 supp_city: ENUGU, ENUGU STATE

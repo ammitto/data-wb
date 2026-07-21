@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 848891
 supp_name: LOTTE INNOVATE AMERICA CO.
 supp_type_code: F
+entity_type: organization
 land1: US
 country_name: United States
 supp_state_code: DE

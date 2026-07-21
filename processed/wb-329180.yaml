@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 329180
 supp_name: BEST SCAN SOLUTIONS LIMITED
 supp_type_code: F
+entity_type: organization
 land1: NG
 country_name: Nigeria
 supp_city: LAGOS

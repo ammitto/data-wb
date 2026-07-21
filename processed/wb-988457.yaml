@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 988457
 supp_name: PARS TABLEAU MASHHAD COMPANY
 supp_type_code: F
+entity_type: organization
 land1: IR
 country_name: Iran, Islamic Republic of
 supp_city: MASHHAD 9185635157

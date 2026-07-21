@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 829911
 supp_name: MR. JORAM OPALA OTIENO
 supp_type_code: I
+entity_type: person
 land1: KE
 country_name: Kenya
 supp_city: NAIROBI
@@ -15,6 +16,7 @@ debar_type: O
 debar_from_date: '2022-03-01'
 debar_to_date: '2999-12-31'
 debar_reason: 'Cross Debarment: AfDB'
+add_supp_info: "(a.k.a Mr. Joram OPALA)"
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

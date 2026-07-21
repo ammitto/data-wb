@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 1027876
 supp_name: ROVIN ADRIAN SUKHRAJ
 supp_type_code: I
+entity_type: person
 land1: GY
 country_name: Guyana
 supp_city: GEORGETOWN

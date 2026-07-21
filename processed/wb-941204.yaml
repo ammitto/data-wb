@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 941204
 supp_name: CABLE ANDINO INC.
 supp_type_code: F
+entity_type: organization
 land1: BS
 country_name: Bahamas, The
 supp_city: NASSAU

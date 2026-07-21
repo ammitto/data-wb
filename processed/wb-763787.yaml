@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 763787
 supp_name: MR. MODOU BOUSSO DIOP
 supp_type_code: I
+entity_type: person
 land1: SN
 country_name: Senegal
 supp_city: DAKAR

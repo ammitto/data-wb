@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 960054
 supp_name: OAS ENERGY GMBH
 supp_type_code: F
+entity_type: organization
 land1: AT
 country_name: Austria
 supp_city: VIENNA

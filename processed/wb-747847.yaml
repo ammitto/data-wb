@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 747847
 supp_name: DINAJU S.A.
 supp_type_code: F
+entity_type: organization
 land1: CR
 country_name: Costa Rica
 legacy_flg: N

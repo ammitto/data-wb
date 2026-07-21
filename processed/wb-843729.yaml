@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 843729
 supp_name: COMMUNITY RESILIENCE INITIATIVE
 supp_type_code: F
+entity_type: organization
 supp_pre_acrn: M/S
 land1: PK
 country_name: Pakistan

@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 848019
 supp_name: COMPUTECH BUSINESS SERVICES LIMITED
 supp_type_code: F
+entity_type: organization
 land1: MW
 country_name: Malawi
 supp_city: BLANTYRE

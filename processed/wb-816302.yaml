@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 816302
 supp_name: LEI SITAO
 supp_type_code: I
+entity_type: person
 land1: CN
 country_name: China
 supp_city: WEIYANG DISTRICT, XI'AN CITY, 710000

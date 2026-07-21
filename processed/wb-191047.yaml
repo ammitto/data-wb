@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 191047
 supp_name: MR. TITH VOEURN
 supp_type_code: I
+entity_type: person
 land1: KH
 country_name: Cambodia
 supp_city: PHNOM PENH

@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 343102
 supp_name: ENG. JOSE PALAC
 supp_type_code: I
+entity_type: person
 land1: PH
 country_name: Philippines
 supp_city: CAINTA RIZAL

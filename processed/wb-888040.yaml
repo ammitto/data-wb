@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 888040
 supp_name: HEBEI TONGCHUANG LIANTAI HOSPITAL MANAGEMENT CO., LTD.
 supp_type_code: F
+entity_type: organization
 land1: CN
 country_name: China
 supp_city: HENGSHUI CITY, HEBEI PROVINCE

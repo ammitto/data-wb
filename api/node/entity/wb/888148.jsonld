@@ -1,0 +1,19 @@
+{
+  "id": "https://www.ammitto.org/entity/wb/888148",
+  "entity_type": "organization",
+  "names": [
+    {
+      "full_name": "INNER MONGOLIA JIANTOU DEVELOPMENT CONSTRUCTION ENGINEERING CO., LTD.",
+      "is_primary": true
+    }
+  ],
+  "addresses": [
+    {
+      "street": "ROOM 1717, 17TH FLOOR, BUILDING 4, WANZHENG SHANGDU, NO 4 UNIVERSITY EAST STREET, SAIHAN DISTRICT",
+      "city": "HOHHOT, INNER MONGOLIA AUTONOMOUS REGION",
+      "country": "China",
+      "country_iso_code": "CN"
+    }
+  ],
+  "@context": "https://www.ammitto.org/ontology/context.jsonld"
+}

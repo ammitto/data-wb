@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 960072
 supp_name: CONSTRUTORA COESA S.A. - SUCURSAL COSTA RICA
 supp_type_code: F
+entity_type: organization
 land1: CR
 country_name: Costa Rica
 supp_city: SAN JOSE

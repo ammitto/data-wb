@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 594185
 supp_name: NANCHANG HEHONG CONSTRUCTION CO., LTD.
 supp_type_code: F
+entity_type: organization
 land1: CN
 country_name: China
 supp_city: JIANGXI PROVINCE

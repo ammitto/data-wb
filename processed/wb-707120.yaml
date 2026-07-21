@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 707120
 supp_name: MR. AMIR UDDIN SHAH
 supp_type_code: I
+entity_type: person
 land1: PK
 country_name: Pakistan
 supp_city: HIKMAT ABAD, D.I. KHAN

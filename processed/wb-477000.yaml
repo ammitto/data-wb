@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 477000
 supp_name: BEULAH UNIVERSAL LINK RESOURCES LIMITED
 supp_type_code: F
+entity_type: organization
 land1: NG
 country_name: Nigeria
 supp_city: ABUJA, FCT

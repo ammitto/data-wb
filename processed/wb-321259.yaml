@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 321259
 supp_name: ECOGRAPH LLC
 supp_type_code: F
+entity_type: organization
 land1: MN
 country_name: Mongolia
 supp_city: ULANBATAAR

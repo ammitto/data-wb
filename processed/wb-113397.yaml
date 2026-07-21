@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 113397
 supp_name: SHARDA IMPEX (U.K.) LTD.
 supp_type_code: F
+entity_type: organization
 land1: GB
 country_name: United Kingdom
 legacy_flg: N

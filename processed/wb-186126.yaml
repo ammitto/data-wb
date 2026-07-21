@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 186126
 supp_name: MRS. SHAMSUNNAHAR
 supp_type_code: I
+entity_type: person
 land1: BD
 country_name: Bangladesh
 supp_city: DISTRICT CHUADANG-7200

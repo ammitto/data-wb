@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 845603
 supp_name: SAUDI-TAIHAN CO., LTD.
 supp_type_code: F
+entity_type: organization
 land1: SA
 country_name: Saudi Arabia
 supp_city: AR RIYADH

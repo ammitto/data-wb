@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 958232
 supp_name: PANAQUE, S.R.L.
 supp_type_code: F
+entity_type: organization
 land1: IT
 country_name: Italy
 supp_city: ROME

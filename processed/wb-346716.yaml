@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 346716
 supp_name: AVTOBANI LTD.
 supp_type_code: F
+entity_type: organization
 land1: GE
 country_name: Georgia
 supp_city: TBILISI

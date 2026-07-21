@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 467486
 supp_name: AL THUHAT
 supp_type_code: F
+entity_type: organization
 land1: IQ
 country_name: Iraq
 supp_city: BAGHDAD

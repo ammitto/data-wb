@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 1062674
 supp_name: MR. MARTIN OBIERO ACHIENG
 supp_type_code: I
+entity_type: person
 land1: KE
 country_name: Kenya
 supp_city: NAIROBI

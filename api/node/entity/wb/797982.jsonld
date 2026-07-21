@@ -1,0 +1,20 @@
+{
+  "id": "https://www.ammitto.org/entity/wb/797982",
+  "entity_type": "organization",
+  "names": [
+    {
+      "full_name": "HAINAN HENGXIN JUYUAN INTERNATIONAL TRADE CO., LTD.",
+      "is_primary": true
+    }
+  ],
+  "remarks": "(海南恒信聚源国际贸易有限公司)(91469025MABMB0E65M)(ID: 91469025MABMB0E65M)*647",
+  "addresses": [
+    {
+      "street": "C 2601, TOWER C (EAST TOWER), GUORUI MANSION, GUOXING AVENUE NO. 11, LANTIAN STREET, MEILAN DISTRICT, HAIKOU",
+      "city": "HAINAN",
+      "country": "China",
+      "country_iso_code": "CN"
+    }
+  ],
+  "@context": "https://www.ammitto.org/ontology/context.jsonld"
+}

@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 888173
 supp_name: HEBEI CONSTRUCTION GROUP TIANMIAN CONSTRUCTION ENGINEERING CO., LTD.
 supp_type_code: F
+entity_type: organization
 land1: CN
 country_name: China
 supp_addr: ROOM 701, BUILDING 6, SCIENCE PARK, HEBEI UNIVERSITY OF TECHNOLOGY, XINGTAI

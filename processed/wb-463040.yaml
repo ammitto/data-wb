@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 463040
 supp_name: CANES CHARLES
 supp_type_code: I
+entity_type: person
 land1: HT
 country_name: Haiti
 supp_city: PÉTION-VILLE

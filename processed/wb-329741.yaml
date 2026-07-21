@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 329741
 supp_name: SEMIH SAGOCAK
 supp_type_code: I
+entity_type: person
 land1: AZ
 country_name: Azerbaijan
 supp_city: BAKU

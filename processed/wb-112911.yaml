@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 112911
 supp_name: EASTERN TRADING LTD.
 supp_type_code: F
+entity_type: organization
 land1: AE
 country_name: United Arab Emirates
 legacy_flg: N

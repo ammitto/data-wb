@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 186440
 supp_name: CABINET DE RECHERCHE, DE FORMATION ET D'EXPERTISE EN SANTÉ
 supp_type_code: F
+entity_type: organization
 land1: ZR
 country_name: Congo, Democratic Republic of
 supp_city: KINSHASA

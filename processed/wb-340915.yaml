@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 340915
 supp_name: NREM INTERNATIONAL INC.
 supp_type_code: F
+entity_type: organization
 land1: CA
 country_name: Canada
 supp_city: OTTAWA, ONTARIO, K1P 1A4

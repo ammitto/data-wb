@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 826460
 supp_name: EGIS INTERNATIONAL S.A.S
 supp_type_code: F
+entity_type: organization
 land1: FR
 country_name: France
 supp_city: 78286 SAINT-QUENTIN-EN-YVELINES CEDEX

@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 346717
 supp_name: MR. SHALVA BUBUTEISHVILI
 supp_type_code: I
+entity_type: person
 land1: GE
 country_name: Georgia
 supp_city: TBILISI

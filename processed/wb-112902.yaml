@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 112902
 supp_name: DARESLEY HOLDING, INC.
 supp_type_code: F
+entity_type: organization
 land1: GB
 country_name: United Kingdom
 supp_addr: BRITISH VIRGIN ISLANDS

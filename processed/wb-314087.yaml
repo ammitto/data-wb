@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 314087
 supp_name: RISMA LTD.
 supp_type_code: F
+entity_type: organization
 land1: KG
 country_name: Kyrgyz Republic
 supp_city: BATKEN OBLAST, INN

@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 339762
 supp_name: MIDDLE SOUTH UNION ELECTRIC CO. LTD.
 supp_type_code: F
+entity_type: organization
 land1: CN
 country_name: China
 supp_city: YUEQING CITY, ZHEJIANG

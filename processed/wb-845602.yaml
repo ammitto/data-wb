@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 845602
 supp_name: VELVETSKY NINE LTD.
 supp_type_code: F
+entity_type: organization
 land1: ZA
 country_name: South Africa
 supp_city: GAUTENG

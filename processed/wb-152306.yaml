@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 152306
 supp_name: STEEVE LABERGE
 supp_type_code: I
+entity_type: person
 land1: CA
 country_name: Canada
 supp_city: QUEBEC, J8N 1J1

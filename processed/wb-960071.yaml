@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 960071
 supp_name: CONSTRUTORA COESA S.A. - SUCURSAL COLOMBIA
 supp_type_code: F
+entity_type: organization
 land1: CO
 country_name: Colombia
 supp_city: BOGOTA
