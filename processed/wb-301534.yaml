@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 301534
 supp_name: YAVUZER İNŞAAT MAKINE VE MALZEMELERI SANAYI VE TICARET LTD. ŞTI
 supp_type_code: F
+entity_type: organization
 land1: TR
 country_name: Turkiye
 supp_city: ESKIŞCHIR

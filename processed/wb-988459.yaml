@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 988459
 supp_name: PARS TABLEAU AFGHANISTAN
 supp_type_code: F
+entity_type: organization
 land1: AF
 country_name: Afghanistan
 supp_city: KABUL

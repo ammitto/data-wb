@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 326305
 supp_name: JIANGXI HENGJIAN ROAD AND BRIDGE ENGINEERING CO., LTD.
 supp_type_code: F
+entity_type: organization
 land1: CN
 country_name: China
 supp_city: 'JIANGXI PROVINCE, ZIP CODE: 334200'

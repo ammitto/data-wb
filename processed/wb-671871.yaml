@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 671871
 supp_name: MR. KIMCHHEAN YIM
 supp_type_code: I
+entity_type: person
 land1: KH
 country_name: Cambodia
 supp_city: PHNOM PENH, 12351

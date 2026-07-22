@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 888124
 supp_name: DANGSHAN SOARING GENERAL AVIATION INDUSTRY DEVELOPMENT CO., LTD.
 supp_type_code: F
+entity_type: organization
 land1: CN
 country_name: China
 supp_city: SUZHOU CITY, ANHUI PROVINCE

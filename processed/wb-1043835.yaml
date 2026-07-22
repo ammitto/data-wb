@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 1043835
 supp_name: CM-4 LLC DUSHANBESTROY
 supp_type_code: F
+entity_type: organization
 land1: TJ
 country_name: Tajikistan
 supp_city: DUSHANBE CITY

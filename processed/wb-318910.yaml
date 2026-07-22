@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 318910
 supp_name: BERKMAN INTERNATIONAL, INC.
 supp_type_code: F
+entity_type: organization
 land1: PH
 country_name: Philippines
 supp_city: SAN JUAN CITY

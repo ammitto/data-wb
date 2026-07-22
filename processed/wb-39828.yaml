@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 39828
 supp_name: IG-TOGO SARL
 supp_type_code: F
+entity_type: organization
 land1: TG
 country_name: Togo
 supp_city: LOMÉ

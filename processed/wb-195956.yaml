@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 195956
 supp_name: INFORMATION COMPUTER SYSTEMS, CJSC
 supp_type_code: F
+entity_type: organization
 land1: UA
 country_name: Ukraine
 supp_city: KYIV, 03005

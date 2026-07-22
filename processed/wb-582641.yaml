@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 582641
 supp_name: ĐOÀN ANH DŨNG
 supp_type_code: I
+entity_type: person
 land1: VN
 country_name: Viet Nam
 supp_city: HANOI 100000 (HÀ NỘI)

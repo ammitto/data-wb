@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 1044554
 supp_name: NEXTOPIA ENERJI ÜRETIM A.S.
 supp_type_code: F
+entity_type: organization
 land1: TR
 country_name: Turkiye
 supp_city: ISTANBUL

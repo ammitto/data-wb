@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 845616
 supp_name: T.E. AUSTRALIA
 supp_type_code: F
+entity_type: organization
 land1: AU
 country_name: Australia
 supp_city: CHATSWOOD NSW 2067

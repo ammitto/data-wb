@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 356133
 supp_name: INVEPAR CONSTRUTORA LTDA - ME
 supp_type_code: F
+entity_type: organization
 land1: GY
 country_name: Guyana
 supp_city: EAST BANK DEMERARA

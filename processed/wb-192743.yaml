@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 192743
 supp_name: MR. MEAS SINA
 supp_type_code: I
+entity_type: person
 land1: KH
 country_name: Cambodia
 supp_addr: "#51EO, ST. 366, SANGKAT TOUL SVAY, PREY I, KHAN CHAMKARMORN, CITY PHNOM

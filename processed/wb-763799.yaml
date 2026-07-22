@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 763799
 supp_name: "“TIMIR” LLP"
 supp_type_code: F
+entity_type: organization
 land1: KZ
 country_name: Kazakhstan
 supp_city: ALMATY

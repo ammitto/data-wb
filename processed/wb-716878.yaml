@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 716878
 supp_name: GESAWORLD MÉXICO S.A. DE C.V.
 supp_type_code: F
+entity_type: organization
 land1: MX
 country_name: Mexico
 legacy_flg: N

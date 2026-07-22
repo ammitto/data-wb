@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 889892
 supp_name: GES PLAN SH.P.K.
 supp_type_code: F
+entity_type: organization
 land1: XK
 country_name: Kosovo
 supp_city: FUSHË KOSOVË

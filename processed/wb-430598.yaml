@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 430598
 supp_name: ESWARI ELECTRICALS PVT. LIMITED
 supp_type_code: F
+entity_type: organization
 land1: IN
 country_name: India
 supp_city: TAMIL NADU

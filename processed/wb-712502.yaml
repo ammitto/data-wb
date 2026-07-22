@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 712502
 supp_name: JOONGANG CONTROL CO., LTD.
 supp_type_code: F
+entity_type: organization
 land1: KR
 country_name: Korea, Republic of
 supp_city: CHUNGCHEONGBUK-DO

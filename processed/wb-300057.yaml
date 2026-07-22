@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 300057
 supp_name: KUOY VUOCH CONSTRUCTION CO., LTD
 supp_type_code: F
+entity_type: organization
 land1: KH
 country_name: Cambodia
 supp_city: PURSAT CITY, PURSAT PROVINCE

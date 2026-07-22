@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 113396
 supp_name: SCAN DISTRIBUTION PTE. LTD.
 supp_type_code: F
+entity_type: organization
 land1: SG
 country_name: Singapore
 legacy_flg: N

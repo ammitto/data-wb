@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 325976
 supp_name: REGAL INFORMATION TECHNOLOGY PRIVATE LIMITED
 supp_type_code: F
+entity_type: organization
 land1: IN
 country_name: India
 supp_city: NEW DELHI -110020

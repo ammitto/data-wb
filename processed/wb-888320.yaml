@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 888320
 supp_name: HEBEI CONSTRUCTION GROUP CORPORATION LIMITED ZHANGSHU BRANCH
 supp_type_code: F
+entity_type: organization
 land1: CN
 country_name: China
 supp_city: ZHANGSHU CITY, YICHUN CITY, JIANGXI PROVINCE

@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 988445
 supp_name: PARS TABLEAU COMPANY
 supp_type_code: F
+entity_type: organization
 supp_pre_acrn: M/S
 land1: IR
 country_name: Iran, Islamic Republic of

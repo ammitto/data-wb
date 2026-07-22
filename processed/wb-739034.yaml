@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 739034
 supp_name: ENGR. INNOCENT O. DIYOKE
 supp_type_code: I
+entity_type: person
 land1: NG
 country_name: Nigeria
 supp_city: ENUGU STATE

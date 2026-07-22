@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 440056
 supp_name: LLC “WOODMANMEBEL”
 supp_type_code: F
+entity_type: organization
 land1: RU
 country_name: Russian Federation
 supp_city: MOSCOW 125466

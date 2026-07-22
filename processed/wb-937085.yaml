@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 937085
 supp_name: PANJING DIANBAI SECOND CONSTRUCTION ENGINEERING CO., LTD.
 supp_type_code: F
+entity_type: organization
 land1: CN
 country_name: China
 supp_city: PANJING CITY

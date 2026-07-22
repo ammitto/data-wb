@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 467488
 supp_name: CONSTRUCTORA S.I.C.
 supp_type_code: F
+entity_type: organization
 land1: BO
 country_name: Bolivia
 supp_city: SANTA CRUZ DE LA SIERRA

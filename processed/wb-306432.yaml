@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 306432
 supp_name: LAXMINARAYAN MALLICK
 supp_type_code: I
+entity_type: person
 land1: IN
 country_name: India
 supp_city: CDA CUTTACK, 753014

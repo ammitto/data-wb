@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 112925
 supp_name: HARLTON INVESTMENTS, INC.
 supp_type_code: F
+entity_type: organization
 land1: IE
 country_name: Ireland
 legacy_flg: N

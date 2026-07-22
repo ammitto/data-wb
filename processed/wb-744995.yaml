@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 744995
 supp_name: MR. ARPUTHARAJ JOB ROBINSON DEVARAJ
 supp_type_code: I
+entity_type: person
 land1: IN
 country_name: India
 supp_city: TAMIL NADU

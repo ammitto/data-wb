@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 308516
 supp_name: MR. PETER LEE
 supp_type_code: I
+entity_type: person
 land1: CN
 country_name: China
 supp_city: NANCHANG, 330046

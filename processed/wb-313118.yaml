@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 313118
 supp_name: STEVEN NEDERHORST
 supp_type_code: I
+entity_type: person
 land1: NL
 country_name: Netherlands
 supp_city: 2450 A B LEIMUIDEN

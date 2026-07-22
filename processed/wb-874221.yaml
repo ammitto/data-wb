@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 874221
 supp_name: EVSIS AMERICA LLC
 supp_type_code: F
+entity_type: organization
 land1: US
 country_name: United States
 supp_state_code: CA

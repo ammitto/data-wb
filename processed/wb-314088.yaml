@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 314088
 supp_name: MR. YRYSBEK NURDUPOVICH GULMATOV
 supp_type_code: I
+entity_type: person
 land1: KG
 country_name: Kyrgyz Republic
 supp_city: KYZYL-KIYA TOWN

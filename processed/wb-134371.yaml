@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 134371
 supp_name: AL-AJAM COMPANY FOR GENERAL CONTRACTING LTD. (AL-AJAM)
 supp_type_code: F
+entity_type: organization
 land1: IQ
 country_name: Iraq
 supp_city: BAGHDAD

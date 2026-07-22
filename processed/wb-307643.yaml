@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 307643
 supp_name: DONAEV MANAGEMENT CONSULTING (DMC - TAJIKISTAN)
 supp_type_code: F
+entity_type: organization
 land1: TJ
 country_name: Tajikistan
 supp_city: DUSHANBE, 734000

@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 195014
 supp_name: CONTACT EURO LLC
 supp_type_code: F
+entity_type: organization
 land1: UA
 country_name: Ukraine
 supp_city: KIEV, 03127

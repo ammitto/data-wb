@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 856975
 supp_name: MARSEILLE FOR ENGINEERING & TRADING S.A.L. OFFSHORE
 supp_type_code: F
+entity_type: organization
 land1: LB
 country_name: Lebanon
 supp_city: BEIRUT

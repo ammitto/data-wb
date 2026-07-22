@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 888339
 supp_name: HEBEI CONSTRUCTION GROUP CORPORATION LIMITED CHENGDE BRANCH
 supp_type_code: F
+entity_type: organization
 land1: CN
 country_name: China
 supp_addr: 1-2/F, WITHIN  NORTHEAST OF CHENGDE DEVELOPMENT ZONE CHENGXIN FIBERGLASS

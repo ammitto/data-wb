@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 64964
 supp_name: MMK PROJECT SERVICES LIMITED
 supp_type_code: F
+entity_type: organization
 land1: TZ
 country_name: Tanzania
 supp_city: DAR ES SALAAM

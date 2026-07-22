@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 187263
 supp_name: DR.HANS PETER SCHÖNE
 supp_type_code: I
+entity_type: person
 land1: DE
 country_name: Germany
 supp_city: RUNGESTRAßE 22/530, D-10179, BERLIN, GERMANY

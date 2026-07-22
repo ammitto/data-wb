@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 411203
 supp_name: WATER SUPPLY AND SEWERAGE CONSTRUCTION JSC NO. 12 (VIWASEEN.12)
 supp_type_code: F
+entity_type: organization
 land1: VN
 country_name: Viet Nam
 supp_city: KHANH HOA

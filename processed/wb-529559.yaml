@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 529559
 supp_name: PT. BINA CIPTA UTAMA
 supp_type_code: F
+entity_type: organization
 land1: ID
 country_name: Indonesia
 supp_city: CIREBON, JAWA BARAT 45153

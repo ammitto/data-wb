@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 705595
 supp_name: MR. KHAMKY SOMCHAYNEUK
 supp_type_code: I
+entity_type: person
 land1: LA
 country_name: Lao People's Democratic Republic
 supp_city: CHAMPASAK PROVINCE

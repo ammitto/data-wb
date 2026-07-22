@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 797636
 supp_name: CAIRO CONSULT
 supp_type_code: F
+entity_type: organization
 supp_pre_acrn: M/S
 land1: EG
 country_name: Egypt, Arab Republic of

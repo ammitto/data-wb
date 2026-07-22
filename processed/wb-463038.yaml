@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 463038
 supp_name: VICTOR FOREST
 supp_type_code: I
+entity_type: person
 land1: HT
 country_name: Haiti
 supp_city: PORT-AU-PRINCE

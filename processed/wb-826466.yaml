@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 826466
 supp_name: EGIS COLOMBIA S.A.S.
 supp_type_code: F
+entity_type: organization
 land1: CO
 country_name: Colombia
 supp_city: 110221 BOGOTA DC

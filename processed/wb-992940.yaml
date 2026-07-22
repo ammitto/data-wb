@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 992940
 supp_name: SOCIÉTÉ EMMETTRICE DE DOCUMENT SÉCURISÉ EN CENTRAFRIQUE (SEDOSEC) SURL
 supp_type_code: F
+entity_type: organization
 land1: CF
 country_name: Central African Republic
 supp_city: BANGUI

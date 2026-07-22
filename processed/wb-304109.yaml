@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 304109
 supp_name: MR. RAIMUNDO ROSÁRIO BRANDÃO
 supp_type_code: I
+entity_type: person
 land1: BR
 country_name: Brazil
 supp_city: SÃO LUÍS, MARANHÃO

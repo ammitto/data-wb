@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 958233
 supp_name: MR. OSCAR DI SANTO
 supp_type_code: I
+entity_type: person
 land1: IT
 country_name: Italy
 supp_city: ROME

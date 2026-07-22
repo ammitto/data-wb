@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 463008
 supp_name: A2Z INFRA ENGINEERING LIMITED
 supp_type_code: F
+entity_type: organization
 supp_pre_acrn: M/S
 supp_post_acrn: LTD
 land1: IN

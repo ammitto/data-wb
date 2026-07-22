@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 721042
 supp_name: JUAN EDGARDO ANDRADE PEÑATE
 supp_type_code: I
+entity_type: person
 land1: SV
 country_name: El Salvador
 supp_city: SAN LORENZO AHUACHAPÁN

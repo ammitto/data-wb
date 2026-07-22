@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 323491
 supp_name: CONSORCIO ROPRUCSA
 supp_type_code: F
+entity_type: organization
 land1: PE
 country_name: Peru
 supp_city: CERCADO DE LIMA

@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 538226
 supp_name: REN CHAO
 supp_type_code: I
+entity_type: person
 land1: CN
 country_name: China
 supp_city: XI'AN CITY

@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 466840
 supp_name: DRC B.V.
 supp_type_code: F
+entity_type: organization
 land1: NL
 country_name: Netherlands
 supp_city: 4153 BW BEESD

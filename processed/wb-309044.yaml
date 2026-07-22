@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 309044
 supp_name: GROUPE DEC S.A./ DEC GROUP INC.
 supp_type_code: F
+entity_type: organization
 land1: BJ
 country_name: Benin
 supp_city: COTONOU

@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 505083
 supp_name: LUXPORT EXPORT LTD.
 supp_type_code: F
+entity_type: organization
 land1: HK
 country_name: Hong Kong SAR, China
 supp_city: TSIM SHA TSUI, KOWLOON, HONG KONG

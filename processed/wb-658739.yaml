@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 658739
 supp_name: MR. ANTONIO CARLOS MARCHEZETTI
 supp_type_code: I
+entity_type: person
 land1: BR
 country_name: Brazil
 legacy_flg: N

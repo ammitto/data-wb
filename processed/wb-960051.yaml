@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 960051
 supp_name: CONSTRUTORA COESA S.A.
 supp_type_code: F
+entity_type: organization
 land1: BR
 country_name: Brazil
 supp_city: SALVADOR

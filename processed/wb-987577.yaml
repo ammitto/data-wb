@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 987577
 supp_name: TAIHAN ENGINEERING & CONSTRUCTION PTE. LTD.
 supp_type_code: F
+entity_type: organization
 land1: SG
 country_name: Singapore
 supp_city: "(368242)"

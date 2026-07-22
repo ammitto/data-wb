@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 888146
 supp_name: HEBEI CONSTRUCTION GROUP ZHUOCHENG ROAD AND BRIDGE ENGINEERING CO., LTD.
 supp_type_code: F
+entity_type: organization
 land1: CN
 country_name: China
 supp_city: BAODING CITY, HEBEI PROVINCE

@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 1037274
 supp_name: OMRAB CANADA INC.
 supp_type_code: F
+entity_type: organization
 land1: CA
 country_name: Canada
 supp_city: OTTAWA

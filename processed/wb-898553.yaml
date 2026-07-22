@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 898553
 supp_name: EGIS WATER AND MARITIME
 supp_type_code: F
+entity_type: organization
 land1: FR
 country_name: France
 supp_addr: 15 AVENUE DU CENTRE, 78280 GUYANCOURT

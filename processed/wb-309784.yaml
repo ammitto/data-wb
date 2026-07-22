@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 309784
 supp_name: PRIVATE ENTERPRISE (PE) RABMER
 supp_type_code: F
+entity_type: organization
 land1: UA
 country_name: Ukraine
 supp_city: 81400 LVIVSKA OBLAST

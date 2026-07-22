@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 508829
 supp_name: CARLOS ESTUARDO CABRERA
 supp_type_code: I
+entity_type: person
 land1: GT
 country_name: Guatemala
 supp_city: GUATEMALA CITY

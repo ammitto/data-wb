@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 186235
 supp_name: ASSOCIATION "HIDROSTROITEL"
 supp_type_code: F
+entity_type: organization
 land1: TJ
 country_name: Tajikistan
 supp_city: SHARORA DISTRICT

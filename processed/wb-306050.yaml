@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 306050
 supp_name: SERVEMTEC LTDA
 supp_type_code: F
+entity_type: organization
 land1: BR
 country_name: Brazil
 supp_city: SÃO JOSÉ DE RIBAMAR, MARANHÃO

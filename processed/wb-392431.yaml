@@ -3,6 +3,7 @@ mandt: '300'
 supp_id: 392431
 supp_name: LUGANG GROUP WUHU EARTHWORK ENGINEERING CO., LTD.
 supp_type_code: F
+entity_type: organization
 land1: CN
 country_name: China
 supp_city: WUHU CITY
