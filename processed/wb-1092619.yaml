@@ -1,0 +1,19 @@
+---
+mandt: '300'
+supp_id: 1092619
+supp_name: CV MYANMAR KY3 LIMITED
+supp_type_code: F
+entity_type: organization
+land1: HK
+country_name: Hong Kong SAR, China
+legacy_flg: N
+un_supp_flg: N
+inelig_flg: D
+debar_from_date: '2026-05-26'
+debar_to_date: '2027-11-25'
+debar_reason: Controlled Affiliate of a Sanctioned Entity.
+add_supp_info: "(Reg. No: 71188920) *720"
+supp_elig_stat: DEBARRED
+crpd_match: N
+crpd_stat: CLEARED
+elig_stat: DEBARRED

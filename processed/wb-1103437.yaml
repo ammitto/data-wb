@@ -1,0 +1,21 @@
+---
+mandt: '300'
+supp_id: 1103437
+supp_name: LONGQUAN YANGYUAN HYDROPOWER DEVELOPMENT CO., LTD.
+supp_type_code: F
+entity_type: organization
+land1: CN
+country_name: China
+supp_city: LONGQUAN
+supp_addr: NO.18, BUILDING 33, DAYANG COMMUNITY, ZHEJIANG PROVINCE
+legacy_flg: N
+un_supp_flg: N
+inelig_flg: X
+debar_from_date: '2026-07-06'
+debar_to_date: '2029-06-11'
+debar_reason: 'Cross Debarment: ADB'
+add_supp_info: 龙泉市洋源水电开发有限责任公
+supp_elig_stat: X-DEBARRED
+crpd_match: N
+crpd_stat: CLEARED
+elig_stat: X-DEBARRED

@@ -1,0 +1,21 @@
+---
+mandt: '300'
+supp_id: 1102461
+supp_name: NORCONTROL NICARAGUA SA
+supp_type_code: F
+entity_type: organization
+land1: NI
+country_name: Nicaragua
+supp_city: MANAGUA
+supp_addr: COLONIA LOS ROBLES, DEL REST. HIPPOS KM. 6,500 CARRETERA MASAYA, APTDO.
+  LM-249
+legacy_flg: N
+un_supp_flg: N
+inelig_flg: X
+debar_from_date: '2026-06-26'
+debar_to_date: '2027-07-10'
+debar_reason: 'Cross Debarment: EBRD'
+supp_elig_stat: X-DEBARRED
+crpd_match: N
+crpd_stat: CLEARED
+elig_stat: X-DEBARRED

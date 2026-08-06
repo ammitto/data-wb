@@ -1,0 +1,21 @@
+---
+mandt: '300'
+supp_id: 1112465
+supp_name: UNITED AVIATION SERVICES LIMITED
+supp_type_code: F
+entity_type: organization
+land1: NG
+country_name: Nigeria
+supp_city: ABUJA 904101
+supp_addr: 14 ZAIRE CRESCENT (OFF MISSISSIPPI STREET), MAITAMA
+legacy_flg: N
+un_supp_flg: N
+inelig_flg: D
+debar_from_date: '2026-08-04'
+debar_to_date: '2029-03-03'
+debar_reason: Fraudulent Practice
+add_supp_info: "*728"
+supp_elig_stat: DEBARRED
+crpd_match: N
+crpd_stat: CLEARED
+elig_stat: DEBARRED

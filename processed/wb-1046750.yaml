@@ -1,0 +1,22 @@
+---
+mandt: '300'
+supp_id: 1046750
+supp_name: MR. PHONGSOUK WONGZI
+supp_type_code: I
+entity_type: person
+land1: LA
+country_name: Lao People's Democratic Republic
+supp_city: VIENTIANE CAPITAL
+supp_addr: VATNAK VILLAGE, SISATTANAK DISTRICT
+legacy_flg: N
+un_supp_flg: N
+inelig_flg: D
+debar_type: O
+debar_from_date: '2026-06-03'
+debar_to_date: '2028-12-02'
+debar_reason: Fraudulent Practice
+add_supp_info: "*721"
+supp_elig_stat: DEBARRED
+crpd_match: N
+crpd_stat: CLEARED
+elig_stat: DEBARRED

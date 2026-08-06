@@ -1,0 +1,20 @@
+---
+mandt: '300'
+supp_id: 1072579
+supp_name: "“BLACK FOREST” D.O.O. SARAJEVO"
+supp_type_code: F
+entity_type: organization
+land1: BA
+country_name: Bosnia and Herzegovina
+supp_city: SARAJEVO
+supp_addr: SKENDERPAŠINA NO. 33, 71000
+legacy_flg: N
+un_supp_flg: N
+inelig_flg: X
+debar_from_date: '2026-03-23'
+debar_to_date: '2027-09-04'
+debar_reason: 'Cross Debarment: EBRD'
+supp_elig_stat: X-DEBARRED
+crpd_match: N
+crpd_stat: CLEARED
+elig_stat: X-DEBARRED

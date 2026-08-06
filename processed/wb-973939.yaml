@@ -1,0 +1,22 @@
+---
+mandt: '300'
+supp_id: 973939
+supp_name: AKTIF ELEKTROTEKNIK SAN VE TIC A.S.
+supp_type_code: F
+entity_type: organization
+land1: TR
+country_name: Turkiye
+supp_city: UMRANIYE 34775, ISTANBUL
+supp_addr: SERIFALI MH. BAYRAKTAR, BLV. SEHIT, NO. 5 AKTIF PLAZA
+legacy_flg: N
+un_supp_flg: N
+inelig_flg: D
+debar_type: O
+debar_from_date: '2026-03-09'
+debar_to_date: '2027-06-08'
+debar_reason: Related Corrupt and Fraudulent Practices.
+add_supp_info: "*712"
+supp_elig_stat: DEBARRED
+crpd_match: N
+crpd_stat: CLEARED
+elig_stat: DEBARRED

@@ -1,0 +1,22 @@
+---
+mandt: '300'
+supp_id: 1000673
+supp_name: WEBMASTERS KENYA LTD.
+supp_type_code: F
+entity_type: organization
+land1: KE
+country_name: Kenya
+supp_city: NAIROBI
+supp_addr: SHILLOH RESIDENCE, BLOCK B ROOM 4, MENELIK ROAD, OFF NGONG ROAD
+legacy_flg: N
+un_supp_flg: N
+inelig_flg: D
+debar_type: O
+debar_from_date: '2026-06-08'
+debar_to_date: '2031-06-07'
+debar_reason: Fraudulent and Obstructive Practices
+add_supp_info: "*722"
+supp_elig_stat: DEBARRED
+crpd_match: N
+crpd_stat: CLEARED
+elig_stat: DEBARRED

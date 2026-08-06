@@ -1,0 +1,21 @@
+---
+mandt: '300'
+supp_id: 1092565
+supp_name: CHINA NATIONAL TECHNICAL IMPORT & EXPORT CORPORATION OGRANAK BEOGRAD
+supp_type_code: F
+entity_type: organization
+land1: YF
+country_name: Serbia
+supp_city: BELGRADE
+supp_addr: MILUTINA MILANKOVICA LJ, BEOGRAD-NEW
+legacy_flg: N
+un_supp_flg: N
+inelig_flg: D
+debar_from_date: '2026-05-26'
+debar_to_date: '2027-11-25'
+debar_reason: Controlled Affiliate of a Sanctioned Entity.
+add_supp_info: "(Reg. No: 29508933) *720"
+supp_elig_stat: DEBARRED
+crpd_match: N
+crpd_stat: CLEARED
+elig_stat: DEBARRED

@@ -1,0 +1,20 @@
+---
+mandt: '300'
+supp_id: 1102460
+supp_name: APPLUS PORTUGAL LDA
+supp_type_code: F
+entity_type: organization
+land1: PT
+country_name: Portugal
+supp_city: VILA DO CONDE
+supp_addr: RUA JOAO DE RIANHO, 33, VILA DO CONDE, FREGUESIA E CONCELHO
+legacy_flg: N
+un_supp_flg: N
+inelig_flg: X
+debar_from_date: '2026-06-26'
+debar_to_date: '2027-07-10'
+debar_reason: 'Cross Debarment: EBRD'
+supp_elig_stat: X-DEBARRED
+crpd_match: N
+crpd_stat: CLEARED
+elig_stat: X-DEBARRED
