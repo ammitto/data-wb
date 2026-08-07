@@ -1,0 +1,20 @@
+---
+mandt: '300'
+supp_id: 1113333
+supp_name: LOTEX GROUP DOO BEOGRAD-CUKARICA
+supp_type_code: F
+entity_type: organization
+land1: YF
+country_name: Serbia
+supp_city: BELGRADE
+supp_addr: KNEZA MILOŠA 88A SAVSKI VENAC
+legacy_flg: N
+un_supp_flg: N
+inelig_flg: X
+debar_from_date: '2026-08-06'
+debar_to_date: '2029-10-21'
+debar_reason: 'Cross Debarment: EBRD'
+supp_elig_stat: X-DEBARRED
+crpd_match: N
+crpd_stat: CLEARED
+elig_stat: X-DEBARRED
