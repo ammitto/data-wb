@@ -14,10 +14,11 @@ un_supp_flg: N
 inelig_flg: D
 debar_type: O
 debar_from_date: '2021-08-10'
-debar_to_date: '2026-08-09'
+debar_to_date: '2999-12-31'
 debar_reason: Collusive Practice
 add_supp_info: "*585"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
+ineligibly_status: Ongoing
