@@ -1,0 +1,22 @@
+---
+mandt: '300'
+supp_id: 1076898
+supp_name: GIDROBETONSTROY LLC
+supp_type_code: F
+entity_type: organization
+land1: KG
+country_name: Kyrgyz Republic
+supp_city: OSH, 723506
+supp_addr: 3 RAZZAKOVA ST.
+legacy_flg: N
+un_supp_flg: N
+inelig_flg: D
+debar_type: O
+debar_from_date: '2026-08-11'
+debar_to_date: '2030-02-10'
+debar_reason: Fraudulent and Obstructive Practices
+add_supp_info: "*719"
+supp_elig_stat: DEBARRED
+crpd_match: N
+crpd_stat: CLEARED
+elig_stat: DEBARRED
