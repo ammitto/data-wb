@@ -16,6 +16,7 @@ debar_type: O
 debar_from_date: '2026-03-18'
 debar_to_date: '2029-03-17'
 debar_reason: Corrupt and Obstructive Practices
+add_supp_info: "*716"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED

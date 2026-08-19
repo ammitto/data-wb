@@ -14,7 +14,7 @@ inelig_flg: D
 debar_from_date: '2026-07-14'
 debar_to_date: '2027-07-13'
 debar_reason: Obstructive Practice
-add_supp_info: "*730"
+add_supp_info: "*725"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
