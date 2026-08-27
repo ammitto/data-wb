@@ -14,6 +14,7 @@ inelig_flg: X
 debar_from_date: '2026-07-08'
 debar_to_date: '2028-09-18'
 debar_reason: 'Cross Debarment: EBRD'
+add_supp_info: 浙江智慧江能技术服务股份有限公司
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
