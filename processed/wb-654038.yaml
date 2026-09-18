@@ -1,4 +1,3 @@
----
 mandt: '300'
 supp_id: 654038
 supp_name: CP POWER EAST AFRICA LIMITED
@@ -8,15 +7,15 @@ land1: KE
 country_name: Kenya
 supp_city: NAIROBI
 supp_addr: OFF NAMANGA ROAD, ATHI RIVER, P.O. BOX 1550-00621
-legacy_flg: N
-un_supp_flg: N
+legacy_flg: "N"
+un_supp_flg: "N"
 inelig_flg: X
 debar_type: O
 debar_from_date: '2022-03-29'
 debar_to_date: '2999-12-31'
 debar_reason: 'Cross Debarment: AfDB'
 supp_elig_stat: X-DEBARRED
-crpd_match: N
+crpd_match: "N"
 crpd_stat: CLEARED
 elig_stat: X-DEBARRED
 ineligibly_status: Ongoing

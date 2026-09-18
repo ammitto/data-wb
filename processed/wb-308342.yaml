@@ -1,4 +1,3 @@
----
 mandt: '300'
 supp_id: 308342
 supp_name: M/S. FAMY CARE LIMITED
@@ -11,8 +10,8 @@ supp_city: MUMBAI – 400 001
 supp_addr: BRADY HOUSE, 3RD FLOOR, 12/14, VEER NARIMAN ROAD, FORT
 supp_post_code: '400001'
 supp_prov_name: MUMBAI
-legacy_flg: N
-un_supp_flg: N
+legacy_flg: "N"
+un_supp_flg: "N"
 inelig_flg: D
 debar_type: O
 debar_from_date: '2017-05-23'
@@ -20,7 +19,7 @@ debar_to_date: '2999-12-31'
 debar_reason: Procurement Guidelines, 1.14(a)(ii)
 add_supp_info: "*369"
 supp_elig_stat: DEBARRED
-crpd_match: N
+crpd_match: "N"
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 ineligibly_status: Ongoing
