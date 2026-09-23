@@ -1,3 +1,4 @@
+---
 mandt: '300'
 supp_id: 1124659
 supp_name: MR. WILLEM JAN TIMMERMAN
@@ -6,14 +7,14 @@ entity_type: person
 land1: ZA
 country_name: South Africa
 supp_addr: SURVEY HOUSE, 42 SUNBIRD DRIVE, LANGEBAAN, WESTERN CAPE 7357
-legacy_flg: "N"
-un_supp_flg: "N"
+legacy_flg: N
+un_supp_flg: N
 inelig_flg: D
 debar_from_date: '2026-09-09'
 debar_to_date: '2029-02-08'
 debar_reason: Fraudulent and Collusive Practices
 add_supp_info: "*732"
 supp_elig_stat: DEBARRED
-crpd_match: "N"
+crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED

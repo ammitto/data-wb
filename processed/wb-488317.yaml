@@ -1,3 +1,4 @@
+---
 mandt: '300'
 supp_id: 488317
 supp_name: TPF GETINSA EUROESTUDIOS S.L.
@@ -9,8 +10,8 @@ land1: ES
 country_name: Spain
 supp_city: MADRID, 28028
 supp_addr: RAMÓN DE AGUINAGA, 8
-legacy_flg: "N"
-un_supp_flg: "N"
+legacy_flg: N
+un_supp_flg: N
 inelig_flg: D
 debar_type: O
 debar_from_date: '2021-11-29'
@@ -18,6 +19,6 @@ debar_to_date: '2027-11-28'
 debar_reason: Fraudulent and Obstructive Practices
 add_supp_info: "*589"
 supp_elig_stat: DEBARRED
-crpd_match: "N"
+crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED

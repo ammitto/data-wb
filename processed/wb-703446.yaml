@@ -1,3 +1,4 @@
+---
 mandt: '300'
 supp_id: 703446
 supp_name: DAGI LLC
@@ -7,8 +8,8 @@ land1: GE
 country_name: Georgia
 supp_city: TBILISI 0194
 supp_addr: NO. 29 MITSKEVICHI STREET
-legacy_flg: "N"
-un_supp_flg: "N"
+legacy_flg: N
+un_supp_flg: N
 inelig_flg: D
 debar_type: O
 debar_from_date: '2020-02-06'
@@ -16,7 +17,7 @@ debar_to_date: '2999-12-31'
 debar_reason: January 2011, revised July 2014 Proc. Guidelines Paragraph 1.16(a)(ii)
 add_supp_info: "(also d/b/a Ltd Dagi) *516"
 supp_elig_stat: DEBARRED
-crpd_match: "N"
+crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 ineligibly_status: Ongoing

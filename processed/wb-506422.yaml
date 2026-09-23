@@ -1,3 +1,4 @@
+---
 mandt: '300'
 supp_id: 506422
 supp_name: CASS CONSTRUCTORES S.A.S.
@@ -7,8 +8,8 @@ land1: CO
 country_name: Colombia
 supp_city: CHÍA CUNDINAMARCA
 supp_addr: CARRERA 7A KM. 16, VEREDA FUSCA, LOTE SHOSUA
-legacy_flg: "N"
-un_supp_flg: "N"
+legacy_flg: N
+un_supp_flg: N
 inelig_flg: D
 debar_type: O
 debar_from_date: '2020-08-18'
@@ -16,7 +17,7 @@ debar_to_date: '2999-12-31'
 debar_reason: Procurement Guidelines, 1.14(a)(ii)
 add_supp_info: "*539"
 supp_elig_stat: DEBARRED
-crpd_match: "N"
+crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 ineligibly_status: Ongoing

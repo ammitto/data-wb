@@ -1,3 +1,4 @@
+---
 mandt: '300'
 supp_id: 505083
 supp_name: LUXPORT EXPORT LTD.
@@ -7,8 +8,8 @@ land1: HK
 country_name: Hong Kong SAR, China
 supp_city: TSIM SHA TSUI, KOWLOON, HONG KONG
 supp_addr: 2003, 20/F, TOWER 5, CHINA HONG KONG CITY, 33 CANTON ROAD
-legacy_flg: "N"
-un_supp_flg: "N"
+legacy_flg: N
+un_supp_flg: N
 inelig_flg: D
 debar_type: O
 debar_from_date: '2020-12-09'
@@ -16,7 +17,7 @@ debar_to_date: '2999-12-31'
 debar_reason: 2016 Procurement Regulations, sub-paragraph 2.2 a(ii) of Annex IV
 add_supp_info: "*560"
 supp_elig_stat: DEBARRED
-crpd_match: "N"
+crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 ineligibly_status: Ongoing

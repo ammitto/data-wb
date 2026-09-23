@@ -1,3 +1,4 @@
+---
 mandt: '300'
 supp_id: 937086
 supp_name: GUANGXI YUEKE CONSTRUCTION ENGINEERING CO., LTD.
@@ -7,8 +8,8 @@ land1: CN
 country_name: China
 supp_city: NANNING CITY
 supp_addr: NO. 27 BUILDING 3 ROOM 601, ZHUANGJING AVENUE
-legacy_flg: "N"
-un_supp_flg: "N"
+legacy_flg: N
+un_supp_flg: N
 inelig_flg: D
 debar_type: O
 debar_from_date: '2025-04-22'
@@ -16,6 +17,6 @@ debar_to_date: '2026-10-21'
 debar_reason: Controlled Affiliate of a Sanctioned Entity.
 add_supp_info: "*690"
 supp_elig_stat: DEBARRED
-crpd_match: "N"
+crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED

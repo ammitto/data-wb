@@ -1,3 +1,4 @@
+---
 mandt: '300'
 supp_id: 378387
 supp_name: MR. FRANCISCO ANTONIO BARAHONA MONTALVÁN
@@ -7,8 +8,8 @@ land1: HN
 country_name: Honduras
 supp_city: TEGUCIGALPA
 supp_addr: COL. LOMAS DE JACALEADA B “E” C-3514
-legacy_flg: "N"
-un_supp_flg: "N"
+legacy_flg: N
+un_supp_flg: N
 inelig_flg: D
 debar_type: O
 debar_from_date: '2018-11-27'
@@ -16,7 +17,7 @@ debar_to_date: '2999-12-31'
 debar_reason: Consultant Guidelines, 1.22(a)(ii)
 add_supp_info: "*455"
 supp_elig_stat: DEBARRED
-crpd_match: "N"
+crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 ineligibly_status: Ongoing

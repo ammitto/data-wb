@@ -1,3 +1,4 @@
+---
 mandt: '300'
 supp_id: 970209
 supp_name: THI SON COMPANY LIMITED
@@ -6,9 +7,10 @@ entity_type: organization
 land1: VN
 country_name: Viet Nam
 supp_city: PHU LY CITY
-supp_addr: PARTS TOWER, EAST DAY RIVER, LE HOAN STREET, HAI BA TRUNG WARD, HA NAM PROVINCE
-legacy_flg: "N"
-un_supp_flg: "N"
+supp_addr: PARTS TOWER, EAST DAY RIVER, LE HOAN STREET, HAI BA TRUNG WARD, HA NAM
+  PROVINCE
+legacy_flg: N
+un_supp_flg: N
 inelig_flg: D
 debar_type: O
 debar_from_date: '2025-07-29'
@@ -16,7 +18,7 @@ debar_to_date: '2999-12-31'
 debar_reason: Obstructive Practice
 add_supp_info: "*698"
 supp_elig_stat: DEBARRED
-crpd_match: "N"
+crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 ineligibly_status: Ongoing

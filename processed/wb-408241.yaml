@@ -1,3 +1,4 @@
+---
 mandt: '300'
 supp_id: 408241
 supp_name: ULTIMATE ENGINEERING LIMITED
@@ -7,8 +8,8 @@ land1: KE
 country_name: Kenya
 supp_city: NAIROBI
 supp_addr: P.O. BOX 76408-00508, JOSEPH KANG’ETHE ROAD, WOODLEY ESTATE
-legacy_flg: "N"
-un_supp_flg: "N"
+legacy_flg: N
+un_supp_flg: N
 inelig_flg: D
 debar_type: O
 debar_from_date: '2019-06-07'
@@ -16,7 +17,7 @@ debar_to_date: '2999-12-31'
 debar_reason: Procurement Guidelines, 1.16(a)(ii)
 add_supp_info: "*484"
 supp_elig_stat: DEBARRED
-crpd_match: "N"
+crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 ineligibly_status: Ongoing

@@ -1,3 +1,4 @@
+---
 mandt: '300'
 supp_id: 1017071
 supp_name: MR. ABDUR RASHID
@@ -7,8 +8,8 @@ land1: BD
 country_name: Bangladesh
 supp_city: DHAKA-1000
 supp_addr: 51/51-A, PURANA PALTAN, 10TH FLOOR
-legacy_flg: "N"
-un_supp_flg: "N"
+legacy_flg: N
+un_supp_flg: N
 inelig_flg: D
 debar_type: O
 debar_from_date: '2026-09-10'
@@ -16,6 +17,6 @@ debar_to_date: '2029-09-09'
 debar_reason: Fraudulent Practice
 add_supp_info: "*733"
 supp_elig_stat: DEBARRED
-crpd_match: "N"
+crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED

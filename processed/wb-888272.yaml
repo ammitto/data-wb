@@ -1,3 +1,4 @@
+---
 mandt: '300'
 supp_id: 888272
 supp_name: HEBEI CONSTRUCTION GROUP CORPORATION LIMITED MOZAMBIQUE BRANCH
@@ -7,13 +8,13 @@ land1: MZ
 country_name: Mozambique
 supp_city: SAISAI
 supp_addr: 65/1659-CHIGUBO
-legacy_flg: "N"
-un_supp_flg: "N"
+legacy_flg: N
+un_supp_flg: N
 inelig_flg: X
 debar_from_date: '2024-08-22'
 debar_to_date: '2027-07-22'
 debar_reason: 'Cross Debarment: ADB'
 supp_elig_stat: X-DEBARRED
-crpd_match: "N"
+crpd_match: N
 crpd_stat: CLEARED
 elig_stat: X-DEBARRED
