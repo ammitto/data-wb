@@ -15,8 +15,8 @@ inelig_flg: D
 debar_from_date: '2021-06-14'
 debar_to_date: '2999-12-31'
 debar_reason: 'Cross Debarment: ADB'
-supp_elig_stat: UNCONFIRMED
+supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
-elig_stat: UNCONFIRMED
+elig_stat: DEBARRED
 ineligibly_status: Permanent

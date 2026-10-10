@@ -15,8 +15,8 @@ debar_from_date: '2020-04-06'
 debar_to_date: '2999-12-31'
 debar_reason: 'Cross Debarment: ADB'
 add_supp_info: "(西安嘉祥汽车服务有限公司)"
-supp_elig_stat: UNCONFIRMED
+supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
-elig_stat: UNCONFIRMED
+elig_stat: DEBARRED
 ineligibly_status: Permanent
