@@ -21,3 +21,9 @@ crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 ineligibly_status: Ongoing
+parent: N
+rechk_ind: N
+create_user: '9000090069'
+create_user_name: Heng Lun
+create_date: '2022-03-21T00:00:00.000Z'
+create_time: '1900-01-01T00:51:36.000Z'

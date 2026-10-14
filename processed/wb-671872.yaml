@@ -20,3 +20,11 @@ crpd_match: N
 crpd_stat: CLEARED
 elig_stat: X-DEBARRED
 ineligibly_status: Ongoing
+aml_entr_ind: S
+register_id: '00018161'
+parent: N
+rechk_ind: N
+create_user: '9000117112'
+create_user_name: Nareth Ung
+create_date: '2023-07-30T00:00:00.000Z'
+create_time: '1900-01-01T06:30:47.000Z'

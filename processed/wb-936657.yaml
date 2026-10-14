@@ -19,3 +19,11 @@ supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
+register: Y
+register_id: '1113062'
+parent: N
+rechk_ind: N
+create_user: WB630956
+create_user_name: Abubakar Yusuf
+create_date: '2025-01-15T00:00:00.000Z'
+create_time: '1900-01-01T15:01:08.000Z'

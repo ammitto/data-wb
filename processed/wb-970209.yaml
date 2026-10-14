@@ -22,3 +22,9 @@ crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 ineligibly_status: Ongoing
+parent: N
+rechk_ind: N
+create_user: '9000069516'
+create_user_name: Dang Tuan Nam
+create_date: '2020-06-04T00:00:00.000Z'
+create_time: '1900-01-01T03:58:20.000Z'

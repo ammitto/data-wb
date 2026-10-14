@@ -21,3 +21,10 @@ crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 ineligibly_status: Ongoing
+register_id: '123456'
+parent: N
+rechk_ind: N
+create_user: '9000075775'
+create_user_name: Jianzhen Han
+create_date: '2019-07-15T00:00:00.000Z'
+create_time: '1900-01-01T04:10:02.000Z'

@@ -21,3 +21,10 @@ crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 ineligibly_status: Ongoing
+register_id: CD/INO/RCCM:15-A-002
+parent: N
+rechk_ind: N
+create_user: '9000073292'
+create_user_name: Sandra Tawa
+create_date: '2020-02-06T00:00:00.000Z'
+create_time: '1900-01-01T05:35:29.000Z'

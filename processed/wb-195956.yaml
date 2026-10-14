@@ -20,3 +20,5 @@ supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
+rechk_ind: N
+create_time: '1900-01-01T00:00:00.000Z'

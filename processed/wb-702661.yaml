@@ -22,3 +22,8 @@ crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 ineligibly_status: Ongoing
+aml_entr_ind: S
+rechk_ind: N
+create_user: WB583591
+create_date: '2022-10-18T00:00:00.000Z'
+create_time: '1900-01-01T11:11:01.000Z'

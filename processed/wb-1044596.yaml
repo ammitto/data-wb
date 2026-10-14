@@ -21,3 +21,10 @@ supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
+register: N
+parent: N
+rechk_ind: N
+create_user: '9000080914'
+create_user_name: Ing. George Kwadwo Osei Ababio
+create_date: '2019-03-05T00:00:00.000Z'
+create_time: '1900-01-01T15:06:01.000Z'

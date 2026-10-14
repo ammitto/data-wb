@@ -19,3 +19,9 @@ supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
+parent: N
+rechk_ind: N
+create_user: '9000149199'
+create_user_name: Gerson Paghid Jr
+create_date: '2025-02-10T00:00:00.000Z'
+create_time: '1900-01-01T02:17:31.000Z'

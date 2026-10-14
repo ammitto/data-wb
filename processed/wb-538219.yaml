@@ -19,3 +19,8 @@ crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 ineligibly_status: Permanent
+aml_entr_ind: S
+rechk_ind: N
+create_user: WB512594
+create_date: '2020-12-16T00:00:00.000Z'
+create_time: '1900-01-01T10:34:10.000Z'

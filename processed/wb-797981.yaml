@@ -23,3 +23,9 @@ crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 ineligibly_status: Ongoing
+parent: N
+rechk_ind: N
+create_user: '9000110824'
+create_user_name: Prakriti Pandey
+create_date: '2022-01-12T00:00:00.000Z'
+create_time: '1900-01-01T05:10:24.000Z'

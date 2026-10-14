@@ -21,3 +21,10 @@ supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
+register_id: C8
+parent: N
+rechk_ind: N
+create_user: WB598563
+create_user_name: Miriam Musyimi
+create_date: '2024-06-25T00:00:00.000Z'
+create_time: '1900-01-01T12:32:40.000Z'

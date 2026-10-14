@@ -19,3 +19,7 @@ supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
+rechk_ind: N
+create_user: WB630956
+create_date: '2025-10-09T00:00:00.000Z'
+create_time: '1900-01-01T16:03:59.000Z'

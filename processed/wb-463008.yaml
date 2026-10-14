@@ -23,3 +23,10 @@ crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 ineligibly_status: Ongoing
+register: N
+parent: N
+rechk_ind: N
+create_user: '9000061516'
+create_user_name: Specioza Mukazi
+create_date: '2017-07-14T00:00:00.000Z'
+create_time: '1900-01-01T00:57:46.000Z'

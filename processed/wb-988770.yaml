@@ -21,3 +21,9 @@ supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
+parent: N
+rechk_ind: N
+create_user: '9000101221'
+create_user_name: Md. Samsul Arefin
+create_date: '2020-07-11T00:00:00.000Z'
+create_time: '1900-01-01T14:41:28.000Z'
