@@ -49,6 +49,62 @@ meaning.
 | `crpd_stat`, `inelig_flg`, `debar_type`, `un_supp_flg`, `legacy_flg`, `mandt` | string | Internal codes, as published: `crpd_stat` `CLEARED`; `inelig_flg` `D` or `X`; `debar_type` `O` where present; `un_supp_flg` and `legacy_flg` `N`; `mandt` `300`
 |===
 
+== Harmonized field mapping
+
+The https://github.com/ammitto/ammitto/blob/74491e856c1e68aea52c0cf0e34061d48429d359/lib/ammitto/sources/wb/transformer.rb[World Bank transformer] reads the lower-case fields in processed YAML.
+
+Targets below use canonical Ruby fields. Entity classes are under
+`Ammitto::Ontology::Entities`; `SanctionEntry`, `OfficialAnnouncement`,
+`SanctionReason` and `SanctionPeriodModification` are under
+`Ammitto::Ontology::Sanction`; other target classes are under
+`Ammitto::Ontology::ValueObjects`. JSON-LD uses the serializer's wire keys:
+`SourceReference.fetched_at`, for example, is published as `retrievedAt`.
+
+[cols="2,3,4",options="header"]
+|===
+| Input field | Canonical target | Transformation
+
+| `supp_id`
+| `Entity.id`; `SanctionEntry.id`, `reference_number`
+| Uses the supplier ID for source-qualified IRIs and retains it as the entry reference.
+
+| `entity_type`, derived from `supp_type_code`
+| `PersonEntity` or `OrganizationEntity`
+| Code `I` supplies the person default; the source model’s entity type selects the canonical class.
+
+| `supp_name`
+| `NameVariant.full_name`, `is_primary`
+| Copies the primary name.
+
+| `supp_addr`, `supp_city`, `supp_state_code`, `supp_prov_name`, `country_name`, `land1`, `supp_zip_code`, `supp_post_code`
+| `Address.street`, `city`, `state`, `country`, `country_iso_code`, `postal_code`
+| Prefers state code over province name and zip code over post code when the preferred value is present.
+
+| `register_id`
+| `Identification.type`, `number`
+| A nonblank number becomes type `Register ID`; no issuing country is inferred.
+
+| `debar_from_date`, `debar_to_date`
+| `TemporalPeriod.effective_date`, `expiry_date`, `is_indefinite`
+| Parses dates as supplied; absence of an end date marks an indefinite period.
+
+| `debar_to_date`, `supp_elig_stat`
+| `SanctionEntry.status`
+| A past expiry wins as `expired`; otherwise maps known eligibility codes, defaulting to `active`.
+
+| `crpd_match`
+| `SanctionEffect.effect_type`, `description`
+| Always constructs debarment; exact value `Y` adds a cross-debarment effect.
+
+| `add_supp_info`, `debar_reason`
+| `Entity.remarks`; `SanctionEntry.remarks`
+| Keeps additional firm information separate from debarment grounds.
+
+| `debar_type`, eligibility and other service codes
+| `RawSourceData.source_specific_fields`
+| Retains the selected service fields under `wb:` keys in the entry’s `raw_source_detail`.
+|===
+
 == Using the data
 
 Clone or download this repository and run either example from its root
