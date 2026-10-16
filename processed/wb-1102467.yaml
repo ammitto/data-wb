@@ -14,11 +14,12 @@ inelig_flg: X
 debar_from_date: '2026-06-26'
 debar_to_date: '2027-07-10'
 debar_reason: 'Cross Debarment: EBRD'
+add_supp_info: ТОВ "ХМЕЛЬНИЦЬКА ЕНЕРГЕТИЧНА КОМПАНІЯ"
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: X-DEBARRED
 rechk_ind: N
 create_user: WB630956
-create_date: '2026-06-26T00:00:00.000Z'
-create_time: '1900-01-01T12:19:14.000Z'
+create_date: '2026-06-12T00:00:00.000Z'
+create_time: '1900-01-01T12:09:45.000Z'

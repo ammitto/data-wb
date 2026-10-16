@@ -15,13 +15,16 @@ debar_type: O
 debar_from_date: '2023-05-02'
 debar_to_date: '2999-12-31'
 debar_reason: Controlled Affiliate of a Sanctioned Entity
-add_supp_info: "(河南地矿集团市政工程有限公司)*632"
+add_supp_info: "(CURRENTLY KNOWN AS OOO ARMADA CENTER) *197"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 ineligibly_status: Ongoing
+register_id: '771043818638'
+parent: N
 rechk_ind: N
-create_user: WB583591
-create_date: '2022-10-18T00:00:00.000Z'
-create_time: '1900-01-01T11:04:17.000Z'
+create_user: '9000092499'
+create_user_name: Irina Yun
+create_date: '2021-01-15T00:00:00.000Z'
+create_time: '1900-01-01T09:14:20.000Z'

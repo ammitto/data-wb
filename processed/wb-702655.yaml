@@ -16,7 +16,7 @@ debar_type: O
 debar_from_date: '2023-05-02'
 debar_to_date: '2999-12-31'
 debar_reason: Controlled Affiliate of a Sanctioned Entity
-add_supp_info: "(内蒙古禹和建设工程有限公司)*632"
+add_supp_info: "*623 (Reg. No. 111-81-21018)"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
@@ -24,5 +24,5 @@ elig_stat: DEBARRED
 ineligibly_status: Ongoing
 rechk_ind: N
 create_user: WB583591
-create_date: '2022-10-18T00:00:00.000Z'
-create_time: '1900-01-01T11:09:31.000Z'
+create_date: '2022-12-02T00:00:00.000Z'
+create_time: '1900-01-01T10:21:11.000Z'
