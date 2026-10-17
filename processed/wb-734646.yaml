@@ -16,13 +16,15 @@ debar_type: O
 debar_from_date: '2019-07-08'
 debar_to_date: '2999-12-31'
 debar_reason: Controlled Affiliate of a Sanctioned Individual
-add_supp_info: "*638"
+add_supp_info: "(TIN No. 300898378) *489"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 ineligibly_status: Ongoing
+parent: N
 rechk_ind: N
-create_user: WB583591
-create_date: '2023-06-29T00:00:00.000Z'
-create_time: '1900-01-01T11:06:51.000Z'
+create_user: '9000106195'
+create_user_name: Abdusattor Norkobilov
+create_date: '2021-12-13T00:00:00.000Z'
+create_time: '1900-01-01T07:55:52.000Z'

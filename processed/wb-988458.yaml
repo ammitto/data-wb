@@ -14,14 +14,12 @@ inelig_flg: D
 debar_from_date: '2025-06-17'
 debar_to_date: '2030-09-16'
 debar_reason: Controlled Affiliate of a Sanctioned Entity.
-add_supp_info: "*700"
+add_supp_info: "(Reg. No: 61521) *696"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
-parent: N
 rechk_ind: N
-create_user: '9000100051'
-create_user_name: Nguyen Trong Long
-create_date: '2020-12-20T00:00:00.000Z'
-create_time: '1900-01-01T21:46:38.000Z'
+create_user: WB598563
+create_date: '2025-06-17T00:00:00.000Z'
+create_time: '1900-01-01T12:22:28.000Z'

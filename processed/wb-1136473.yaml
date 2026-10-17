@@ -1,0 +1,25 @@
+---
+mandt: '300'
+supp_id: 1136473
+supp_name: ÁNGEL TOBÍAS ARCE ALPÍZAR
+supp_type_code: I
+entity_type: person
+land1: CR
+country_name: Costa Rica
+supp_city: SAN JOSÉ
+supp_addr: CARRILLO DE POÁS BAJA, DEL ANTIGUO BAR PAVORREAL, 200 METROS NORTE, APARTAMENTO
+  DETRÁS DE LA CASA DE COLOR TERRACOTA, ALAJUELA
+legacy_flg: N
+un_supp_flg: N
+inelig_flg: X
+debar_from_date: '2026-10-16'
+debar_to_date: '2035-08-20'
+debar_reason: 'Cross Debarment: IDB'
+supp_elig_stat: X-DEBARRED
+crpd_match: N
+crpd_stat: CLEARED
+elig_stat: X-DEBARRED
+rechk_ind: N
+create_user: WB630956
+create_date: '2026-10-16T00:00:00.000Z'
+create_time: '1900-01-01T10:01:31.000Z'

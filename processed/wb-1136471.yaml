@@ -1,0 +1,26 @@
+---
+mandt: '300'
+supp_id: 1136471
+supp_name: CHINA RAILWAY 20TH BUREAU GROUP CORPORATION LTD
+supp_type_code: F
+entity_type: organization
+land1: CN
+country_name: China
+supp_city: XI’AN CITY
+supp_addr: NO. 89 TAIHUA NORTH ROAD, WEIYANG DISTRICT, SHAANXI PROVINCE, 710016
+legacy_flg: N
+un_supp_flg: N
+inelig_flg: X
+debar_from_date: '2026-10-16'
+debar_to_date: '2027-10-23'
+debar_reason: 'Cross Debarment: AfDB'
+supp_elig_stat: X-DEBARRED
+crpd_match: N
+crpd_stat: CLEARED
+elig_stat: X-DEBARRED
+parent: N
+rechk_ind: N
+create_user: WB630956
+create_user_name: Abdul Osman
+create_date: '2026-10-16T00:00:00.000Z'
+create_time: '1900-01-01T09:55:35.000Z'

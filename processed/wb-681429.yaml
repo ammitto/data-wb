@@ -15,12 +15,12 @@ debar_type: O
 debar_from_date: '2023-02-02'
 debar_to_date: '2028-03-01'
 debar_reason: Controlled Affiliate of a Sanctioned Entity
-add_supp_info: "(新疆交建交通工程科技有限责任公司)(91650106053190805E)*647"
+add_supp_info: "*625"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 rechk_ind: N
-create_user: WB583591
-create_date: '2023-10-25T00:00:00.000Z'
-create_time: '1900-01-01T12:20:01.000Z'
+create_user: WB465742
+create_date: '2022-07-28T00:00:00.000Z'
+create_time: '1900-01-01T15:46:05.000Z'

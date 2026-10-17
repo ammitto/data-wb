@@ -14,11 +14,12 @@ inelig_flg: X
 debar_from_date: '2026-06-12'
 debar_to_date: '2027-08-20'
 debar_reason: 'Cross Debarment: EBRD'
+add_supp_info: ТОВ "ЕФЕ БЕТОН"
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: X-DEBARRED
 rechk_ind: N
 create_user: WB630956
-create_date: '2026-03-23T00:00:00.000Z'
-create_time: '1900-01-01T10:52:41.000Z'
+create_date: '2026-06-12T00:00:00.000Z'
+create_time: '1900-01-01T12:00:58.000Z'

@@ -14,12 +14,12 @@ inelig_flg: X
 debar_from_date: '2026-07-06'
 debar_to_date: '2029-06-11'
 debar_reason: 'Cross Debarment: ADB'
-add_supp_info: ТОВ "ОНАН ЕНЕРДЖІ СІСТЕМС"
+add_supp_info: 浙江江能建设有限公司宁波分公司
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: X-DEBARRED
 rechk_ind: N
 create_user: WB630956
-create_date: '2026-06-12T00:00:00.000Z'
-create_time: '1900-01-01T12:25:32.000Z'
+create_date: '2026-07-06T00:00:00.000Z'
+create_time: '1900-01-01T14:29:55.000Z'
