@@ -15,10 +15,10 @@ inelig_flg: X
 debar_from_date: '2022-03-18'
 debar_to_date: '2999-12-31'
 debar_reason: 'Cross Debarment: IDB'
-supp_elig_stat: UNCONFIRMED
+supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
-elig_stat: UNCONFIRMED
+elig_stat: X-DEBARRED
 ineligibly_status: Permanent
 aml_entr_ind: S
 rechk_ind: N

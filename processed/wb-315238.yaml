@@ -15,7 +15,7 @@ debar_type: O
 debar_from_date: '2014-12-30'
 debar_to_date: '2999-12-31'
 debar_reason: Procurement Guidelines, 1.14(a)(iii)
-add_supp_info: "*245"
+add_supp_info: "*406"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
@@ -23,5 +23,5 @@ elig_stat: DEBARRED
 ineligibly_status: Ongoing
 rechk_ind: N
 create_user: WB402704
-create_date: '2014-09-25T00:00:00.000Z'
-create_time: '1900-01-01T16:36:34.000Z'
+create_date: '2015-03-23T00:00:00.000Z'
+create_time: '1900-01-01T15:52:03.000Z'

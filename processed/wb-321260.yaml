@@ -16,13 +16,13 @@ debar_type: O
 debar_from_date: '2015-10-15'
 debar_to_date: '2999-12-31'
 debar_reason: Consultant Guidelines, 1.22(a)(ii)
-add_supp_info: "*295"
+add_supp_info: "*325"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 ineligibly_status: Ongoing
 rechk_ind: N
-create_user: WB486338
-create_date: '2015-07-10T00:00:00.000Z'
-create_time: '1900-01-01T11:51:01.000Z'
+create_user: WB483124
+create_date: '2016-06-17T00:00:00.000Z'
+create_time: '1900-01-01T15:05:57.000Z'

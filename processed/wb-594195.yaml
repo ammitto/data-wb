@@ -16,7 +16,7 @@ debar_type: O
 debar_from_date: '2021-07-26'
 debar_to_date: '2999-12-31'
 debar_reason: Controlled Affiliate of a Sanctioned Entity.
-add_supp_info: 芜湖昌圣园林建设有限公司 *508
+add_supp_info: "*553"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
@@ -24,5 +24,6 @@ elig_stat: DEBARRED
 ineligibly_status: Ongoing
 rechk_ind: N
 create_user: WB448470
-create_date: '2021-07-26T00:00:00.000Z'
-create_time: '1900-01-01T12:48:26.000Z'
+create_user_name: Ephraim Sneh Swen
+create_date: '2021-05-28T00:00:00.000Z'
+create_time: '1900-01-01T09:43:10.000Z'
