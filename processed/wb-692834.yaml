@@ -15,15 +15,14 @@ debar_type: O
 debar_from_date: '2018-06-13'
 debar_to_date: '2999-12-31'
 debar_reason: Jan. 2011 Procurement Guidelines, Paras. 1.16(a)(ii) & 1.16(a)(iii)
-add_supp_info: "(Reg. No.: 684)*584"
+add_supp_info: "(formerly known as Kuvasoy Tamir Kurlish LLC) (Reg. No. 200124780)
+  *444"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 ineligibly_status: Ongoing
-register: N
-parent: Y
 rechk_ind: N
-create_user: WB512594
-create_date: '2021-06-29T00:00:00.000Z'
-create_time: '1900-01-01T09:56:58.000Z'
+create_user: WB448470
+create_date: '2022-09-14T00:00:00.000Z'
+create_time: '1900-01-01T13:17:27.000Z'

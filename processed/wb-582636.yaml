@@ -15,7 +15,6 @@ inelig_flg: D
 debar_from_date: '2021-06-14'
 debar_to_date: '2999-12-31'
 debar_reason: 'Cross Debarment: ADB'
-add_supp_info: "(赣州集达建筑工程有限公司)*632"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
@@ -23,6 +22,6 @@ elig_stat: DEBARRED
 ineligibly_status: Permanent
 aml_entr_ind: S
 rechk_ind: N
-create_user: WB583591
-create_date: '2022-10-18T00:00:00.000Z'
-create_time: '1900-01-01T10:54:32.000Z'
+create_user: WB512594
+create_date: '2021-06-14T00:00:00.000Z'
+create_time: '1900-01-01T11:49:13.000Z'

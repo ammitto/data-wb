@@ -14,14 +14,12 @@ inelig_flg: D
 debar_from_date: '2026-03-17'
 debar_to_date: '2027-12-16'
 debar_reason: Collusive Practices
-add_supp_info: "*715"
+add_supp_info: "*714"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
-parent: N
 rechk_ind: N
 create_user: WB598563
-create_user_name: Eric Mateso
 create_date: '2026-03-17T00:00:00.000Z'
-create_time: '1900-01-01T13:39:40.000Z'
+create_time: '1900-01-01T13:37:56.000Z'

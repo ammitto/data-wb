@@ -14,12 +14,11 @@ inelig_flg: X
 debar_from_date: '2021-11-12'
 debar_to_date: '2031-10-26'
 debar_reason: 'Cross Debarment: IDB'
-add_supp_info: "(Reg. No.: So. 0343 KH/2010)"
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: X-DEBARRED
 rechk_ind: N
-create_user: WB512594
-create_date: '2021-09-23T00:00:00.000Z'
-create_time: '1900-01-01T10:17:28.000Z'
+create_user: WB583591
+create_date: '2021-11-12T00:00:00.000Z'
+create_time: '1900-01-01T09:45:14.000Z'

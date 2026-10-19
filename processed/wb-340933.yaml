@@ -15,7 +15,7 @@ debar_type: O
 debar_from_date: '2018-11-29'
 debar_to_date: '2999-12-31'
 debar_reason: Para. 1.22(a)(ii), May 2010 Consultant Guidelines
-add_supp_info: "(路港集团有限公司)*407"
+add_supp_info: "*456"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
@@ -23,5 +23,5 @@ elig_stat: DEBARRED
 ineligibly_status: Ongoing
 rechk_ind: N
 create_user: WB486338
-create_date: '2017-09-15T00:00:00.000Z'
-create_time: '1900-01-01T14:33:05.000Z'
+create_date: '2017-08-17T00:00:00.000Z'
+create_time: '1900-01-01T16:56:21.000Z'

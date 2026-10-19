@@ -26,5 +26,6 @@ aml_entr_ind: S
 parent: N
 rechk_ind: N
 create_user: '9000076125'
+create_user_name: Faisal Adamu
 create_date: '2021-03-30T00:00:00.000Z'
 create_time: '1900-01-01T06:15:14.000Z'

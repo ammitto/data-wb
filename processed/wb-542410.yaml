@@ -16,12 +16,12 @@ debar_type: O
 debar_from_date: '2021-06-08'
 debar_to_date: '2029-06-07'
 debar_reason: Fraudulent & Obstructive Practices
-add_supp_info: "*574"
+add_supp_info: "*580"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 rechk_ind: N
 create_user: WB512594
-create_date: '2020-11-13T00:00:00.000Z'
-create_time: '1900-01-01T09:40:20.000Z'
+create_date: '2021-01-05T00:00:00.000Z'
+create_time: '1900-01-01T11:34:01.000Z'
