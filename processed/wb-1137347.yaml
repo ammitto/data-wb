@@ -1,0 +1,27 @@
+---
+mandt: '300'
+supp_id: 1137347
+supp_name: BRUKE LONIA NIGERIA LIMITED
+supp_type_code: F
+entity_type: organization
+land1: NG
+country_name: Nigeria
+supp_city: IBADAN, OYO STATE
+supp_addr: ALAO AKALA EXPRESSWAY (BESIDE TASKA FILLING STATION, NEW GARAGE)
+legacy_flg: N
+un_supp_flg: N
+inelig_flg: D
+debar_from_date: '2026-10-20'
+debar_to_date: '2030-02-19'
+debar_reason: Fraudulent Practices
+add_supp_info: "(Reg. No: 1320774) *737"
+supp_elig_stat: DEBARRED
+crpd_match: N
+crpd_stat: CLEARED
+elig_stat: DEBARRED
+parent: N
+rechk_ind: N
+create_user: WB598563
+create_user_name: M. Olawale
+create_date: '2026-10-20T00:00:00.000Z'
+create_time: '1900-01-01T14:49:30.000Z'
