@@ -21,6 +21,4 @@ crpd_stat: CLEARED
 elig_stat: X-DEBARRED
 ineligibly_status: Ongoing
 rechk_ind: N
-create_user: WB448470
-create_date: '2016-10-21T00:00:00.000Z'
-create_time: '1900-01-01T12:24:59.000Z'
+create_time: '1900-01-01T00:00:00.000Z'

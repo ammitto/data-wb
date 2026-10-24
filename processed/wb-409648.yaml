@@ -15,7 +15,7 @@ debar_type: O
 debar_from_date: '2019-06-18'
 debar_to_date: '2999-12-31'
 debar_reason: Procurement Guidelines, 1.16(a)(ii)
-add_supp_info: "*487"
+add_supp_info: "(Reg. No: 0101889000)*617"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
@@ -23,5 +23,5 @@ elig_stat: DEBARRED
 ineligibly_status: Ongoing
 rechk_ind: N
 create_user: WB512594
-create_date: '2019-03-13T00:00:00.000Z'
-create_time: '1900-01-01T13:51:38.000Z'
+create_date: '2019-03-22T00:00:00.000Z'
+create_time: '1900-01-01T12:11:31.000Z'

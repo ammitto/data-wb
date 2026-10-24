@@ -14,6 +14,7 @@ inelig_flg: X
 debar_from_date: '2024-08-22'
 debar_to_date: '2027-07-22'
 debar_reason: 'Cross Debarment: ADB'
+add_supp_info: 保定中诚投资管理有限公司
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
@@ -21,4 +22,4 @@ elig_stat: X-DEBARRED
 rechk_ind: N
 create_user: WB630956
 create_date: '2024-08-22T00:00:00.000Z'
-create_time: '1900-01-01T15:55:23.000Z'
+create_time: '1900-01-01T14:30:31.000Z'

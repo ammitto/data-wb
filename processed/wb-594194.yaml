@@ -16,7 +16,7 @@ debar_type: O
 debar_from_date: '2021-07-26'
 debar_to_date: '2999-12-31'
 debar_reason: Controlled Affiliate of a Sanctioned Entity.
-add_supp_info: 新疆驰通市政园林建设工程有限公司 *508
+add_supp_info: 赣州昌运建设工程有限公司 *508
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
@@ -25,4 +25,4 @@ ineligibly_status: Ongoing
 rechk_ind: N
 create_user: WB448470
 create_date: '2021-07-26T00:00:00.000Z'
-create_time: '1900-01-01T12:47:11.000Z'
+create_time: '1900-01-01T12:46:05.000Z'

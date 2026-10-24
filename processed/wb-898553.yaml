@@ -13,15 +13,11 @@ inelig_flg: X
 debar_from_date: '2024-09-24'
 debar_to_date: '2027-01-02'
 debar_reason: 'Cross Debarment: IDB'
-add_supp_info: "(BUT ONLY FOR ITS BUSINESS OPERATIONS IN THE WATER AND SANITATION
-  SECTOR)"
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: X-DEBARRED
-parent: N
 rechk_ind: N
 create_user: WB630956
-create_user_name: Nomena Sariaka RANDRIANIAINA
-create_date: '2024-09-24T00:00:00.000Z'
-create_time: '1900-01-01T11:59:17.000Z'
+create_date: '2024-09-16T00:00:00.000Z'
+create_time: '1900-01-01T12:48:17.000Z'

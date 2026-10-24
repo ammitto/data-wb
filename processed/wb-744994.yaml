@@ -15,12 +15,12 @@ inelig_flg: D
 debar_from_date: '2024-01-17'
 debar_to_date: '2031-01-16'
 debar_reason: Collusive and Fraudulent Practices
-add_supp_info: "*645"
+add_supp_info: "*651"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 rechk_ind: N
-create_user: WB598563
-create_date: '2023-04-20T00:00:00.000Z'
-create_time: '1900-01-01T14:22:20.000Z'
+create_user: WB583591
+create_date: '2023-05-23T00:00:00.000Z'
+create_time: '1900-01-01T15:45:23.000Z'

@@ -14,7 +14,7 @@ inelig_flg: X
 debar_from_date: '2024-08-22'
 debar_to_date: '2027-07-22'
 debar_reason: 'Cross Debarment: ADB'
-add_supp_info: 亳州启航交通建设有限公司
+add_supp_info: 海阳市隆海汽车创新园发展有限公司
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
@@ -22,4 +22,4 @@ elig_stat: X-DEBARRED
 rechk_ind: N
 create_user: WB630956
 create_date: '2024-08-22T00:00:00.000Z'
-create_time: '1900-01-01T13:27:06.000Z'
+create_time: '1900-01-01T13:23:27.000Z'
