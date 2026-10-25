@@ -16,7 +16,6 @@ debar_type: O
 debar_from_date: '2016-11-15'
 debar_to_date: '2999-12-31'
 debar_reason: 'Cross-Debarment: ADB'
-add_supp_info: "(AKA M/S SUNAULA KHIMTI)"
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
@@ -24,5 +23,5 @@ elig_stat: X-DEBARRED
 ineligibly_status: Ongoing
 rechk_ind: N
 create_user: WB448470
-create_date: '2016-10-21T00:00:00.000Z'
-create_time: '1900-01-01T12:23:49.000Z'
+create_date: '2016-02-12T00:00:00.000Z'
+create_time: '1900-01-01T11:27:32.000Z'

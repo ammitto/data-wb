@@ -15,13 +15,15 @@ debar_type: O
 debar_from_date: '2019-07-08'
 debar_to_date: '2999-12-31'
 debar_reason: Controlled Affiliate of a Sanctioned Individual
-add_supp_info: "(Reg. No. 0086276)*657"
+add_supp_info: "*660"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 ineligibly_status: Ongoing
+register: N
+parent: N
 rechk_ind: N
-create_user: WB195140
-create_date: '2015-02-27T00:00:00.000Z'
-create_time: '1900-01-01T01:43:46.000Z'
+create_user: WB583591
+create_date: '2024-04-09T00:00:00.000Z'
+create_time: '1900-01-01T14:01:31.000Z'

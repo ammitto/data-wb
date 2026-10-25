@@ -14,12 +14,13 @@ inelig_flg: D
 debar_from_date: '2024-09-22'
 debar_to_date: '2027-06-21'
 debar_reason: Corrupt Practices
-add_supp_info: "*673"
+add_supp_info: "*671"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
+parent: N
 rechk_ind: N
-create_user: WB598563
-create_date: '2024-09-24T00:00:00.000Z'
-create_time: '1900-01-01T13:55:04.000Z'
+create_user: '9000067699'
+create_date: '2021-08-04T00:00:00.000Z'
+create_time: '1900-01-01T06:01:42.000Z'

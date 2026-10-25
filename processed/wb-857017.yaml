@@ -14,15 +14,12 @@ inelig_flg: D
 debar_from_date: '2024-05-07'
 debar_to_date: '2026-11-06'
 debar_reason: Controlled Affiliate of a Sanctioned Entity
-add_supp_info: "*669"
+add_supp_info: "(TIN No. 304332224) *489"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
-register_id: '47145'
-parent: N
 rechk_ind: N
-create_user: '9000072231'
-create_user_name: Muhammad Rafiq Aminzoy
-create_date: '2020-01-22T00:00:00.000Z'
-create_time: '1900-01-01T00:53:23.000Z'
+create_user: WB448470
+create_date: '2024-04-19T00:00:00.000Z'
+create_time: '1900-01-01T13:36:25.000Z'

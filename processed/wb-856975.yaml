@@ -14,14 +14,14 @@ inelig_flg: D
 debar_from_date: '2024-05-07'
 debar_to_date: '2026-11-06'
 debar_reason: Corrupt Practice
-add_supp_info: "*668"
+add_supp_info: "*669"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
+register_id: '47145'
 parent: N
 rechk_ind: N
-create_user: WB598563
-create_user_name: ANDI BATARA TOJA
-create_date: '2024-07-09T00:00:00.000Z'
-create_time: '1900-01-01T12:23:00.000Z'
+create_user: '9000072231'
+create_date: '2020-01-22T00:00:00.000Z'
+create_time: '1900-01-01T00:53:23.000Z'

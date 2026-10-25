@@ -15,13 +15,12 @@ inelig_flg: D
 debar_from_date: '2024-01-17'
 debar_to_date: '2031-01-16'
 debar_reason: Collusive and Fraudulent Practices
-add_supp_info: "(also doing business as PT. Suburo Jayana Indah Corp.) (Reg. No. 09.04.1.46.28307)
-  *502"
+add_supp_info: "*646"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 rechk_ind: N
-create_user: WB448470
-create_date: '2023-06-12T00:00:00.000Z'
-create_time: '1900-01-01T10:23:51.000Z'
+create_user: WB598563
+create_date: '2023-04-20T00:00:00.000Z'
+create_time: '1900-01-01T14:25:52.000Z'

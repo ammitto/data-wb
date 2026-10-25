@@ -15,15 +15,13 @@ debar_type: O
 debar_from_date: '2020-04-13'
 debar_to_date: '2999-12-31'
 debar_reason: Terms of Negotiated Resolution Agreement
-add_supp_info: "(Previously known as A2Z Maintenance & Engineering Services Limited)*553"
+add_supp_info: "*528"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 ineligibly_status: Ongoing
-register: N
-parent: N
 rechk_ind: N
-create_user: '9000061516'
-create_date: '2017-07-14T00:00:00.000Z'
-create_time: '1900-01-01T00:57:46.000Z'
+create_user: WB261225
+create_date: '2020-02-24T00:00:00.000Z'
+create_time: '1900-01-01T15:16:20.000Z'

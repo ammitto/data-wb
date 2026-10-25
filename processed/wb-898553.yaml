@@ -13,11 +13,13 @@ inelig_flg: X
 debar_from_date: '2024-09-24'
 debar_to_date: '2027-01-02'
 debar_reason: 'Cross Debarment: IDB'
+add_supp_info: 河北建设集团股份有限公司第七分公司
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: X-DEBARRED
 rechk_ind: N
 create_user: WB630956
-create_date: '2024-09-16T00:00:00.000Z'
-create_time: '1900-01-01T12:48:17.000Z'
+create_user_name: Nomena Sariaka RANDRIANIAINA
+create_date: '2024-08-22T00:00:00.000Z'
+create_time: '1900-01-01T15:24:03.000Z'

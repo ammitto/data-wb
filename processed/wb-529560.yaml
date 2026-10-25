@@ -15,6 +15,7 @@ debar_type: O
 debar_from_date: '2021-02-17'
 debar_to_date: '2999-12-31'
 debar_reason: Fraudulent Practice;  Controlled Affiliate of a Sanctioned Entity.
+add_supp_info: "*566, 576"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
@@ -22,5 +23,5 @@ elig_stat: DEBARRED
 ineligibly_status: Ongoing
 rechk_ind: N
 create_user: WB512594
-create_date: '2020-12-16T00:00:00.000Z'
-create_time: '1900-01-01T10:44:06.000Z'
+create_date: '2020-11-13T00:00:00.000Z'
+create_time: '1900-01-01T10:01:53.000Z'

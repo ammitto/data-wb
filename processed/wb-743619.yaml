@@ -14,12 +14,11 @@ inelig_flg: X
 debar_from_date: '2023-04-14'
 debar_to_date: '2026-11-22'
 debar_reason: 'Cross Debarment: ADB'
-add_supp_info: "(f.k.a [Shaanxi Neoplan Trading Co., Ltd.])"
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: X-DEBARRED
 rechk_ind: N
 create_user: WB598563
-create_date: '2023-04-14T00:00:00.000Z'
-create_time: '1900-01-01T10:24:18.000Z'
+create_date: '2023-05-10T00:00:00.000Z'
+create_time: '1900-01-01T10:58:54.000Z'

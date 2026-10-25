@@ -15,15 +15,13 @@ debar_type: O
 debar_from_date: '2024-09-24'
 debar_to_date: '2999-12-31'
 debar_reason: Collusive Practice
-add_supp_info: "*724"
+add_supp_info: "*664"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 ineligibly_status: Ongoing
-parent: N
 rechk_ind: N
-create_user: '9000122011'
-create_user_name: Muhammed Mehedi Hassan
-create_date: '2023-05-25T00:00:00.000Z'
-create_time: '1900-01-01T00:48:10.000Z'
+create_user: WB598563
+create_date: '2024-06-20T00:00:00.000Z'
+create_time: '1900-01-01T12:09:31.000Z'

@@ -14,7 +14,7 @@ inelig_flg: X
 debar_from_date: '2021-10-18'
 debar_to_date: '2999-12-31'
 debar_reason: 'Cross Debarment: AfDB'
-add_supp_info: 河北建设集团股份有限公司库车分公司
+add_supp_info: 河北中儒软件科技股份有限公司
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
@@ -23,4 +23,4 @@ ineligibly_status: Permanent
 rechk_ind: N
 create_user: WB630956
 create_date: '2024-08-22T00:00:00.000Z'
-create_time: '1900-01-01T15:59:59.000Z'
+create_time: '1900-01-01T14:29:06.000Z'

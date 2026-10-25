@@ -17,13 +17,13 @@ debar_type: O
 debar_from_date: '2021-11-29'
 debar_to_date: '2027-11-28'
 debar_reason: Fraudulent and Obstructive Practices
-add_supp_info: "*589"
+add_supp_info: "*557"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
-parent: N
 rechk_ind: N
-create_user: '9000071999'
-create_date: '2020-05-23T00:00:00.000Z'
-create_time: '1900-01-01T10:17:12.000Z'
+create_user: WB512594
+create_user_name: Maria Giorgi
+create_date: '2020-05-19T00:00:00.000Z'
+create_time: '1900-01-01T11:08:12.000Z'
