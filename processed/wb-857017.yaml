@@ -14,12 +14,12 @@ inelig_flg: D
 debar_from_date: '2024-05-07'
 debar_to_date: '2026-11-06'
 debar_reason: Controlled Affiliate of a Sanctioned Entity
-add_supp_info: "(TIN No. 304332224) *489"
+add_supp_info: "(MUE Group) *662"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 rechk_ind: N
-create_user: WB448470
-create_date: '2024-04-19T00:00:00.000Z'
-create_time: '1900-01-01T13:36:25.000Z'
+create_user: WB598563
+create_date: '2024-05-07T00:00:00.000Z'
+create_time: '1900-01-01T13:35:11.000Z'

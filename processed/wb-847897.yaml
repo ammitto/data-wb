@@ -14,12 +14,12 @@ inelig_flg: D
 debar_from_date: '2024-04-09'
 debar_to_date: '2027-11-08'
 debar_reason: Fraudulent Practices
-add_supp_info: "(TIN No. 302163491) *489"
+add_supp_info: "*659"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 rechk_ind: N
-create_user: WB448470
-create_date: '2024-04-19T00:00:00.000Z'
-create_time: '1900-01-01T13:43:39.000Z'
+create_user: WB583591
+create_date: '2024-04-09T00:00:00.000Z'
+create_time: '1900-01-01T09:54:09.000Z'

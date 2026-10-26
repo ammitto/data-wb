@@ -14,12 +14,12 @@ inelig_flg: D
 debar_from_date: '2025-03-18'
 debar_to_date: '2027-03-17'
 debar_reason: Controlled Affiliate of a Sanctioned Individual
-add_supp_info: "*677"
+add_supp_info: "*686"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 rechk_ind: N
 create_user: WB630956
-create_date: '2024-09-03T00:00:00.000Z'
-create_time: '1900-01-01T11:13:34.000Z'
+create_date: '2025-03-18T00:00:00.000Z'
+create_time: '1900-01-01T13:39:26.000Z'

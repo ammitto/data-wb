@@ -16,7 +16,7 @@ debar_type: O
 debar_from_date: '2025-04-15'
 debar_to_date: '2999-12-31'
 debar_reason: Fraudulent Practice
-add_supp_info: "*684"
+add_supp_info: "*688"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
@@ -24,5 +24,5 @@ elig_stat: DEBARRED
 ineligibly_status: Ongoing
 rechk_ind: N
 create_user: WB598563
-create_date: '2025-02-25T00:00:00.000Z'
-create_time: '1900-01-01T12:12:22.000Z'
+create_date: '2025-04-15T00:00:00.000Z'
+create_time: '1900-01-01T13:10:56.000Z'

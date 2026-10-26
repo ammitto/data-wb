@@ -14,12 +14,11 @@ inelig_flg: D
 debar_from_date: '2016-11-14'
 debar_to_date: '2027-09-19'
 debar_reason: 'Cross-Debarment: IDB'
-add_supp_info: "*356"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 rechk_ind: N
-create_user: WB486338
-create_date: '2016-10-19T00:00:00.000Z'
-create_time: '1900-01-01T16:54:19.000Z'
+create_user: WB261225
+create_date: '2016-11-14T00:00:00.000Z'
+create_time: '1900-01-01T12:54:16.000Z'

@@ -14,12 +14,12 @@ inelig_flg: D
 debar_from_date: '2022-10-04'
 debar_to_date: '2031-10-03'
 debar_reason: Fraudulent and Corrupt Practices
-add_supp_info: "*618"
+add_supp_info: "*619"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 rechk_ind: N
 create_user: WB583591
-create_date: '2022-05-13T00:00:00.000Z'
-create_time: '1900-01-01T11:46:36.000Z'
+create_date: '2022-06-28T00:00:00.000Z'
+create_time: '1900-01-01T12:23:00.000Z'

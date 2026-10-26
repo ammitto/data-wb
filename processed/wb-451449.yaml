@@ -17,12 +17,12 @@ debar_type: O
 debar_from_date: '2019-11-22'
 debar_to_date: '2028-10-23'
 debar_reason: Controlled Affiliate of a Sanctioned Entity.
-add_supp_info: "*294 ECOGRAPH LLC"
+add_supp_info: "(Reg. No.: 603 348 463)*475"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 rechk_ind: N
-create_user: WB422515
-create_date: '2020-02-07T00:00:00.000Z'
-create_time: '1900-01-01T15:26:38.000Z'
+create_user: WB512594
+create_date: '2019-11-22T00:00:00.000Z'
+create_time: '1900-01-01T16:35:42.000Z'

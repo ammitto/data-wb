@@ -14,13 +14,15 @@ inelig_flg: D
 debar_from_date: '2025-01-15'
 debar_to_date: '2027-07-14'
 debar_reason: Fraudulent and Collusive Practices
-add_supp_info: "*682"
+add_supp_info: "*681"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
+register_id: '1278137'
+parent: N
 rechk_ind: N
-create_user: WB630956
+create_user: '9000082371'
 create_user_name: Abubakar Yusuf
-create_date: '2025-01-15T00:00:00.000Z'
-create_time: '1900-01-01T15:04:12.000Z'
+create_date: '2018-11-09T00:00:00.000Z'
+create_time: '1900-01-01T07:46:15.000Z'

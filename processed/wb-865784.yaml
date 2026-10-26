@@ -17,14 +17,16 @@ debar_type: O
 debar_from_date: '2024-09-19'
 debar_to_date: '2999-12-31'
 debar_reason: Fraudulent Practices
-add_supp_info: "(MUE Group) *662"
+add_supp_info: "*669"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 ineligibly_status: Ongoing
+register_id: '47145'
+parent: N
 rechk_ind: N
-create_user: WB598563
+create_user: '9000072231'
 create_user_name: Muhammad Rafiq Aminzoy
-create_date: '2024-05-07T00:00:00.000Z'
-create_time: '1900-01-01T13:35:11.000Z'
+create_date: '2020-01-22T00:00:00.000Z'
+create_time: '1900-01-01T00:53:23.000Z'

@@ -14,12 +14,12 @@ inelig_flg: D
 debar_from_date: '2025-07-07'
 debar_to_date: '2027-01-06'
 debar_reason: Controlled Affiliate of a Sanctioned Entity.
-add_supp_info: "*699"
+add_supp_info: "(Reg. No: CA/BG/2023B1409) *697"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 rechk_ind: N
 create_user: WB598563
-create_date: '2025-06-18T00:00:00.000Z'
-create_time: '1900-01-01T12:53:48.000Z'
+create_date: '2025-07-07T00:00:00.000Z'
+create_time: '1900-01-01T13:29:23.000Z'

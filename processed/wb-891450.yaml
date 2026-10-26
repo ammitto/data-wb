@@ -15,12 +15,12 @@ inelig_flg: D
 debar_from_date: '2024-12-10'
 debar_to_date: '2026-12-09'
 debar_reason: Fraudulent Practices
-add_supp_info: "*673"
+add_supp_info: "*679"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 rechk_ind: N
-create_user: WB598563
-create_date: '2024-09-24T00:00:00.000Z'
-create_time: '1900-01-01T13:55:04.000Z'
+create_user: WB630956
+create_date: '2024-09-03T00:00:00.000Z'
+create_time: '1900-01-01T11:04:21.000Z'

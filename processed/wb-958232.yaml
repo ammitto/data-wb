@@ -14,7 +14,7 @@ inelig_flg: D
 debar_from_date: '2025-03-18'
 debar_to_date: '2027-03-17'
 debar_reason: Collusive, Fraudulent and Corrupt Practices
-add_supp_info: "*687"
+add_supp_info: "*686"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
@@ -22,4 +22,4 @@ elig_stat: DEBARRED
 rechk_ind: N
 create_user: WB630956
 create_date: '2025-03-18T00:00:00.000Z'
-create_time: '1900-01-01T13:01:00.000Z'
+create_time: '1900-01-01T12:59:29.000Z'
