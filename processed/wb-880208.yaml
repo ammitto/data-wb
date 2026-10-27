@@ -14,7 +14,6 @@ inelig_flg: X
 debar_from_date: '2019-10-04'
 debar_to_date: '2999-12-31'
 debar_reason: 'Cross Debarment: ADB'
-add_supp_info: "(梁晓晓)"
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
@@ -22,5 +21,5 @@ elig_stat: X-DEBARRED
 ineligibly_status: Permanent
 rechk_ind: N
 create_user: WB598563
-create_date: '2024-07-26T00:00:00.000Z'
-create_time: '1900-01-01T11:29:23.000Z'
+create_date: '2024-06-28T00:00:00.000Z'
+create_time: '1900-01-01T15:58:39.000Z'

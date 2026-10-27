@@ -15,15 +15,13 @@ debar_type: O
 debar_from_date: '2019-06-07'
 debar_to_date: '2999-12-31'
 debar_reason: Procurement Guidelines, 1.16(a)(ii)
-add_supp_info: "*484"
+add_supp_info: "(温州路港交通设备有限公司)*457"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 ineligibly_status: Ongoing
-parent: N
 rechk_ind: N
-create_user: '9000061209'
-create_user_name: Anthony Moire
-create_date: '2020-05-30T00:00:00.000Z'
-create_time: '1900-01-01T11:16:43.000Z'
+create_user: WB512594
+create_date: '2018-11-28T00:00:00.000Z'
+create_time: '1900-01-01T17:51:14.000Z'
