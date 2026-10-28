@@ -15,15 +15,16 @@ debar_type: O
 debar_from_date: '2022-09-26'
 debar_to_date: '2999-12-31'
 debar_reason: Controlled Affiliate of a Sanctioned Entity
-add_supp_info: "*484"
+add_supp_info: "(Reg. No: 0102133351)*617"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 ineligibly_status: Ongoing
+register_id: '0102133351'
 parent: N
 rechk_ind: N
-create_user: '9000061209'
-create_user_name: Anthony Moire
-create_date: '2020-05-30T00:00:00.000Z'
-create_time: '1900-01-01T11:16:43.000Z'
+create_user: '9000060495'
+create_user_name: Ho Quang Phuc
+create_date: '2021-08-03T00:00:00.000Z'
+create_time: '1900-01-01T01:06:44.000Z'
