@@ -15,12 +15,12 @@ inelig_flg: X
 debar_from_date: '2025-11-18'
 debar_to_date: '2028-10-24'
 debar_reason: 'Cross Debarment: AFDB'
-add_supp_info: also known as Hangzhou Fuchuan Electric Power Equipment Co., Ltd
+add_supp_info: 四川一土园林绿化工程有限公司
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: X-DEBARRED
 rechk_ind: N
 create_user: WB630956
-create_date: '2025-11-18T00:00:00.000Z'
-create_time: '1900-01-01T10:35:36.000Z'
+create_date: '2025-08-19T00:00:00.000Z'
+create_time: '1900-01-01T11:35:26.000Z'
