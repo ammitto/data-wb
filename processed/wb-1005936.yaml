@@ -15,12 +15,12 @@ debar_type: O
 debar_from_date: '2025-12-05'
 debar_to_date: '2027-09-04'
 debar_reason: Fraudulent Practice
-add_supp_info: "*708"
+add_supp_info: "*705"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 rechk_ind: N
-create_user: WB630956
-create_date: '2025-10-09T00:00:00.000Z'
-create_time: '1900-01-01T16:03:59.000Z'
+create_user: WB598563
+create_date: '2025-08-20T00:00:00.000Z'
+create_time: '1900-01-01T12:01:53.000Z'

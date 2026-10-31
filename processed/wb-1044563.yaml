@@ -16,7 +16,7 @@ inelig_flg: D
 debar_from_date: '2025-12-10'
 debar_to_date: '2026-12-09'
 debar_reason: Controlled Affiliate of a Sanctioned Entity.
-add_supp_info: "(Reg. No: 789000U5ZPOF3VG1G923) *706"
+add_supp_info: "(Reg. No: FTN 95-2422044) *706"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
@@ -24,4 +24,4 @@ elig_stat: DEBARRED
 rechk_ind: N
 create_user: WB598563
 create_date: '2025-12-10T00:00:00.000Z'
-create_time: '1900-01-01T13:03:27.000Z'
+create_time: '1900-01-01T13:04:33.000Z'

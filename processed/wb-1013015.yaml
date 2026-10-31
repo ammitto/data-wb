@@ -14,12 +14,15 @@ inelig_flg: D
 debar_from_date: '2026-04-09'
 debar_to_date: '2027-04-08'
 debar_reason: Obstructive Practice
-add_supp_info: "(Reg. No: 60771805) *720"
+add_supp_info: "*718"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
+register_id: XXXX
+parent: N
 rechk_ind: N
-create_user: WB598563
-create_date: '2026-05-26T00:00:00.000Z'
-create_time: '1900-01-01T18:03:13.000Z'
+create_user: '9000106179'
+create_user_name: Leonce KOINGBO
+create_date: '2022-09-20T00:00:00.000Z'
+create_time: '1900-01-01T09:52:10.000Z'

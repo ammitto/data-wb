@@ -14,14 +14,12 @@ inelig_flg: D
 debar_from_date: '2026-03-04'
 debar_to_date: '2027-09-03'
 debar_reason: Obstructive Practice
-add_supp_info: "*709"
+add_supp_info: "*708"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
-parent: N
 rechk_ind: N
-create_user: '9000149199'
-create_user_name: Gerson Paghid Jr
-create_date: '2025-02-10T00:00:00.000Z'
-create_time: '1900-01-01T02:17:31.000Z'
+create_user: WB630956
+create_date: '2025-10-09T00:00:00.000Z'
+create_time: '1900-01-01T16:03:59.000Z'
