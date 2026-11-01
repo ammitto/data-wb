@@ -15,12 +15,14 @@ debar_type: O
 debar_from_date: '2026-06-08'
 debar_to_date: '2031-06-07'
 debar_reason: Fraudulent and Obstructive Practices
-add_supp_info: "*722"
+add_supp_info: "*733"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
+parent: N
 rechk_ind: N
-create_user: WB630956
-create_date: '2025-07-31T00:00:00.000Z'
-create_time: '1900-01-01T13:13:31.000Z'
+create_user: '9000101221'
+create_user_name: MD. SAMSUL AREFIN
+create_date: '2020-07-13T00:00:00.000Z'
+create_time: '1900-01-01T00:18:14.000Z'

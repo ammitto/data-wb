@@ -15,13 +15,16 @@ debar_type: O
 debar_from_date: '2021-05-28'
 debar_to_date: '2999-12-31'
 debar_reason: Controlled Affiliate of a Sanctioned Entity.
-add_supp_info: "*553"
+add_supp_info: "(Reg. No.: 684)*584"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 ineligibly_status: Ongoing
+register: N
+parent: Y
 rechk_ind: N
-create_user: WB448470
-create_date: '2021-05-28T00:00:00.000Z'
-create_time: '1900-01-01T09:41:41.000Z'
+create_user: WB512594
+create_user_name: Ephraim Sneh Swen
+create_date: '2021-06-29T00:00:00.000Z'
+create_time: '1900-01-01T09:56:58.000Z'
