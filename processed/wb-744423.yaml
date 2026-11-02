@@ -14,12 +14,12 @@ inelig_flg: D
 debar_from_date: '2023-10-17'
 debar_to_date: '2027-03-16'
 debar_reason: Fraudulent and Obstructive Practices
-add_supp_info: "(f.k.a HanoiTC Equipment Joint Stock Company)*641"
+add_supp_info: "*646"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 rechk_ind: N
-create_user: WB583591
-create_date: '2023-04-18T00:00:00.000Z'
-create_time: '1900-01-01T11:58:09.000Z'
+create_user: WB598563
+create_date: '2023-04-20T00:00:00.000Z'
+create_time: '1900-01-01T14:25:52.000Z'

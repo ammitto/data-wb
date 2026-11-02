@@ -18,10 +18,7 @@ supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: X-DEBARRED
-register_id: 459709-2
-parent: N
 rechk_ind: N
 create_user: WB630956
-create_user_name: Abdulrahman Muataz Ahmed
-create_date: '2025-11-18T00:00:00.000Z'
-create_time: '1900-01-01T10:40:03.000Z'
+create_date: '2025-11-05T00:00:00.000Z'
+create_time: '1900-01-01T13:28:48.000Z'

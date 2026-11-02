@@ -14,11 +14,10 @@ inelig_flg: X
 debar_from_date: '2022-05-20'
 debar_to_date: '2028-04-18'
 debar_reason: 'Cross Debarment: IDB'
+add_supp_info: "(Registration Number; C-147257)"
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: X-DEBARRED
 rechk_ind: N
-create_user: WB583591
-create_date: '2022-05-20T00:00:00.000Z'
-create_time: '1900-01-01T09:14:38.000Z'
+create_time: '1900-01-01T00:00:00.000Z'

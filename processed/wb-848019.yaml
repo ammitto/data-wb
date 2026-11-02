@@ -14,15 +14,12 @@ inelig_flg: D
 debar_from_date: '2024-04-09'
 debar_to_date: '2027-04-08'
 debar_reason: Fraudulent Practice
-add_supp_info: "*660"
+add_supp_info: "(TIN No. 303808059) *489"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
-register: N
-parent: N
 rechk_ind: N
-create_user: WB583591
-create_user_name: Clemence Mvonye
-create_date: '2024-04-09T00:00:00.000Z'
-create_time: '1900-01-01T14:01:31.000Z'
+create_user: WB448470
+create_date: '2024-04-19T00:00:00.000Z'
+create_time: '1900-01-01T13:58:11.000Z'

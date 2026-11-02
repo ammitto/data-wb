@@ -15,7 +15,7 @@ debar_type: O
 debar_from_date: '2019-10-07'
 debar_to_date: '2999-12-31'
 debar_reason: Controlled Affiliate of a Sanctioned Entity.
-add_supp_info: "*443"
+add_supp_info: "*477"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
@@ -23,5 +23,5 @@ elig_stat: DEBARRED
 ineligibly_status: Ongoing
 rechk_ind: N
 create_user: WB486338
-create_date: '2018-02-23T00:00:00.000Z'
-create_time: '1900-01-01T15:31:41.000Z'
+create_date: '2018-02-27T00:00:00.000Z'
+create_time: '1900-01-01T13:12:13.000Z'

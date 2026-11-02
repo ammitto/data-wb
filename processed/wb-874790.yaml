@@ -14,13 +14,12 @@ inelig_flg: D
 debar_from_date: '2024-07-09'
 debar_to_date: '2029-12-08'
 debar_reason: Controlled Affiliate of a Sanctioned Entity
-add_supp_info: "*668 Physical Address: Jln. Raya Kedungmundu C28, Semarang, Provinsi
-  Jawa Tengah, Indonesia"
+add_supp_info: "*664"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 rechk_ind: N
 create_user: WB598563
-create_date: '2024-07-09T00:00:00.000Z'
-create_time: '1900-01-01T13:10:05.000Z'
+create_date: '2024-06-20T00:00:00.000Z'
+create_time: '1900-01-01T12:09:31.000Z'
