@@ -20,9 +20,7 @@ crpd_match: N
 crpd_stat: CLEARED
 elig_stat: X-DEBARRED
 ineligibly_status: Ongoing
-register_id: '00018161'
-parent: N
 rechk_ind: N
-create_user: '9000117112'
-create_date: '2023-07-30T00:00:00.000Z'
-create_time: '1900-01-01T06:30:47.000Z'
+create_user: WB583591
+create_date: '2022-06-13T00:00:00.000Z'
+create_time: '1900-01-01T11:21:44.000Z'

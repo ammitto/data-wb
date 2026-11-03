@@ -14,12 +14,12 @@ inelig_flg: D
 debar_from_date: '2025-05-27'
 debar_to_date: '2029-11-26'
 debar_reason: Collusive, Fraudulent, and Corrupt Practices
-add_supp_info: "(Reg. No: 61521) *696"
+add_supp_info: "*693"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 rechk_ind: N
 create_user: WB598563
-create_date: '2025-06-17T00:00:00.000Z'
-create_time: '1900-01-01T12:22:28.000Z'
+create_date: '2025-05-27T00:00:00.000Z'
+create_time: '1900-01-01T11:09:54.000Z'

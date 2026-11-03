@@ -16,13 +16,16 @@ debar_type: O
 debar_from_date: '2020-11-30'
 debar_to_date: '2999-12-31'
 debar_reason: 2016 Procurement Regulations, sub-paragraph 2.2 a(ii) of Annex IV
-add_supp_info: "*320"
+add_supp_info: "*555"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 ineligibly_status: Ongoing
+register_id: SL023412
+parent: N
 rechk_ind: N
-create_user: WB22031
-create_date: '2020-08-18T00:00:00.000Z'
-create_time: '1900-01-01T13:32:07.000Z'
+create_user: WB554823
+create_user_name: Doniyor Mukhitdinov
+create_date: '2020-02-14T00:00:00.000Z'
+create_time: '1900-01-01T14:48:46.000Z'

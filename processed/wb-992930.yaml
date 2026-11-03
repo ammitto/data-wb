@@ -14,15 +14,13 @@ inelig_flg: D
 debar_from_date: '2025-07-07'
 debar_to_date: '2027-01-06'
 debar_reason: Fraudulent Practice
-add_supp_info: "(also doing business as Pars Tableau General Contracting) (Reg. No:
-  45907) *696"
+add_supp_info: "(Reg. No: 17233846) *697"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 parent: N
 rechk_ind: N
-create_user: '9000079443'
-create_user_name: Mohammad Ajmal Yousufzai
-create_date: '2019-10-31T00:00:00.000Z'
-create_time: '1900-01-01T04:50:04.000Z'
+create_user: WB598563
+create_date: '2025-07-07T00:00:00.000Z'
+create_time: '1900-01-01T13:22:02.000Z'

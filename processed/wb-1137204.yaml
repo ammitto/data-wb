@@ -14,12 +14,12 @@ inelig_flg: D
 debar_from_date: '2026-10-20'
 debar_to_date: '2031-02-19'
 debar_reason: Corrupt and Fraudulent Practices
-add_supp_info: "(Reg No: 17161(13)/87) *740"
+add_supp_info: "(Reg. No: 55755) *734"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 rechk_ind: N
 create_user: WB598563
-create_date: '2026-10-27T00:00:00.000Z'
-create_time: '1900-01-01T10:21:44.000Z'
+create_date: '2026-10-20T00:00:00.000Z'
+create_time: '1900-01-01T14:03:01.000Z'

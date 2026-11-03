@@ -15,12 +15,13 @@ debar_type: O
 debar_from_date: '2019-09-25'
 debar_to_date: '2999-12-31'
 debar_reason: 'Cross Debarment: ADB'
+add_supp_info: "(河南乾坤路桥工程有限公司)"
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: X-DEBARRED
 ineligibly_status: Ongoing
 rechk_ind: N
-create_user: WB554823
-create_date: '2020-01-21T00:00:00.000Z'
-create_time: '1900-01-01T17:14:25.000Z'
+create_user: WB512594
+create_date: '2019-09-25T00:00:00.000Z'
+create_time: '1900-01-01T13:18:36.000Z'

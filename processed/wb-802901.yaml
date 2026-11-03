@@ -15,14 +15,14 @@ debar_type: O
 debar_from_date: '2024-03-12'
 debar_to_date: '2999-12-31'
 debar_reason: Corrupt Practice
-add_supp_info: "*644"
+add_supp_info: "*653"
 supp_elig_stat: DEBARRED
-crpd_match: N
+crpd_match: Y
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 ineligibly_status: Ongoing
 aml_entr_ind: S
 rechk_ind: N
-create_user: WB598563
-create_date: '2023-12-05T00:00:00.000Z'
-create_time: '1900-01-01T14:08:03.000Z'
+create_user: WB583591
+create_date: '2023-11-09T00:00:00.000Z'
+create_time: '1900-01-01T11:57:16.000Z'

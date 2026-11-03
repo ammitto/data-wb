@@ -14,14 +14,12 @@ inelig_flg: D
 debar_from_date: '2024-05-13'
 debar_to_date: '2027-01-12'
 debar_reason: Fraudulent Practices
-add_supp_info: "*654"
+add_supp_info: "*663"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
-parent: N
 rechk_ind: N
-create_user: '9000062039'
-create_user_name: Rinah Chikamai
-create_date: '2020-04-01T00:00:00.000Z'
-create_time: '1900-01-01T07:08:50.000Z'
+create_user: WB583591
+create_date: '2023-11-14T00:00:00.000Z'
+create_time: '1900-01-01T10:19:34.000Z'
