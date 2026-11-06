@@ -14,12 +14,11 @@ inelig_flg: X
 debar_from_date: '2022-11-01'
 debar_to_date: '2027-07-13'
 debar_reason: 'Cross Debarment: ADB'
-add_supp_info: "(Reg No. 16-00009045/4516/(F/1))"
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: X-DEBARRED
 rechk_ind: N
 create_user: WB598563
-create_date: '2022-11-01T00:00:00.000Z'
-create_time: '1900-01-01T10:42:53.000Z'
+create_date: '2022-11-08T00:00:00.000Z'
+create_time: '1900-01-01T12:39:33.000Z'

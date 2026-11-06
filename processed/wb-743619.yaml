@@ -11,14 +11,16 @@ supp_addr: ROOM 20101, UNIT 2, BUILDING 2, NO. 59 OF PARK NORTH ROAD XINCHENG DI
 legacy_flg: N
 un_supp_flg: N
 inelig_flg: X
+debar_type: O
 debar_from_date: '2023-04-14'
-debar_to_date: '2026-11-22'
+debar_to_date: '2999-12-31'
 debar_reason: 'Cross Debarment: ADB'
 add_supp_info: "(f.k.a [Shaanxi Neoplan Trading Co., Ltd.])"
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: X-DEBARRED
+ineligibly_status: Ongoing
 rechk_ind: N
 create_user: WB598563
 create_date: '2023-04-14T00:00:00.000Z'

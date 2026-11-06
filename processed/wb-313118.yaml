@@ -15,7 +15,7 @@ debar_type: O
 debar_from_date: '2014-11-04'
 debar_to_date: '2999-12-31'
 debar_reason: Consultant Guidelines, 1.25(a)(i)-(ii)
-add_supp_info: "*234"
+add_supp_info: "*228"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
@@ -24,4 +24,4 @@ ineligibly_status: Ongoing
 rechk_ind: N
 create_user: WB402704
 create_date: '2014-06-26T00:00:00.000Z'
-create_time: '1900-01-01T15:46:05.000Z'
+create_time: '1900-01-01T15:48:00.000Z'
