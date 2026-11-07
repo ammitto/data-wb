@@ -1,9 +1,9 @@
 ---
 source: wb
-count: 1538
-fetched_at: '2026-11-06T14:49:25Z'
+count: 1534
+fetched_at: '2026-11-07T13:46:00Z'
 schema: ammitto:sources:wb:v1
-pruned: 0
+pruned: 4
 files:
 - wb-1000672.yaml
 - wb-1000673.yaml
@@ -1201,9 +1201,6 @@ files:
 - wb-851773.yaml
 - wb-851775.yaml
 - wb-85420.yaml
-- wb-856975.yaml
-- wb-857016.yaml
-- wb-857017.yaml
 - wb-865784.yaml
 - wb-870855.yaml
 - wb-870861.yaml
@@ -1468,7 +1465,6 @@ files:
 - wb-936657.yaml
 - wb-936658.yaml
 - wb-936659.yaml
-- wb-938973.yaml
 - wb-939349.yaml
 - wb-939356.yaml
 - wb-939357.yaml
