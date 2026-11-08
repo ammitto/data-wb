@@ -14,7 +14,8 @@ inelig_flg: D
 debar_from_date: '2020-04-06'
 debar_to_date: '2999-12-31'
 debar_reason: 'Cross Debarment: ADB'
-add_supp_info: "(西安嘉祥汽车服务有限公司)"
+add_supp_info: 'SBD Service (FKA SAO BAC DAU TECHNOLOGY SERVICE JOINT STOCK COMPANY)
+  (Reg. No.: 0305350288) *531'
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
@@ -23,5 +24,5 @@ ineligibly_status: Permanent
 aml_entr_ind: S
 rechk_ind: N
 create_user: WB512594
-create_date: '2020-04-06T00:00:00.000Z'
-create_time: '1900-01-01T12:42:29.000Z'
+create_date: '2020-06-23T00:00:00.000Z'
+create_time: '1900-01-01T11:04:39.000Z'
