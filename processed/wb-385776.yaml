@@ -16,13 +16,13 @@ debar_type: O
 debar_from_date: '2019-01-29'
 debar_to_date: '2999-12-31'
 debar_reason: Consultant Guidelines 1.23(a)(i)
-add_supp_info: "*466"
+add_supp_info: "*463"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 ineligibly_status: Ongoing
 rechk_ind: N
-create_user: WB512594
-create_date: '2018-11-02T00:00:00.000Z'
-create_time: '1900-01-01T14:50:33.000Z'
+create_user: WB486338
+create_date: '2018-10-16T00:00:00.000Z'
+create_time: '1900-01-01T13:16:49.000Z'
