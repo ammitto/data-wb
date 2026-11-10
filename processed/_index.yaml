@@ -1,9 +1,9 @@
 ---
 source: wb
 count: 1533
-fetched_at: '2026-11-09T17:13:06Z'
+fetched_at: '2026-11-10T15:26:35Z'
 schema: ammitto:sources:wb:v1
-pruned: 1
+pruned: 0
 files:
 - wb-1000672.yaml
 - wb-1000673.yaml

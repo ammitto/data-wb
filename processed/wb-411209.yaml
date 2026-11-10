@@ -15,7 +15,7 @@ debar_type: O
 debar_from_date: '2022-09-26'
 debar_to_date: '2999-12-31'
 debar_reason: Controlled Affiliate of a Sanctioned Entity
-add_supp_info: "(VIWASEEN.7) (Reg. No: 0103931748)*617"
+add_supp_info: "(Reg. No: 0106110528)*617"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
@@ -24,4 +24,4 @@ ineligibly_status: Ongoing
 rechk_ind: N
 create_user: WB512594
 create_date: '2019-03-22T00:00:00.000Z'
-create_time: '1900-01-01T12:23:30.000Z'
+create_time: '1900-01-01T12:21:21.000Z'
