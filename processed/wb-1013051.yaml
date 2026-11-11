@@ -14,12 +14,12 @@ inelig_flg: D
 debar_from_date: '2026-04-09'
 debar_to_date: '2027-04-08'
 debar_reason: Obstructive Practice
-add_supp_info: "*722"
+add_supp_info: "*717"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 rechk_ind: N
 create_user: WB630956
-create_date: '2025-07-31T00:00:00.000Z'
-create_time: '1900-01-01T13:12:29.000Z'
+create_date: '2025-09-11T00:00:00.000Z'
+create_time: '1900-01-01T14:42:07.000Z'
