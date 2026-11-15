@@ -15,12 +15,12 @@ inelig_flg: X
 debar_from_date: '2026-03-03'
 debar_to_date: '2029-11-11'
 debar_reason: 'Cross Debarment: EBRD'
-add_supp_info: "*711"
+add_supp_info: ПП "НОВІ СОНЯЧНІ ТЕХНОЛОГІЇ"
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: X-DEBARRED
 rechk_ind: N
 create_user: WB630956
-create_date: '2026-03-03T00:00:00.000Z'
-create_time: '1900-01-01T12:56:06.000Z'
+create_date: '2026-06-12T00:00:00.000Z'
+create_time: '1900-01-01T12:14:48.000Z'
