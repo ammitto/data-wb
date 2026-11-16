@@ -20,10 +20,7 @@ crpd_stat: CLEARED
 elig_stat: X-DEBARRED
 ineligibly_status: Permanent
 aml_entr_ind: S
-register_id: '7'
-parent: N
 rechk_ind: N
 create_user: WB630956
-create_user_name: Jane Florence Nyambura Kimotho
-create_date: '2025-02-17T00:00:00.000Z'
-create_time: '1900-01-01T13:22:19.000Z'
+create_date: '2025-03-24T00:00:00.000Z'
+create_time: '1900-01-01T14:33:42.000Z'

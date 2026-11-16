@@ -27,5 +27,6 @@ register: N
 parent: N
 rechk_ind: N
 create_user: '9000069309'
+create_user_name: LUONG THACH VY
 create_date: '2017-12-01T00:00:00.000Z'
 create_time: '1900-01-01T05:15:43.000Z'
