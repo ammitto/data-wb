@@ -15,13 +15,11 @@ debar_type: O
 debar_from_date: '2014-12-02'
 debar_to_date: '2999-12-31'
 debar_reason: Procurement Guidelines, 1.14(a)(iii)
-add_supp_info: "*383"
+add_supp_info: "*237"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 ineligibly_status: Ongoing
 rechk_ind: N
-create_user: WB486338
-create_date: '2015-09-02T00:00:00.000Z'
-create_time: '1900-01-01T16:13:54.000Z'
+create_time: '1900-01-01T00:00:00.000Z'

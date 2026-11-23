@@ -15,7 +15,7 @@ debar_type: O
 debar_from_date: '2020-04-21'
 debar_to_date: '2999-12-31'
 debar_reason: Corrupt and Fraudulent Practices
-add_supp_info: "*523"
+add_supp_info: "*522"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
@@ -24,4 +24,4 @@ ineligibly_status: Ongoing
 rechk_ind: N
 create_user: WB512594
 create_date: '2020-01-14T00:00:00.000Z'
-create_time: '1900-01-01T11:01:09.000Z'
+create_time: '1900-01-01T10:59:49.000Z'
