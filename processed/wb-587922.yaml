@@ -25,6 +25,5 @@ register: N
 parent: Y
 rechk_ind: N
 create_user: WB512594
-create_user_name: Ephraim Sneh Swen
 create_date: '2021-06-29T00:00:00.000Z'
 create_time: '1900-01-01T09:56:58.000Z'
