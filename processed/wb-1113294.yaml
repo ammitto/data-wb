@@ -14,12 +14,12 @@ debar_type: O
 debar_from_date: '2026-11-12'
 debar_to_date: '2028-11-11'
 debar_reason: Obstructive Practice
-add_supp_info: "*729"
+add_supp_info: "*741"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 rechk_ind: N
 create_user: WB598563
-create_date: '2026-08-04T00:00:00.000Z'
-create_time: '1900-01-01T11:42:10.000Z'
+create_date: '2026-08-06T00:00:00.000Z'
+create_time: '1900-01-01T12:04:56.000Z'

@@ -16,15 +16,17 @@ debar_type: O
 debar_from_date: '2021-08-10'
 debar_to_date: '2999-12-31'
 debar_reason: Collusive Practice
-add_supp_info: "*553"
+add_supp_info: "*585"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 ineligibly_status: Ongoing
 aml_entr_ind: S
+register: N
+parent: N
 rechk_ind: N
-create_user: WB448470
+create_user: '9000069309'
 create_user_name: LUONG THACH VY
-create_date: '2021-03-17T00:00:00.000Z'
-create_time: '1900-01-01T12:54:40.000Z'
+create_date: '2017-12-01T00:00:00.000Z'
+create_time: '1900-01-01T05:15:43.000Z'

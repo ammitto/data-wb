@@ -15,12 +15,12 @@ debar_type: O
 debar_from_date: '2021-04-06'
 debar_to_date: '2027-04-05'
 debar_reason: Fraudulent and Collusive Practices
-add_supp_info: "*570"
+add_supp_info: "*573"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 rechk_ind: N
 create_user: WB512594
-create_date: '2020-11-24T00:00:00.000Z'
-create_time: '1900-01-01T10:44:44.000Z'
+create_date: '2020-12-14T00:00:00.000Z'
+create_time: '1900-01-01T10:16:55.000Z'

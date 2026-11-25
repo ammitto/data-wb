@@ -14,7 +14,6 @@ inelig_flg: D
 debar_from_date: '2020-12-16'
 debar_to_date: '2999-12-31'
 debar_reason: 'Cross Debarment: ADB'
-add_supp_info: "*565"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
@@ -23,5 +22,5 @@ ineligibly_status: Permanent
 aml_entr_ind: S
 rechk_ind: N
 create_user: WB512594
-create_date: '2020-11-13T00:00:00.000Z'
-create_time: '1900-01-01T10:00:49.000Z'
+create_date: '2020-12-16T00:00:00.000Z'
+create_time: '1900-01-01T10:47:22.000Z'

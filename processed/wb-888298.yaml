@@ -15,7 +15,7 @@ inelig_flg: X
 debar_from_date: '2024-08-22'
 debar_to_date: '2027-07-22'
 debar_reason: 'Cross Debarment: ADB'
-add_supp_info: 河北建设集团股份有限公司菏泽分公司
+add_supp_info: 河北建设集团股份有限公司保定莲池分公司
 supp_elig_stat: X-DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
@@ -23,4 +23,4 @@ elig_stat: X-DEBARRED
 rechk_ind: N
 create_user: WB630956
 create_date: '2024-08-22T00:00:00.000Z'
-create_time: '1900-01-01T16:16:38.000Z'
+create_time: '1900-01-01T16:24:24.000Z'
