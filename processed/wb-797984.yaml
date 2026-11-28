@@ -15,13 +15,14 @@ debar_type: O
 debar_from_date: '2024-01-30'
 debar_to_date: '2999-12-31'
 debar_reason: Controlled Affiliate of a Sanctioned Entity
-add_supp_info: "(井陉新交建项目管理有限公司)(91130121MA7HPNK01K)(ID: 91130121MA7HPNK01K)*647"
+add_supp_info: "(新疆交通建设集团股份有限公司, 新疆交建)*647"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
 ineligibly_status: Ongoing
+parent: N
 rechk_ind: N
-create_user: WB583591
-create_date: '2023-10-25T00:00:00.000Z'
-create_time: '1900-01-01T12:13:38.000Z'
+create_user: '9000110824'
+create_date: '2022-01-12T00:00:00.000Z'
+create_time: '1900-01-01T05:10:24.000Z'
