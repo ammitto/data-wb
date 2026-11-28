@@ -13,13 +13,14 @@ un_supp_flg: N
 inelig_flg: D
 debar_type: O
 debar_from_date: '2020-04-21'
-debar_to_date: '2026-11-20'
-debar_reason: Procurement Guidelines, 1.16(a)(ii), (iii)
+debar_to_date: '2999-12-31'
+debar_reason: Corrupt and Fraudulent Practices
 add_supp_info: "*523"
 supp_elig_stat: DEBARRED
 crpd_match: N
 crpd_stat: CLEARED
 elig_stat: DEBARRED
+ineligibly_status: Ongoing
 rechk_ind: N
 create_user: WB512594
 create_date: '2020-01-14T00:00:00.000Z'

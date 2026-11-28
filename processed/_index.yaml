@@ -1,9 +1,9 @@
 ---
 source: wb
-count: 1530
-fetched_at: '2026-11-16T16:48:05Z'
+count: 1544
+fetched_at: '2026-11-28T15:58:55Z'
 schema: ammitto:sources:wb:v1
-pruned: 0
+pruned: 2
 files:
 - wb-1000672.yaml
 - wb-1000673.yaml
@@ -24,8 +24,6 @@ files:
 - wb-1032823.yaml
 - wb-1032824.yaml
 - wb-1037273.yaml
-- wb-1037274.yaml
-- wb-1037275.yaml
 - wb-1043835.yaml
 - wb-1043836.yaml
 - wb-1043837.yaml
@@ -381,6 +379,22 @@ files:
 - wb-1137350.yaml
 - wb-113921.yaml
 - wb-1139347.yaml
+- wb-1147755.yaml
+- wb-1147757.yaml
+- wb-1147758.yaml
+- wb-1147760.yaml
+- wb-1147766.yaml
+- wb-1147771.yaml
+- wb-1147772.yaml
+- wb-1147773.yaml
+- wb-1147774.yaml
+- wb-1147775.yaml
+- wb-1147776.yaml
+- wb-1147777.yaml
+- wb-1147778.yaml
+- wb-1147779.yaml
+- wb-1147780.yaml
+- wb-1147786.yaml
 - wb-116301.yaml
 - wb-118351.yaml
 - wb-118564.yaml
